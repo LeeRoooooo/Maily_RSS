@@ -13,11 +13,11 @@ jobs:
     steps:
     # 1. 저장소 체크아웃
     - name: Check out repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     # 2. 파이썬 환경 설정
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.10'
 
