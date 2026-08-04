@@ -1,124 +1,170 @@
-name: Egloos RSS Auto Update Bot (All-in-One)
+name: Maily RSS Auto Update Bot
 
 # 2시간 간격 정기 순찰 스케줄 설정
 on:
   schedule:
-    - cron: '0 */2 * * *' # 2시간마다 정각에 무인 로봇 비서 가동
-  workflow_dispatch:      # 필요할 때 수동으로 즉시 실행할 수 있는 버튼 활성화
+    - cron: '0 */2 * * *' # 2시간마다 정각에 무인 로봇 가동
+  workflow_dispatch:      # 수동 실행 버튼 활성화
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. 저장소 환경 열기 (깃허브 가상 컴퓨터 인프라 세팅)
+    # 1. 저장소 체크아웃
     - name: Check out repository
       uses: actions/checkout@v4
 
-    # 2. 가상 컴퓨터에 파이썬 기본 환경 설치
+    # 2. 파이썬 환경 설정
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
-    # 3. 크롤링에 필요한 핵심 패키지 설치
-    - name: Install dependencies
+    # 3. Playwright 및 의존성 라이브러리 설치
+    - name: Install dependencies & Playwright
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+        pip install playwright
+        playwright install chromium
 
-    # 4. [핵심] 외부 파일 없이 YAML 내부에서 파이썬 크롤러를 즉석 가동 (인라인 스크립트)
-    - name: Run Inline Egloos Scraper
-      shell: python # 깃허브 가상 컴퓨터에게 아래 텍스트를 파이썬 코드로 인식하라고 명령하는 장치입니다.
+    # 4. Playwright 기반 인라인 파이썬 크롤러 실행
+    - name: Run Inline Maily Scraper
+      shell: python
       run: |
-        import xml.etree.ElementTree as ET
-        from datetime import datetime
-        import requests
-        from bs4 import BeautifulSoup
+        import asyncio
         import re
-        from urllib.parse import quote
-        import urllib3
+        from datetime import datetime
+        from xml.etree import ElementTree as ET
+        from xml.dom import minidom
+        from playwright.async_api import async_playwright
 
-        # SSL 경고 숨기기
-        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        CATEGORIES = [
+            ("AI/Tech", "https://maily.so/app/discover/ai_tech"),
+            ("Marketing", "https://maily.so/app/discover/marketing"),
+            ("Culture", "https://maily.so/app/discover/culture"),
+            ("Career", "https://maily.so/app/discover/career"),
+            ("Money", "https://maily.so/app/discover/money"),
+            ("Lifestyle", "https://maily.so/app/discover/lifestyle"),
+            ("Knowledge", "https://maily.so/app/discover/knowledge"),
+            ("Society", "https://maily.so/app/discover/society"),
+        ]
 
-        target_url = "https://egloos.com/kor"
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-
-        try:
-            response = requests.get(target_url, headers=headers, verify=False, timeout=10)
-            response.raise_for_status()
-        except Exception as e:
-            print(f"웹사이트 연결 실패: {e}")
-            exit(0) # 실패 시 조용히 종료
-
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        # RSS 기본 골격 생성
-        rss = ET.Element("rss", version="2.0")
-        channel = ET.SubElement(rss, "channel")
-        ET.SubElement(channel, "title").text = "이글루스 종합 건강 및 정보 피드"
-        ET.SubElement(channel, "link").text = target_url
-        ET.SubElement(channel, "description").text = "YAML 파일 내부 인라인 스크립트로 2시간마다 자동 갱신되는 피드입니다."
-
-        # 요청하신 실제 HTML 태그 구조 정밀 저격 수집
-        post_items = soup.select("li.Home_post-item__rLMTZ")
-
-        for item_elm in post_items:
+        def parse_korean_date(date_str):
+            if not date_str:
+                return datetime.min, ""
+            numbers = re.findall(r"\d+", date_str)
             try:
-                # 제목 추출
-                title_tag = item_elm.select_one("a.Home_post-item__item-title__o1tdK")
-                if not title_tag:
-                    continue
-                title = title_tag.text.strip()
-
-                # 링크 추출 및 한글 주소 인코딩 조합 수식 적용
-                raw_href = title_tag.get("href", "")
-                encoded_href = quote(raw_href, safe="/")
-                full_link = f"https://egloos.com{encoded_href}"
-
-                # 내용(본문 요약) 추출
-                desc_tag = item_elm.select_one("a.Home_post-item__item-des__QGtuL")
-                description = desc_tag.text.strip() if desc_tag else title
-
-                # 정확한 포스트 업로드 타임스탬프 추출 수식 (작가 프로필 우회)
-                pub_date = datetime.now().strftime("%Y.%m.%d %H:%M:%S")
-                thumb_img_tag = item_elm.select_one("a.Home_post-item__thumbnail__GNI4c img")
-                
-                if thumb_img_tag:
-                    img_src = thumb_img_tag.get("srcset", "") or thumb_img_tag.get("src", "")
-                    time_match = re.search(r'(\d{14})', img_src)
-                    
-                    if time_match:
-                        timestamp_str = time_match.group(1) # 예: "20260518161009"
-                        dt = datetime.strptime(timestamp_str, "%Y%m%d%H%M%S")
-                        pub_date = dt.strftime("%Y.%m.%d %H:%M:%S") # 원하는 포맷으로 고정
-
-                # RSS 아이템으로 규격화
-                rss_item = ET.SubElement(channel, "item")
-                ET.SubElement(rss_item, "title").text = title
-                ET.SubElement(rss_item, "link").text = full_link
-                ET.SubElement(rss_item, "description").text = description
-                ET.SubElement(rss_item, "pubDate").text = pub_date
-
+                if len(numbers) >= 3:
+                    year, month, day = int(numbers[0]), int(numbers[1]), int(numbers[2])
+                    if year < 100:
+                        year += 2000
+                    dt = datetime(year, month, day)
+                    return dt, dt.strftime("%Y.%m.%d")
             except Exception:
-                continue
+                pass
+            return datetime.min, date_str
 
-        # XML 들여쓰기 정렬 및 파일 저장
-        ET.indent(rss, space="  ", level=0)
-        xml_str = ET.tostring(rss, encoding="utf-8", method="xml").decode("utf-8")
-        final_rss = '<?xml version="1.0" encoding="UTF-8" ?>\n' + xml_str
+        async def fetch_all_posts_from_category(page, category_name, url):
+            print(f"🌐 [{category_name}] 접속 중: {url}")
+            posts = []
+            try:
+                await page.goto(url, wait_until="networkidle", timeout=20000)
+                await page.wait_for_selector("a.not-prose", timeout=10000)
+                cards = await page.query_selector_all("a.not-prose")
 
-        with open("egloos_feed.xml", "w", encoding="utf-8") as f:
-            f.write(final_rss)
-        print("인라인 파이썬 크롤링 및 XML 빌드 완료!")
+                for card in cards:
+                    href = await card.get_attribute("href")
+                    post_url = href if href and href.startswith("http") else f"https://maily.so{href}"
 
-    # 5. 갱신된 'egloos_feed.xml' 파일을 저장소에 자동으로 밀어넣고(Push) 로봇 비서 퇴근
+                    # 뉴스레터 이름 추출 (Trendium.ai 등)
+                    publisher_el = await card.query_selector("span.font-medium")
+                    publisher_name = (await publisher_el.inner_text()).strip() if publisher_el else ""
+
+                    # 원본 제목
+                    title_el = await card.query_selector("p.font-bold")
+                    raw_title = (await title_el.inner_text()).strip() if title_el else "제목 없음"
+
+                    # [카테고리][뉴스레터] 제목 조합
+                    if publisher_name:
+                        combined_title = f"[{category_name}][{publisher_name}] {raw_title}"
+                    else:
+                        combined_title = f"[{category_name}] {raw_title}"
+
+                    # 날짜 추출 및 변환
+                    date_el = await card.query_selector("div.text-\\[11px\\] span")
+                    raw_date = (await date_el.inner_text()).strip() if date_el else ""
+                    dt_obj, formatted_pub_date = parse_korean_date(raw_date)
+
+                    # 요약문
+                    summary_el = await card.query_selector("p.text-slate-700")
+                    summary = (await summary_el.inner_text()).strip() if summary_el else ""
+
+                    posts.append({
+                        "category": category_name,
+                        "url": post_url,
+                        "title": combined_title,
+                        "dt_obj": dt_obj,
+                        "pub_date": formatted_pub_date,
+                        "summary": summary,
+                    })
+            except Exception as e:
+                print(f"❌ [{category_name}] 수집 실패: {e}")
+
+            return posts
+
+        def generate_rss_xml(posts):
+            rss = ET.Element("rss", version="2.0")
+            channel = ET.SubElement(rss, "channel")
+
+            ET.SubElement(channel, "title").text = "Maily Timeline RSS"
+            ET.SubElement(channel, "link").text = "https://maily.so/app/discover"
+            ET.SubElement(channel, "description").text = "Maily 8개 카테고리 최신 포스트 통합 피드"
+            ET.SubElement(channel, "language").text = "ko"
+
+            for post in posts:
+                item = ET.SubElement(channel, "item")
+                ET.SubElement(item, "title").text = post["title"]
+                ET.SubElement(item, "link").text = post["url"]
+                ET.SubElement(item, "guid").text = post["url"]
+                ET.SubElement(item, "category").text = post["category"]
+
+                if post["pub_date"]:
+                    ET.SubElement(item, "pubDate").text = post["pub_date"]
+
+                ET.SubElement(item, "description").text = post["summary"]
+
+            xml_str = ET.tostring(rss, encoding="utf-8")
+            parsed_xml = minidom.parseString(xml_str)
+            return parsed_xml.toprettyxml(indent="  ")
+
+        async def main():
+            all_posts = []
+            async with async_playwright() as p:
+                browser = await p.chromium.launch(headless=True)
+                page = await browser.new_page()
+
+                for cat_name, url in CATEGORIES:
+                    cat_posts = await fetch_all_posts_from_category(page, cat_name, url)
+                    all_posts.extend(cat_posts)
+
+                await browser.close()
+
+            # 최신 날짜순 내림차순 정렬
+            all_posts.sort(key=lambda x: x["dt_obj"], reverse=True)
+
+            rss_xml = generate_rss_xml(all_posts)
+            with open("maily_timeline.xml", "w", encoding="utf-8") as f:
+                f.write(rss_xml)
+
+            print(f"✅ 총 {len(all_posts)}개 포스트 수집 및 'maily_timeline.xml' 생성 완료!")
+
+        asyncio.run(main())
+
+    # 5. 생성된 'maily_timeline.xml'을 저장소에 자동 커밋 및 푸시
     - name: Commit and Push Updated RSS
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add egloos_feed.xml
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Automated RSS inline update every 2 hours" && git push)
+        git add maily_timeline.xml
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Maily RSS update every 2 hours" && git push)
