@@ -6,6 +6,14 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][로치의 뉴스레터] AI 가 시험 정답을 훔치려고 해킹까지 한 사건</title>
+      <link>https://maily.so/roach/posts/92zekmlnzep</link>
+      <guid>https://maily.so/roach/posts/92zekmlnzep</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.08.06</pubDate>
+      <description>OpenAI 평가 모델의 샌드박스 탈출과 Hugging Face 침해, 최초의 자율 AI 침해 사고를 정리했습니다. 지난주, AI 업계에서 정말 이상한 사건이 하나 터졌습니다. OpenAI 의 AI 모델이 회사를 '탈출' 해서 다른 회사를 해킹했습니다. 농담이 아...</description>
+    </item>
+    <item>
       <title>[Marketing][뷰티 상세페이지 전문 뷰티해커스] 90억 투자 유치 브랜드, 톤28 상세페이지 완벽 해부</title>
       <link>https://maily.so/brandhackers/posts/8mo56ne1r9p</link>
       <guid>https://maily.so/brandhackers/posts/8mo56ne1r9p</guid>
@@ -124,14 +132,6 @@
       <category>AI/Tech</category>
       <pubDate>2026.08.05</pubDate>
       <description>디지털투데이 테크 뉴스레터 제888호. 구독자님을 위한 디지털투데이 [모빌리티핫이슈] 주간 뉴스레터! 디지털투데이가 발행하는 테크 뉴스레터입니다. 매일 아침 주 5회 ▲월(AI) ▲화(핀테크) ▲수(모빌리티) ▲목</description>
-    </item>
-    <item>
-      <title>[AI/Tech][조쉬의 뉴스레터] 회사를 통째로 사서 AI로 100% 위임 중인 개발자</title>
-      <link>https://maily.so/josh/posts/g0zmly59rql</link>
-      <guid>https://maily.so/josh/posts/g0zmly59rql</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.08.05</pubDate>
-      <description>인수 창업가 김지혁 님의 AI 네이티브 컴퍼니 실험. 개발자 출신 김지혁 님은 지금까지 일곱 개 사업체의 영업권을 인수했고, 최근 처음으로 SaaS를 샀습니다. 아기 타이즈를 파는 커머스에서 시작해 BTS 팬 선물 배송, 무인 아이스</description>
     </item>
     <item>
       <title>[Marketing][달콤쌉쌀] [시즌 02-22] SNS 유명 강의, 돈 값 했을까?</title>
@@ -774,6 +774,13 @@
       <description>당신의 고유성을 발견, 선택을 위한 컨템플레이티브입니다.. 2026. 8. 1 먼슬리레터 안녕하세요, 컨템플레이티브입니다. 8월은 일 년 중 가장 맹렬하고 소란스러운 계절입니다. 숨 막히는 폭염과 거친 빗줄기가 교차하고, 도시는 열기로 들</description>
     </item>
     <item>
+      <title>[AI/Tech][로치의 뉴스레터] AI 가 시험 정답을 훔치려고 해킹까지 한 사건</title>
+      <link>https://maily.so/roach/posts/92zekmlnzep</link>
+      <guid>https://maily.so/roach/posts/92zekmlnzep</guid>
+      <category>AI/Tech</category>
+      <description>OpenAI 평가 모델의 샌드박스 탈출과 Hugging Face 침해, 최초의 자율 AI 침해 사고를 정리했습니다. 지난주, AI 업계에서 정말 이상한 사건이 하나 터졌습니다. OpenAI 의 AI 모델이 회사를 '탈출' 해서 다른 회사를 해킹했습니다. 농담이 아닙니다. 사이버 공...</description>
+    </item>
+    <item>
       <title>[AI/Tech][넥서스알파랩] 🤖 옵티머스·아틀라스가 1등? 판정은 아직입니다</title>
       <link>https://maily.so/nexusalphalab/posts/g0zml3n3rql</link>
       <guid>https://maily.so/nexusalphalab/posts/g0zml3n3rql</guid>
@@ -849,13 +856,6 @@
       <guid>https://maily.so/digitaltoday/posts/8do7230nrgq</guid>
       <category>AI/Tech</category>
       <description>디지털투데이 테크 뉴스레터 제888호. 구독자님을 위한 디지털투데이 [모빌리티핫이슈] 주간 뉴스레터! 디지털투데이가 발행하는 테크 뉴스레터입니다. 매일 아침 주 5회 ▲월(AI) ▲화(핀테크) ▲수(모빌리티) ▲목</description>
-    </item>
-    <item>
-      <title>[AI/Tech][조쉬의 뉴스레터] 회사를 통째로 사서 AI로 100% 위임 중인 개발자</title>
-      <link>https://maily.so/josh/posts/g0zmly59rql</link>
-      <guid>https://maily.so/josh/posts/g0zmly59rql</guid>
-      <category>AI/Tech</category>
-      <description>인수 창업가 김지혁 님의 AI 네이티브 컴퍼니 실험. 개발자 출신 김지혁 님은 지금까지 일곱 개 사업체의 영업권을 인수했고, 최근 처음으로 SaaS를 샀습니다. 아기 타이즈를 파는 커머스에서 시작해 BTS 팬 선물 배송, 무인 아이스</description>
     </item>
     <item>
       <title>[Marketing][뷰티 상세페이지 전문 뷰티해커스] 90억 투자 유치 브랜드, 톤28 상세페이지 완벽 해부</title>
