@@ -6,6 +6,14 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][Product Makers Note] [26호] 기획자를 위한 AI 설계 4부작 ③ Human-in-the-loop — AI가 사람에게 손 드는 순간</title>
+      <link>https://maily.so/makersnote/posts/8mo56592r9p</link>
+      <guid>https://maily.so/makersnote/posts/8mo56592r9p</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.08.12</pubDate>
+      <description>좋은 AI 서비스는 AI를 믿되, 낄 자리는 남겨둡니다.. 최근 AI 개발자들 사이에서 작지만 의미 있는 소식이 하나 있었어요. AI에게 도구를 연결하는 표준인 MCP의 규격 초안에, MRTR(Multi Round-Trip Requests</description>
+    </item>
+    <item>
       <title>[AI/Tech][열두시쿠키] AI도 첫 출근에는 아무것도 몰랐습니다</title>
       <link>https://maily.so/12hcookie/posts/l1zqy5vjr5x</link>
       <guid>https://maily.so/12hcookie/posts/l1zqy5vjr5x</guid>
@@ -118,12 +126,28 @@
       <description>우아한테크코스 뉴스레터 24호 (2026.08.12). 8월, 다들 잘 보내고 계신가요? 바깥의 날씨가 뜨거운 만큼 캠퍼스 곳곳도 팀 프로젝트 이야기로 한창 뜨겁답니다. ☀️ 🌱 들어가며 우아한테크코스(이하 우테코)의 크루들은 미션과</description>
     </item>
     <item>
+      <title>[Culture][Trend A Word] [Trend A Word #604] 피자 = 맛있음. 백설기 = 맛있음. 피자설기 = 맛있음 × 맛있음.</title>
+      <link>https://maily.so/trendaword/posts/mjz6kgqvrwk</link>
+      <guid>https://maily.so/trendaword/posts/mjz6kgqvrwk</guid>
+      <category>Culture</category>
+      <pubDate>2026.08.12</pubDate>
+      <description>26.08.12 (수) '피자설기'. 용례 1. 두쫀쿠, 버터떡 다음은 피자설기. 안 OO 씨 2. 피자도 맛있고, 백설기도 맛있는데 두 개 합친 거? 맛없없. 이 OO 씨</description>
+    </item>
+    <item>
       <title>[Culture][슈톡 ShoeTalk] 👟 [슈톡/ShoeTalk #281] 호카폭행 관련 기자회견, 독일군 스니커즈, 네이버-크림, 마뗑킴 러닝, 크록스, 비즈코, 이지 800, 언더아머, 푸마, 텔레포트</title>
       <link>https://maily.so/shoetalk/posts/mjz6kpynrwk</link>
       <guid>https://maily.so/shoetalk/posts/mjz6kpynrwk</guid>
       <category>Culture</category>
       <pubDate>2026.08.12</pubDate>
       <description>2026.08.05~2026.08.11. 안녕하세요. 구독자님, 국내 최초 스니커즈 테마 뉴스레터 슈톡(ShoeTalk)의 Adi Jang입니다. 일주일 전이랑 날씨가 확연히 달라졌습니다. 이럴수가 있나? 싶네요.</description>
+    </item>
+    <item>
+      <title>[Career][HRer 성장노트] #25 직무기술서는 벌써 낡았을까? 스킬 중심 조직의 가능성과 함정</title>
+      <link>https://maily.so/jidy/posts/8do726kyrgq</link>
+      <guid>https://maily.so/jidy/posts/8do726kyrgq</guid>
+      <category>Career</category>
+      <pubDate>2026.08.12</pubDate>
+      <description>스킬 중심 전환이 직무를 없애는 일이 아닌 이유와 HR이 놓치기 쉬운 세 가지 함정을 살펴봅니다.. 한 HR 회의를 떠올려 봅시다. “앞으로는 직무보다 스킬을 봐야 합니다.” 스킬 사전과 진단 체계 구축 계획이 빠르게 논의됩니다. 그런데 정작 누가 어떤 결과를 책...</description>
     </item>
     <item>
       <title>[Career][비즈쿠키] 변하지 않는 것에 베팅해야 하는 이유</title>
@@ -404,14 +428,6 @@
       <category>AI/Tech</category>
       <pubDate>2026.08.11</pubDate>
       <description>같은 모델을 쓰는데 결과가 갈리는 이유는 프롬프트 기법이 아니었습니다.. &quot;프롬프트 잘 쓰는 사람이 따로 있나요? 어차피 다 같은 모델 쓰는 거잖아요.&quot; 요즘 자주 듣는 말이죠. 실제로 그렇게 보이기도 합니다. LLM이 나온 뒤로 CSS를 못 쓰던 사람</description>
-    </item>
-    <item>
-      <title>[AI/Tech][Trendium.ai] #327: “AI가 AI를 만들기 시작했다” - 구글이 수백조원을 퍼붓는 진짜 이유</title>
-      <link>https://maily.so/trendium.ai/posts/5xrx8x0lo2v</link>
-      <guid>https://maily.so/trendium.ai/posts/5xrx8x0lo2v</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.08.11</pubDate>
-      <description>구독자님, 안녕하세요? AI 트렌드를 전달해드리는 Trendium.ai 입니다. 구글과 빅테크가 수백조원을 AI 인프라에 쏟아붓는 진짜 이유가 AGI를 넘어 AI가 스스로 A</description>
     </item>
     <item>
       <title>[Marketing][Moist Notes] AI 시대의, 두 외딴섬 이야기 l 자립 - 생존</title>
@@ -718,14 +734,6 @@
       <description>직원에게 더 잘 버티라고 말하기 전에 HR이 확인해야 할 업무 요구, 회복 시간과 팀의 조건을 살펴봅니다.. “요즘 다들 지쳐 보여서 회복탄력성 교육을 준비했습니다.” 금요일 오후 직원들은 스트레스를 다루는 법을 배우고 긍정적인 생각을 연습합니다. 교육이 끝나면 ...</description>
     </item>
     <item>
-      <title>[Career][모두의 사수. 남몰레터] 몸값 올리기 시리즈 21 일잘러의 정의</title>
-      <link>https://maily.so/modoosasoo/posts/1do1d110ox6</link>
-      <guid>https://maily.so/modoosasoo/posts/1do1d110ox6</guid>
-      <category>Career</category>
-      <pubDate>2026.08.10</pubDate>
-      <description>&quot;일 잘한다&quot;는 평가를 받으면서도, 동시에 &quot;같이 일하기는 좀 어렵다&quot;는 평가를 받는 사람들이 있습니다.. &quot;일 잘한다&quot;는 평가를 받으면서도, 동시에 &quot;같이 일하기는 좀 어렵다&quot;는 평가를 받는 사람들이 있습니다. 이 두 평가는 서로 모순되어 보입니다. 하지만 실제...</description>
-    </item>
-    <item>
       <title>[Society][기록과 사회] 다가올 과거</title>
       <link>https://maily.so/archivenews/posts/1gz2eylnz3q</link>
       <guid>https://maily.so/archivenews/posts/1gz2eylnz3q</guid>
@@ -766,12 +774,11 @@
       <description>2026 문화편의점 하계 워크샵 [커리어 트랙]. &quot;서비스기획자가 이야기하는 서비스기획&quot; 지난 주 서비스기획과 서비스기획자를 이해하고, 동시에 프로젝트 경험 정리 템플릿을 통해 나만의 역량을 찾을 수 있는 시간을 가져봤습니다. 서</description>
     </item>
     <item>
-      <title>[Culture][주간모기영] 2026년 주간모기영 206호</title>
-      <link>https://maily.so/cff4every1/posts/2qzp174yz4x</link>
-      <guid>https://maily.so/cff4every1/posts/2qzp174yz4x</guid>
-      <category>Culture</category>
-      <pubDate>2026.08.08</pubDate>
-      <description>[샤샤의 ‘샤샤샧’] &lt;동궁&gt;(2026). [샤샤의 ’샤샤샧‘] “저, 모태신앙이고요, 오컬트를 좋아합니다.”&lt;동궁&gt;(2026) 모기영 독자들과의 첫 만남에선 불쑥 게이 BDSM 영화를 꺼내 들었고, 두 번째엔 다짜고짜 욕</description>
+      <title>[AI/Tech][Product Makers Note] [26호] 기획자를 위한 AI 설계 4부작 ③ Human-in-the-loop — AI가 사람에게 손 드는 순간</title>
+      <link>https://maily.so/makersnote/posts/8mo56592r9p</link>
+      <guid>https://maily.so/makersnote/posts/8mo56592r9p</guid>
+      <category>AI/Tech</category>
+      <description>좋은 AI 서비스는 AI를 믿되, 낄 자리는 남겨둡니다.. 최근 AI 개발자들 사이에서 작지만 의미 있는 소식이 하나 있었어요. AI에게 도구를 연결하는 표준인 MCP의 규격 초안에, MRTR(Multi Round-Trip Requests</description>
     </item>
     <item>
       <title>[AI/Tech][열두시쿠키] AI도 첫 출근에는 아무것도 몰랐습니다</title>
@@ -849,13 +856,6 @@
       <guid>https://maily.so/devpill/posts/8mo56n7nr9p</guid>
       <category>AI/Tech</category>
       <description>같은 모델을 쓰는데 결과가 갈리는 이유는 프롬프트 기법이 아니었습니다.. &quot;프롬프트 잘 쓰는 사람이 따로 있나요? 어차피 다 같은 모델 쓰는 거잖아요.&quot; 요즘 자주 듣는 말이죠. 실제로 그렇게 보이기도 합니다. LLM이 나온 뒤로 CSS를 못 쓰던 사람</description>
-    </item>
-    <item>
-      <title>[AI/Tech][Trendium.ai] #327: “AI가 AI를 만들기 시작했다” - 구글이 수백조원을 퍼붓는 진짜 이유</title>
-      <link>https://maily.so/trendium.ai/posts/5xrx8x0lo2v</link>
-      <guid>https://maily.so/trendium.ai/posts/5xrx8x0lo2v</guid>
-      <category>AI/Tech</category>
-      <description>구독자님, 안녕하세요? AI 트렌드를 전달해드리는 Trendium.ai 입니다. 구글과 빅테크가 수백조원을 AI 인프라에 쏟아붓는 진짜 이유가 AGI를 넘어 AI가 스스로 A</description>
     </item>
     <item>
       <title>[Marketing][트래비티] EP. 216 🌏 나트랑 중심에서 즐기는 오션뷰 스테이 🌊 베스나 호텔 나트랑 프리미엄 체험단 모집 ✨🏨</title>
@@ -942,6 +942,13 @@
       <description>뷰티 브랜드 기획 및 상세페이지 분석 시리즈. 2025년 10월에 나온 탈모 앰플 하나가 7개월 만에 누적 판매 50만 개를 돌파했습니다. 2026년 1분기에는 에이페 브랜드 기준 최대 분기 매출을 기록했고, 같은 해 7월에는</description>
     </item>
     <item>
+      <title>[Culture][Trend A Word] [Trend A Word #604] 피자 = 맛있음. 백설기 = 맛있음. 피자설기 = 맛있음 × 맛있음.</title>
+      <link>https://maily.so/trendaword/posts/mjz6kgqvrwk</link>
+      <guid>https://maily.so/trendaword/posts/mjz6kgqvrwk</guid>
+      <category>Culture</category>
+      <description>26.08.12 (수) '피자설기'. 용례 1. 두쫀쿠, 버터떡 다음은 피자설기. 안 OO 씨 2. 피자도 맛있고, 백설기도 맛있는데 두 개 합친 거? 맛없없. 이 OO 씨</description>
+    </item>
+    <item>
       <title>[Culture][슈톡 ShoeTalk] 👟 [슈톡/ShoeTalk #281] 호카폭행 관련 기자회견, 독일군 스니커즈, 네이버-크림, 마뗑킴 러닝, 크록스, 비즈코, 이지 800, 언더아머, 푸마, 텔레포트</title>
       <link>https://maily.so/shoetalk/posts/mjz6kpynrwk</link>
       <guid>https://maily.so/shoetalk/posts/mjz6kpynrwk</guid>
@@ -1019,11 +1026,11 @@
       <description>2026 문화편의점 하계 워크샵 [커리어 트랙]. &quot;서비스기획자가 이야기하는 서비스기획&quot; 지난 주 서비스기획과 서비스기획자를 이해하고, 동시에 프로젝트 경험 정리 템플릿을 통해 나만의 역량을 찾을 수 있는 시간을 가져봤습니다. 서</description>
     </item>
     <item>
-      <title>[Culture][주간모기영] 2026년 주간모기영 206호</title>
-      <link>https://maily.so/cff4every1/posts/2qzp174yz4x</link>
-      <guid>https://maily.so/cff4every1/posts/2qzp174yz4x</guid>
-      <category>Culture</category>
-      <description>[샤샤의 ‘샤샤샧’] &lt;동궁&gt;(2026). [샤샤의 ’샤샤샧‘] “저, 모태신앙이고요, 오컬트를 좋아합니다.”&lt;동궁&gt;(2026) 모기영 독자들과의 첫 만남에선 불쑥 게이 BDSM 영화를 꺼내 들었고, 두 번째엔 다짜고짜 욕</description>
+      <title>[Career][HRer 성장노트] #25 직무기술서는 벌써 낡았을까? 스킬 중심 조직의 가능성과 함정</title>
+      <link>https://maily.so/jidy/posts/8do726kyrgq</link>
+      <guid>https://maily.so/jidy/posts/8do726kyrgq</guid>
+      <category>Career</category>
+      <description>스킬 중심 전환이 직무를 없애는 일이 아닌 이유와 HR이 놓치기 쉬운 세 가지 함정을 살펴봅니다.. 한 HR 회의를 떠올려 봅시다. “앞으로는 직무보다 스킬을 봐야 합니다.” 스킬 사전과 진단 체계 구축 계획이 빠르게 논의됩니다. 그런데 정작 누가 어떤 결과를 책임지는지, 어디까</description>
     </item>
     <item>
       <title>[Career][비즈쿠키] 변하지 않는 것에 베팅해야 하는 이유</title>
@@ -1101,13 +1108,6 @@
       <guid>https://maily.so/jidy/posts/knrj16q4rld</guid>
       <category>Career</category>
       <description>직원에게 더 잘 버티라고 말하기 전에 HR이 확인해야 할 업무 요구, 회복 시간과 팀의 조건을 살펴봅니다.. “요즘 다들 지쳐 보여서 회복탄력성 교육을 준비했습니다.” 금요일 오후 직원들은 스트레스를 다루는 법을 배우고 긍정적인 생각을 연습합니다. 교육이 끝나면 밀린 업무가 기다리...</description>
-    </item>
-    <item>
-      <title>[Career][모두의 사수. 남몰레터] 몸값 올리기 시리즈 21 일잘러의 정의</title>
-      <link>https://maily.so/modoosasoo/posts/1do1d110ox6</link>
-      <guid>https://maily.so/modoosasoo/posts/1do1d110ox6</guid>
-      <category>Career</category>
-      <description>&quot;일 잘한다&quot;는 평가를 받으면서도, 동시에 &quot;같이 일하기는 좀 어렵다&quot;는 평가를 받는 사람들이 있습니다.. &quot;일 잘한다&quot;는 평가를 받으면서도, 동시에 &quot;같이 일하기는 좀 어렵다&quot;는 평가를 받는 사람들이 있습니다. 이 두 평가는 서로 모순되어 보입니다. 하지만 실제로는 같은 원인에서 나온</description>
     </item>
     <item>
       <title>[Money][은호레터] [은호레터] 텍사스 데이터센터 규제, 취소보다 먼저 나타나는 가동 지연</title>
