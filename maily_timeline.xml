@@ -6,6 +6,14 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[Lifestyle][소일레터] 2화 : 멀지만 가까워질 수 있는 우리</title>
+      <link>https://maily.so/soil/posts/8do72ykyrgq</link>
+      <guid>https://maily.so/soil/posts/8do72ykyrgq</guid>
+      <category>Lifestyle</category>
+      <pubDate>2026.08.21</pubDate>
+      <description>4년 만에 알게 된 것들. #1 내가 혼자 살고 있는 오피스텔은 비슷한 또래의 1인 가구가 대부분이다. 이곳에 산지 4년이 넘었지만, 같은 층이나 다른 층에 살고 있는 입주민들과 대화를 나눠본 적은 단 한번</description>
+    </item>
+    <item>
       <title>[AI/Tech][공냥이 뉴스레터] [전자책 공유]AI의시대 암묵지란 무엇인가</title>
       <link>https://maily.so/gongnyangai/posts/mjz6k1wwrwk</link>
       <guid>https://maily.so/gongnyangai/posts/mjz6k1wwrwk</guid>
@@ -670,14 +678,6 @@
       <description>뮤지컬은 정말 오묘한 취미다. 이상한 구석이 많은 취미이기도 하다. 그 어떤 취미보다 색깔이 많고 화려한데, 관객들은 완벽하게 고요하다. 소심한 나도 순간을 과감하게 누릴 수 있다</description>
     </item>
     <item>
-      <title>[Lifestyle][아나톨리아 편지] 24. 보이지 않는, 볼 수 없는</title>
-      <link>https://maily.so/anatolianletter/posts/g1o4d1x6ove</link>
-      <guid>https://maily.so/anatolianletter/posts/g1o4d1x6ove</guid>
-      <category>Lifestyle</category>
-      <pubDate>2026.08.18</pubDate>
-      <description>2026년 8월 18일. ꩜ 한여름인데도 바람이 유난히 거센 밤이었어요. 나와 친구들은 집주인이 가져다준 담요를 둘둘 두르고 옥상에 앉아 있었지요. 게자리를 별자리로 삼는 세 명의 생일을 한꺼번에 축하하는</description>
-    </item>
-    <item>
       <title>[Knowledge][델닷 랩큐레이션] 빛을 돌리고, 암을 겨냥하고, 촉매의 자리를 찾다</title>
       <link>https://maily.so/deldot/posts/e9o0yd7lr8w</link>
       <guid>https://maily.so/deldot/posts/e9o0yd7lr8w</guid>
@@ -1194,6 +1194,13 @@
       <description>미국·이란 휴전이 시한 없이 흐지부지되자, '유가 → 인플레 → 장기금리'라는 사슬 하나가 그날 전체를 끌고 갔어요. 그래서 원유에 올라탄 곳은 오르고, 금리에 발목 잡힌 곳은 외</description>
     </item>
     <item>
+      <title>[Lifestyle][소일레터] 2화 : 멀지만 가까워질 수 있는 우리</title>
+      <link>https://maily.so/soil/posts/8do72ykyrgq</link>
+      <guid>https://maily.so/soil/posts/8do72ykyrgq</guid>
+      <category>Lifestyle</category>
+      <description>4년 만에 알게 된 것들. #1 내가 혼자 살고 있는 오피스텔은 비슷한 또래의 1인 가구가 대부분이다. 이곳에 산지 4년이 넘었지만, 같은 층이나 다른 층에 살고 있는 입주민들과 대화를 나눠본 적은 단 한번</description>
+    </item>
+    <item>
       <title>[Lifestyle][김너드의 가구노트] 서랍장, 디자인만 보고 샀다가 후회하셨다면?</title>
       <link>https://maily.so/nerdsnote/posts/wdr9q53golx</link>
       <guid>https://maily.so/nerdsnote/posts/wdr9q53golx</guid>
@@ -1269,13 +1276,6 @@
       <guid>https://maily.so/yeonduletters/posts/vpzlnve2rk9</guid>
       <category>Lifestyle</category>
       <description>뮤지컬은 정말 오묘한 취미다. 이상한 구석이 많은 취미이기도 하다. 그 어떤 취미보다 색깔이 많고 화려한데, 관객들은 완벽하게 고요하다. 소심한 나도 순간을 과감하게 누릴 수 있다</description>
-    </item>
-    <item>
-      <title>[Lifestyle][아나톨리아 편지] 24. 보이지 않는, 볼 수 없는</title>
-      <link>https://maily.so/anatolianletter/posts/g1o4d1x6ove</link>
-      <guid>https://maily.so/anatolianletter/posts/g1o4d1x6ove</guid>
-      <category>Lifestyle</category>
-      <description>2026년 8월 18일. ꩜ 한여름인데도 바람이 유난히 거센 밤이었어요. 나와 친구들은 집주인이 가져다준 담요를 둘둘 두르고 옥상에 앉아 있었지요. 게자리를 별자리로 삼는 세 명의 생일을 한꺼번에 축하하는</description>
     </item>
     <item>
       <title>[Knowledge][앤소장의 AI 교육 뉴스레터] 익숙한 것이 틀린 시대, 인성과 회복탄력성이 답입니다(2)</title>
