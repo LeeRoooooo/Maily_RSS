@@ -6,6 +6,30 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] ChatGPT vs Claude: How to compare AI answers side by side</title>
+      <link>https://maily.so/codingstar/posts/2nznqd0gzp5</link>
+      <guid>https://maily.so/codingstar/posts/2nznqd0gzp5</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.08.24</pubDate>
+      <description>Use one prompt, the same context, and a repeatable workflow before choosing the model that fits your work.. By Meka Coven A good answer from one AI...</description>
+    </item>
+    <item>
+      <title>[AI/Tech][개발자H의 생존 비법서] 대체 어떤 걸 만들어야 통장에 돈이 꽂힐까요? (이 3개 트랙 중 내 프로젝트가 어디 있는지 모르면, 처방이 반대로 갑니다)</title>
+      <link>https://maily.so/developerh/posts/x1zg584poqg</link>
+      <guid>https://maily.so/developerh/posts/x1zg584poqg</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.08.24</pubDate>
+      <description>5달러 앱으로 3일에 750만원, 무료 앱으로 수천만원 — 뉴스로는 같은 이야기죠? 맥북 상판을 손바닥으로 찰싹 때리면 노트북이 &quot;아윽&quot; 하고 신음소리를 냅니다. 그게 전부인 앱이</description>
+    </item>
+    <item>
+      <title>[AI/Tech][Divided by Zero] 지능에 과금하려는 스트라이프(Stripe)</title>
+      <link>https://maily.so/dividedbyzero/posts/32z8dg38rn4</link>
+      <guid>https://maily.so/dividedbyzero/posts/32z8dg38rn4</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.08.24</pubDate>
+      <description>Divided by Zero에 오신 걸 환영합니다. IT테크, 스타트업 그리고 자본시장에 대한 2차적 사고를 공유합니다. 지난주에 스트라이프(Stripe)가 오픈라우터(OpenRo</description>
+    </item>
+    <item>
       <title>[AI/Tech][아이작 뉴스레터] 광고 소재: 뭐가 진짜 좋은 성과일까요?</title>
       <link>https://maily.so/isaac.perform/posts/2qzp1jvxz4x</link>
       <guid>https://maily.so/isaac.perform/posts/2qzp1jvxz4x</guid>
@@ -230,6 +254,14 @@
       <description>한 명의 투자자에서 시작해, 정보와 사람을 연결하는 판을 만들기까지. [📢 공지]</description>
     </item>
     <item>
+      <title>[Lifestyle][낯선 어휘집] [#36] 새들함을 모르고 싶다</title>
+      <link>https://maily.so/words.unseen.archive/posts/mjz6k1yyrwk</link>
+      <guid>https://maily.so/words.unseen.archive/posts/mjz6k1yyrwk</guid>
+      <category>Lifestyle</category>
+      <pubDate>2026.08.24</pubDate>
+      <description>찜찜함과 공존하며 살아가는 법. 안녕하세요, 구독자님! 지난주, 저는 늦은 여름 여행을 다녀왔어요. 숙박비가 비싸서 여름 여행을 평소엔 잘 안 가는 편인데, 올해는 여름 그 자체를 제대로 즐기고 싶어서 큰맘</description>
+    </item>
+    <item>
       <title>[Lifestyle][책덕 뉴스레터] 일상 속 아주 작은 성취와 그걸 놓치지 않는 마음</title>
       <link>https://maily.so/bookduck/posts/wdr9q6e1olx</link>
       <guid>https://maily.so/bookduck/posts/wdr9q6e1olx</guid>
@@ -252,6 +284,14 @@
       <category>Lifestyle</category>
       <pubDate>2026.08.24</pubDate>
       <description>도로 위 다친 친구를 구해낸 댕댕이들 외 총 4건의 충격적으로 귀여운 사건들. 이번 주 &lt;주간 귀여워&gt; 주요 소식 [항목1] [단독] 유기견이 유기견을 구했다! /// [항목2] 내가 비 맞는 게 싫은 이유, 고릴라한테 있었네 /// [항목3] 엄마 말보다</description>
+    </item>
+    <item>
+      <title>[Knowledge][캠픽] 공대생이 마음에 문학을 품었다 - 이공계 캠퍼스의 독서 지형</title>
+      <link>https://maily.so/campick.library/posts/xyow35w8r28</link>
+      <guid>https://maily.so/campick.library/posts/xyow35w8r28</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.08.24</pubDate>
+      <description>[ep.04] 카이스트, 유니스트, 지스트. 출판업계 선배님들, 안녕하세요! 뉴스레터 캠픽은 서울출판예비학교 마케터반에서 뭉친 2인 구성 프로젝트입니다. 출판 마케터라는 꿈 하나로 만나, '직접 시장 데이터를 파고들어 보자'</description>
     </item>
     <item>
       <title>[Knowledge][쉘든의 밀리터리] 한국형 차세대전투기 개념연구</title>
@@ -316,22 +356,6 @@
       <category>AI/Tech</category>
       <pubDate>2026.08.23</pubDate>
       <description>네이버 카페 자료를 한꺼번에 모으기보다 전체글, 게시판, 키워드, 특정 게시글 중 하나를 먼저 고르는 방법입니다.. 자동화가 막히는 곳은 프로그램보다 범위입니다 마케팅 자동화 프로그램을 찾다 보면 기능 목록은 많은데, 정작 첫 실행에서 무엇을 모아야 할지 막막할 ...</description>
-    </item>
-    <item>
-      <title>[AI/Tech][넥서스알파랩] 이더리움 전망 | 다음 주 시나리오 3개와 확률, 잭슨홀 전에 정리해 드립니다</title>
-      <link>https://maily.so/nexusalphalab/posts/e9o0yvj4r8w</link>
-      <guid>https://maily.so/nexusalphalab/posts/e9o0yvj4r8w</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.08.23</pubDate>
-      <description>🥗 이번 주, 시장이 확신을 두 번 청산했습니다. 안녕하세요. 넥서스알파랩입니다. 지난 일주일, 비트코인은 6만 2천 달러에서 7만 9천 달러까지 갔다가 7만 6천 달러로 돌아왔습니다. 이더리움은 260만 원에서 330만 원을 찍</description>
-    </item>
-    <item>
-      <title>[AI/Tech][넥서스알파랩] 🦿 볼트 따라잡는 데 석 달, 컵 옮기는 데 10년</title>
-      <link>https://maily.so/nexusalphalab/posts/knrj1qw1rld</link>
-      <guid>https://maily.so/nexusalphalab/posts/knrj1qw1rld</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.08.23</pubDate>
-      <description>상장 첫날 460% 오른 회사의 창업자가, 다음 날 무대에서 찬물을 끼얹었습니다.. 안녕하세요. 오늘은 로봇 얘기인데, 로봇 영상 얘기는 안 합니다. 그 영상이 왜 늘 달리기와 공중제비뿐인지를 봅니다. 오늘 볼 것 🏃 백 년짜리 기록을 석 달에 따라잡은 로봇 🎤</description>
     </item>
     <item>
       <title>[Marketing][Moist Notes] '생각 경화' l 나는 왜 굳어버리는가, AI 안목</title>
@@ -436,14 +460,6 @@
       <category>Society</category>
       <pubDate>2026.08.23</pubDate>
       <description>'정신줄 놓지 말고 있어'. 지난 한 주 삼전닉스 주식시장은 대체로 조용했네요. 그러나 미국 국채 금리가 요동치며 금값과 비트코인 가격이 크게 올랐어요. 비트코인의 경우 작년 10월 실망스런 정점 찍고 아니야</description>
-    </item>
-    <item>
-      <title>[AI/Tech][데이터 센터 및 IT업계 동향] 2026년 8월 셋째주 News Update</title>
-      <link>https://maily.so/datacenternews/posts/xyow35d9r28</link>
-      <guid>https://maily.so/datacenternews/posts/xyow35d9r28</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.08.22</pubDate>
-      <description>데이터센터 관련 업계 동향 및 뉴스. 2026년 8월 3주차 국내·글로벌 AI 데이터센터 동향 정리 (Local 뉴스 기반)- By Claude 1. 국내 기업들의 공급망 참여 확대 전력·냉각·소재 분야에서 국내 기업</description>
     </item>
     <item>
       <title>[Marketing][트래비티] EP. 219 🌏 호치민에서 만나는 다채로운 베트남 미식, 감성을 담은 특별한 레스토랑 🥂🍽️</title>
@@ -686,14 +702,6 @@
       <description>은퇴 호소인의 투자 인사이트. 안녕하세요. 은호입니다. 모더나는 개인맞춤 암 백신 인티스메란의 흑색종 3상 성공 이후 다시 시장의 중심에 섰습니다. 발표 직후 주가는 급등했고 이후 큰 폭의 변동성을 보이면서,</description>
     </item>
     <item>
-      <title>[Lifestyle][그래서 영국이 어땠냐면] 뉴스레터 쓰는 수수킴 목소리가 궁금하다면?</title>
-      <link>https://maily.so/ss.in.london/posts/d5rywpwjz1w</link>
-      <guid>https://maily.so/ss.in.london/posts/d5rywpwjz1w</guid>
-      <category>Lifestyle</category>
-      <pubDate>2026.08.21</pubDate>
-      <description>드디어 시작한 팟캐스트 소-식! &lt;수수한 사랑방&gt;. 구독자 안녕!!! 너무너무 오랜만이다... 지난 몇달동안 초고만 4개나 썼는데 도무지 정리가 안 되서 방치한 결과 이렇게 뉴스레터가 게을러지고야 말았어... 난 요즘 회사일이</description>
-    </item>
-    <item>
       <title>[Knowledge][쉘든의 밀리터리] 전기제어 고체 추진제</title>
       <link>https://maily.so/sheldon/posts/n3jrk593r51</link>
       <guid>https://maily.so/sheldon/posts/n3jrk593r51</guid>
@@ -742,14 +750,6 @@
       <description>다른 회사 보건관리자는 어떻게 일할까?🧐. ✔️ 다른 회사 보건관리자는 어떤 방식으로 일하고 있을까? ✔️ 내가 세운 계획, 다른 보건관리자에게 의견을 물어볼 수 있다면? ✔️ 이제 내년도 계획을 세워야 하는데, 다른 회사</description>
     </item>
     <item>
-      <title>[Knowledge][앤소장의 AI 교육 뉴스레터] 익숙한 것이 틀린 시대, 인성과 회복탄력성이 답입니다(2)</title>
-      <link>https://maily.so/annesojangletter/posts/1gz2ed7xz3q</link>
-      <guid>https://maily.so/annesojangletter/posts/1gz2ed7xz3q</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.08.20</pubDate>
-      <description>조벽 교수의 AI 시대 자녀 교육 이야기. 안녕하세요, 앤소장입니다. 지난 호에서 조벽 교수님은 이렇게 말씀하셨어요. &quot;AI 시대에 진짜 경쟁력은 인성과 회복탄력성이다.&quot; 1편을 읽으신 분들 중에 이런 생각 하신 분 계셨을</description>
-    </item>
-    <item>
       <title>[Society][동아시아청년학] 청년레터 #12 행복하자, 아프지 말고</title>
       <link>https://maily.so/youth/posts/1gz2ejdnz3q</link>
       <guid>https://maily.so/youth/posts/1gz2ejdnz3q</guid>
@@ -772,6 +772,27 @@
       <category>Society</category>
       <pubDate>2026.08.20</pubDate>
       <description>아동청소년복지분과 분과장 이장선. 들어가며 퇴원 후 지역사회에서 적절한 지원을 받지 못해 다시 병원으로 돌아가는 정신질환 당사자의 ‘회전문 현상’을 끊기 위해서는 지역사회 기반의 통합돌봄 체계 구축이 필수적이다.</description>
+    </item>
+    <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] ChatGPT vs Claude: How to compare AI answers side by side</title>
+      <link>https://maily.so/codingstar/posts/2nznqd0gzp5</link>
+      <guid>https://maily.so/codingstar/posts/2nznqd0gzp5</guid>
+      <category>AI/Tech</category>
+      <description>Use one prompt, the same context, and a repeatable workflow before choosing the model that fits your work.. By Meka Coven A good answer from one AI does not ...</description>
+    </item>
+    <item>
+      <title>[AI/Tech][개발자H의 생존 비법서] 대체 어떤 걸 만들어야 통장에 돈이 꽂힐까요? (이 3개 트랙 중 내 프로젝트가 어디 있는지 모르면, 처방이 반대로 갑니다)</title>
+      <link>https://maily.so/developerh/posts/x1zg584poqg</link>
+      <guid>https://maily.so/developerh/posts/x1zg584poqg</guid>
+      <category>AI/Tech</category>
+      <description>5달러 앱으로 3일에 750만원, 무료 앱으로 수천만원 — 뉴스로는 같은 이야기죠? 맥북 상판을 손바닥으로 찰싹 때리면 노트북이 &quot;아윽&quot; 하고 신음소리를 냅니다. 그게 전부인 앱이</description>
+    </item>
+    <item>
+      <title>[AI/Tech][Divided by Zero] 지능에 과금하려는 스트라이프(Stripe)</title>
+      <link>https://maily.so/dividedbyzero/posts/32z8dg38rn4</link>
+      <guid>https://maily.so/dividedbyzero/posts/32z8dg38rn4</guid>
+      <category>AI/Tech</category>
+      <description>Divided by Zero에 오신 걸 환영합니다. IT테크, 스타트업 그리고 자본시장에 대한 2차적 사고를 공유합니다. 지난주에 스트라이프(Stripe)가 오픈라우터(OpenRo</description>
     </item>
     <item>
       <title>[AI/Tech][아이작 뉴스레터] 광고 소재: 뭐가 진짜 좋은 성과일까요?</title>
@@ -835,27 +856,6 @@
       <guid>https://maily.so/codingstar/posts/g0zml2pkrql</guid>
       <category>AI/Tech</category>
       <description>네이버 카페 자료를 한꺼번에 모으기보다 전체글, 게시판, 키워드, 특정 게시글 중 하나를 먼저 고르는 방법입니다.. 자동화가 막히는 곳은 프로그램보다 범위입니다 마케팅 자동화 프로그램을 찾다 보면 기능 목록은 많은데, 정작 첫 실행에서 무엇을 모아야 할지 막막할 때가 있습니다. 자...</description>
-    </item>
-    <item>
-      <title>[AI/Tech][넥서스알파랩] 이더리움 전망 | 다음 주 시나리오 3개와 확률, 잭슨홀 전에 정리해 드립니다</title>
-      <link>https://maily.so/nexusalphalab/posts/e9o0yvj4r8w</link>
-      <guid>https://maily.so/nexusalphalab/posts/e9o0yvj4r8w</guid>
-      <category>AI/Tech</category>
-      <description>🥗 이번 주, 시장이 확신을 두 번 청산했습니다. 안녕하세요. 넥서스알파랩입니다. 지난 일주일, 비트코인은 6만 2천 달러에서 7만 9천 달러까지 갔다가 7만 6천 달러로 돌아왔습니다. 이더리움은 260만 원에서 330만 원을 찍</description>
-    </item>
-    <item>
-      <title>[AI/Tech][넥서스알파랩] 🦿 볼트 따라잡는 데 석 달, 컵 옮기는 데 10년</title>
-      <link>https://maily.so/nexusalphalab/posts/knrj1qw1rld</link>
-      <guid>https://maily.so/nexusalphalab/posts/knrj1qw1rld</guid>
-      <category>AI/Tech</category>
-      <description>상장 첫날 460% 오른 회사의 창업자가, 다음 날 무대에서 찬물을 끼얹었습니다.. 안녕하세요. 오늘은 로봇 얘기인데, 로봇 영상 얘기는 안 합니다. 그 영상이 왜 늘 달리기와 공중제비뿐인지를 봅니다. 오늘 볼 것 🏃 백 년짜리 기록을 석 달에 따라잡은 로봇 🎤</description>
-    </item>
-    <item>
-      <title>[AI/Tech][데이터 센터 및 IT업계 동향] 2026년 8월 셋째주 News Update</title>
-      <link>https://maily.so/datacenternews/posts/xyow35d9r28</link>
-      <guid>https://maily.so/datacenternews/posts/xyow35d9r28</guid>
-      <category>AI/Tech</category>
-      <description>데이터센터 관련 업계 동향 및 뉴스. 2026년 8월 3주차 국내·글로벌 AI 데이터센터 동향 정리 (Local 뉴스 기반)- By Claude 1. 국내 기업들의 공급망 참여 확대 전력·냉각·소재 분야에서 국내 기업</description>
     </item>
     <item>
       <title>[Marketing][WayB.Pick 마케팅 인사이트] 📺 ‘다 팔렸다’는 말도 안 통한다…홈쇼핑·TV가 바꾸는 생존법</title>
@@ -1194,6 +1194,13 @@
       <description>은퇴 호소인의 투자 인사이트. 안녕하세요. 은호입니다. 모더나는 개인맞춤 암 백신 인티스메란의 흑색종 3상 성공 이후 다시 시장의 중심에 섰습니다. 발표 직후 주가는 급등했고 이후 큰 폭의 변동성을 보이면서,</description>
     </item>
     <item>
+      <title>[Lifestyle][낯선 어휘집] [#36] 새들함을 모르고 싶다</title>
+      <link>https://maily.so/words.unseen.archive/posts/mjz6k1yyrwk</link>
+      <guid>https://maily.so/words.unseen.archive/posts/mjz6k1yyrwk</guid>
+      <category>Lifestyle</category>
+      <description>찜찜함과 공존하며 살아가는 법. 안녕하세요, 구독자님! 지난주, 저는 늦은 여름 여행을 다녀왔어요. 숙박비가 비싸서 여름 여행을 평소엔 잘 안 가는 편인데, 올해는 여름 그 자체를 제대로 즐기고 싶어서 큰맘</description>
+    </item>
+    <item>
       <title>[Lifestyle][책덕 뉴스레터] 일상 속 아주 작은 성취와 그걸 놓치지 않는 마음</title>
       <link>https://maily.so/bookduck/posts/wdr9q6e1olx</link>
       <guid>https://maily.so/bookduck/posts/wdr9q6e1olx</guid>
@@ -1271,11 +1278,11 @@
       <description>(비우지 못하는 마음을 너무 탓하지 않기를). 연잎 중앙에 낙엽을 가득 담고 있다. 바람이 불면 옆의 연잎들은 가볍게 담고 있던 것들을 쏟아버리는데, 이 연잎은 아무 말 없이 그 무게를 그대로 안고 있다. 비가 오면 비가 오는</description>
     </item>
     <item>
-      <title>[Lifestyle][그래서 영국이 어땠냐면] 뉴스레터 쓰는 수수킴 목소리가 궁금하다면?</title>
-      <link>https://maily.so/ss.in.london/posts/d5rywpwjz1w</link>
-      <guid>https://maily.so/ss.in.london/posts/d5rywpwjz1w</guid>
-      <category>Lifestyle</category>
-      <description>드디어 시작한 팟캐스트 소-식! &lt;수수한 사랑방&gt;. 구독자 안녕!!! 너무너무 오랜만이다... 지난 몇달동안 초고만 4개나 썼는데 도무지 정리가 안 되서 방치한 결과 이렇게 뉴스레터가 게을러지고야 말았어... 난 요즘 회사일이</description>
+      <title>[Knowledge][캠픽] 공대생이 마음에 문학을 품었다 - 이공계 캠퍼스의 독서 지형</title>
+      <link>https://maily.so/campick.library/posts/xyow35w8r28</link>
+      <guid>https://maily.so/campick.library/posts/xyow35w8r28</guid>
+      <category>Knowledge</category>
+      <description>[ep.04] 카이스트, 유니스트, 지스트. 출판업계 선배님들, 안녕하세요! 뉴스레터 캠픽은 서울출판예비학교 마케터반에서 뭉친 2인 구성 프로젝트입니다. 출판 마케터라는 꿈 하나로 만나, '직접 시장 데이터를 파고들어 보자'</description>
     </item>
     <item>
       <title>[Knowledge][쉘든의 밀리터리] 한국형 차세대전투기 개념연구</title>
@@ -1353,13 +1360,6 @@
       <guid>https://maily.so/1wordaday/posts/5xrx8l6qo2v</guid>
       <category>Knowledge</category>
       <description>Be scheduled to의 뜻, 사용법, 예문. The academy has not yet announced whether the Best Asian Pop Music category will be changed before t</description>
-    </item>
-    <item>
-      <title>[Knowledge][앤소장의 AI 교육 뉴스레터] 익숙한 것이 틀린 시대, 인성과 회복탄력성이 답입니다(2)</title>
-      <link>https://maily.so/annesojangletter/posts/1gz2ed7xz3q</link>
-      <guid>https://maily.so/annesojangletter/posts/1gz2ed7xz3q</guid>
-      <category>Knowledge</category>
-      <description>조벽 교수의 AI 시대 자녀 교육 이야기. 안녕하세요, 앤소장입니다. 지난 호에서 조벽 교수님은 이렇게 말씀하셨어요. &quot;AI 시대에 진짜 경쟁력은 인성과 회복탄력성이다.&quot; 1편을 읽으신 분들 중에 이런 생각 하신 분 계셨을</description>
     </item>
     <item>
       <title>[Society][제철트렌드식탁] Vol.9 [가상자산 기부 캠페인]</title>
