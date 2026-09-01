@@ -6,12 +6,28 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][넥서스알파랩] 🤖 메타는 로봇한테 케이블 꽂는 법을 가르치는데, 엔비디아는 케이블을 빼버렸습니다</title>
+      <link>https://maily.so/nexusalphalab/posts/wjzdxm4yr3p</link>
+      <guid>https://maily.so/nexusalphalab/posts/wjzdxm4yr3p</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.09.02</pubDate>
+      <description>AI 데이터센터에서 사람이 붙잡고 있던 마지막 손일. 안녕하세요, 넥서스알파랩입니다. 오늘은 좀 이상한 장면에서 시작하겠습니다. 미국 아이오와의 데이터센터 안. 팔 두 개 달린 로봇이 하루 종일 케이블을 뽑았다 꽂았다 합니다. 그것만</description>
+    </item>
+    <item>
       <title>[Marketing][비플 뉴스레터] 8월동안 발생한 정보유출사고, 대학교・학원・병원・배달대행플랫폼</title>
       <link>https://maily.so/businessplus/posts/2nznq63mzp5</link>
       <guid>https://maily.so/businessplus/posts/2nznq63mzp5</guid>
       <category>Marketing</category>
       <pubDate>2026.09.02</pubDate>
       <description>플러스레터, 2026년 9월호. 플러스레터, 2026년 9월호 • 8월동안 발생한 정보유출사고 • 중소기업을 위한 24시간 보안관제 솔루션 • 공공기관 방화벽 구축, CC인증부터 확인해야하는 이유 • 개인정보위</description>
+    </item>
+    <item>
+      <title>[Money][은호레터] [09/02] 팔로알토, AI 보안 수요에 이익 전망 상회 / 채권 트레이더들, 금리 추가 급등에 베팅 / 미군, 이란 IRGC 목표물 타격 시작 등 오늘의 경제 뉴스</title>
+      <link>https://maily.so/eunho/posts/1gz2ely5z3q</link>
+      <guid>https://maily.so/eunho/posts/1gz2ely5z3q</guid>
+      <category>Money</category>
+      <pubDate>2026.09.02</pubDate>
+      <description>은퇴 호소인의 경제 뉴스</description>
     </item>
     <item>
       <title>[Lifestyle][빛.숨.쉼] 35번 출발점(23)</title>
@@ -116,14 +132,6 @@
       <category>AI/Tech</category>
       <pubDate>2026.09.01</pubDate>
       <description>Divided by Zero에 오신 걸 환영합니다. IT테크, 스타트업 그리고 자본시장에 대한 2차적 사고를 공유합니다. 로봇에게 새 작업을 가르치려면 보통 텔레오퍼레이션부터 합니</description>
-    </item>
-    <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] Compare AI models side by side: a cleaner ChatGPT vs Claude test</title>
-      <link>https://maily.so/codingstar/posts/8do72w1drgq</link>
-      <guid>https://maily.so/codingstar/posts/8do72w1drgq</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.09.01</pubDate>
-      <description>Run one task through ChatGPT, Claude, and Gemini, then check the format, assumptions, and claims before you choose an answer.. By Meka Coven The fi...</description>
     </item>
     <item>
       <title>[Marketing][뷰티 상세페이지 전문 뷰티해커스] K-뷰티처럼 보이는 미국 브랜드 SeoulCeuticals가 아마존에서 먹히는 이유</title>
@@ -646,14 +654,6 @@
       <description>은퇴 호소인의 투자 인사이트. 안녕하세요. 은호입니다. AT&amp;T가 EchoStar 주파수를 약 230억달러에 인수하면서 5G 경쟁력을 키울 기반을 확보했고, 그만큼 부채 부담도 함께 커졌습니다. 그동안 배당과</description>
     </item>
     <item>
-      <title>[Money][은호레터] [은호레터] AI 인프라와 반도체, 같은 사이클 다른 흐름</title>
-      <link>https://maily.so/eunho/posts/32z8d7qjrn4</link>
-      <guid>https://maily.so/eunho/posts/32z8d7qjrn4</guid>
-      <category>Money</category>
-      <pubDate>2026.08.31</pubDate>
-      <description>은퇴 호소인의 투자 인사이트. 안녕하세요. 은호입니다. AI를 둘러싼 시장의 분위기가 조금씩 달라지고 있습니다. 주식시장에서는 반도체 중심의 AI 거래가 한 차례 식었고, 높은 밸류에이션과 포지션 부담에 대한</description>
-    </item>
-    <item>
       <title>[Knowledge][함재봉의 한.사.만.] 개화파가 본 민비</title>
       <link>https://maily.so/hahmc/posts/5xrx80jyo2v</link>
       <guid>https://maily.so/hahmc/posts/5xrx80jyo2v</guid>
@@ -774,6 +774,13 @@
       <description>155mm 자동화 포탑 모듈을 적용한 차륜형 자주포. 8월 18일, 미 육군은 차세대 기동전술화포(MTC)[1]​ 사업에서 한화(Hanwha Defense USA)의 K9MH(Mobile Howitzer)를 선정했다. 미 육군 보병여</description>
     </item>
     <item>
+      <title>[AI/Tech][넥서스알파랩] 🤖 메타는 로봇한테 케이블 꽂는 법을 가르치는데, 엔비디아는 케이블을 빼버렸습니다</title>
+      <link>https://maily.so/nexusalphalab/posts/wjzdxm4yr3p</link>
+      <guid>https://maily.so/nexusalphalab/posts/wjzdxm4yr3p</guid>
+      <category>AI/Tech</category>
+      <description>AI 데이터센터에서 사람이 붙잡고 있던 마지막 손일. 안녕하세요, 넥서스알파랩입니다. 오늘은 좀 이상한 장면에서 시작하겠습니다. 미국 아이오와의 데이터센터 안. 팔 두 개 달린 로봇이 하루 종일 케이블을 뽑았다 꽂았다 합니다. 그것만</description>
+    </item>
+    <item>
       <title>[AI/Tech][DKL뉴스레터] 9월 11일 개인정보보호법 시행 — 과징금 매출 10%, 사업주 책임 명문화</title>
       <link>https://maily.so/dklnews/posts/2nznq6ggzp5</link>
       <guid>https://maily.so/dklnews/posts/2nznq6ggzp5</guid>
@@ -849,13 +856,6 @@
       <guid>https://maily.so/dividedbyzero/posts/92zekv4pzep</guid>
       <category>AI/Tech</category>
       <description>Divided by Zero에 오신 걸 환영합니다. IT테크, 스타트업 그리고 자본시장에 대한 2차적 사고를 공유합니다. 로봇에게 새 작업을 가르치려면 보통 텔레오퍼레이션부터 합니</description>
-    </item>
-    <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] Compare AI models side by side: a cleaner ChatGPT vs Claude test</title>
-      <link>https://maily.so/codingstar/posts/8do72w1drgq</link>
-      <guid>https://maily.so/codingstar/posts/8do72w1drgq</guid>
-      <category>AI/Tech</category>
-      <description>Run one task through ChatGPT, Claude, and Gemini, then check the format, assumptions, and claims before you choose an answer.. By Meka Coven The first answer...</description>
     </item>
     <item>
       <title>[Marketing][비플 뉴스레터] 8월동안 발생한 정보유출사고, 대학교・학원・병원・배달대행플랫폼</title>
@@ -1110,6 +1110,13 @@
       <description>&quot;너 팀장 한 번 해볼래?&quot;. &quot;팀장 한 번 해볼래?&quot; 회사에서 인정받으며 열심히 일하다 보면 언젠가 반드시 마주치는 제안입니다. 그런데 이 제안이 의미하는 건 &quot;당신을 위해 새 팀을 꾸려줄게&quot;가 아닙니다. &quot;</description>
     </item>
     <item>
+      <title>[Money][은호레터] [09/02] 팔로알토, AI 보안 수요에 이익 전망 상회 / 채권 트레이더들, 금리 추가 급등에 베팅 / 미군, 이란 IRGC 목표물 타격 시작 등 오늘의 경제 뉴스</title>
+      <link>https://maily.so/eunho/posts/1gz2ely5z3q</link>
+      <guid>https://maily.so/eunho/posts/1gz2ely5z3q</guid>
+      <category>Money</category>
+      <description>은퇴 호소인의 경제 뉴스</description>
+    </item>
+    <item>
       <title>[Money][은호레터] [은호레터] CECO, 전력 부족과 환경 규제가 만든 성장 기회</title>
       <link>https://maily.so/eunho/posts/wdr9q0n0olx</link>
       <guid>https://maily.so/eunho/posts/wdr9q0n0olx</guid>
@@ -1185,13 +1192,6 @@
       <guid>https://maily.so/eunho/posts/2qzp15wjz4x</guid>
       <category>Money</category>
       <description>은퇴 호소인의 투자 인사이트. 안녕하세요. 은호입니다. AT&amp;T가 EchoStar 주파수를 약 230억달러에 인수하면서 5G 경쟁력을 키울 기반을 확보했고, 그만큼 부채 부담도 함께 커졌습니다. 그동안 배당과</description>
-    </item>
-    <item>
-      <title>[Money][은호레터] [은호레터] AI 인프라와 반도체, 같은 사이클 다른 흐름</title>
-      <link>https://maily.so/eunho/posts/32z8d7qjrn4</link>
-      <guid>https://maily.so/eunho/posts/32z8d7qjrn4</guid>
-      <category>Money</category>
-      <description>은퇴 호소인의 투자 인사이트. 안녕하세요. 은호입니다. AI를 둘러싼 시장의 분위기가 조금씩 달라지고 있습니다. 주식시장에서는 반도체 중심의 AI 거래가 한 차례 식었고, 높은 밸류에이션과 포지션 부담에 대한</description>
     </item>
     <item>
       <title>[Lifestyle][빛.숨.쉼] 35번 출발점(23)</title>
