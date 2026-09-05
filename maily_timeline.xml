@@ -6,12 +6,28 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][넥서스알파랩] 🤖 오픈AI가 로봇을 만듭니다. 근데 팔 생각이 없어요 🍚</title>
+      <link>https://maily.so/nexusalphalab/posts/mjz6kdwwrwk</link>
+      <guid>https://maily.so/nexusalphalab/posts/mjz6kdwwrwk</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.09.05</pubDate>
+      <description>두뇌가 중요하다면서, 뽑는 사람은 전부 몸입니다. 안녕하세요, 넥서스알파랩입니다. 뉴스 한 줄 뒤에 뭐가 걸려 있는지 파는 뉴스레터예요. 오늘 준비한 내용입니다. ✍️ 알트만이 휴머노이드를 확정했습니다 ✍️ 근데 채용 공고가 이상</description>
+    </item>
+    <item>
       <title>[AI/Tech][CodingStar 마케팅 프로그램] ChatGPT vs Claude: how to compare AI answers side by side</title>
       <link>https://maily.so/codingstar/posts/xyow3q18r28</link>
       <guid>https://maily.so/codingstar/posts/xyow3q18r28</guid>
       <category>AI/Tech</category>
       <pubDate>2026.09.05</pubDate>
       <description>Give ChatGPT and Claude the same task, add Gemini when a third view helps, and choose the answer that survives your checks rather than the one that...</description>
+    </item>
+    <item>
+      <title>[Marketing][비즈니스 연구 분석하는 훈] AI가 초안 73%를 쓰는데 왜 안 팔릴까</title>
+      <link>https://maily.so/business.report/posts/1do1d7exox6</link>
+      <guid>https://maily.so/business.report/posts/1do1d7exox6</guid>
+      <category>Marketing</category>
+      <pubDate>2026.09.05</pubDate>
+      <description>지난주에 나온 Product Marketing Alliance의 2026년 조사를 보다가 손이 멈춘 숫자가 있습니다. 제품 마케터의 73%가 런치 카피 첫 초안을 AI에 맡기고 있</description>
     </item>
     <item>
       <title>[Culture][주간모기영] 2026년 주간모기영 210호</title>
@@ -76,6 +92,22 @@
       <category>Money</category>
       <pubDate>2026.09.05</pubDate>
       <description>은퇴 호소인의 경제 뉴스</description>
+    </item>
+    <item>
+      <title>[Lifestyle][이민아의 생명과 몸 뉴스레터] 📩 편지 17 호</title>
+      <link>https://maily.so/drminalife/posts/32z8dp61rn4</link>
+      <guid>https://maily.so/drminalife/posts/32z8dp61rn4</guid>
+      <category>Lifestyle</category>
+      <pubDate>2026.09.05</pubDate>
+      <description>자궁경부암 백신을 둘러싼 오해. 안녕하세요. 이민아 입니다. 자궁경부암 백신 이야기가 나오면</description>
+    </item>
+    <item>
+      <title>[Knowledge][THE PUNT] 스코틀랜드가 영국으로부터 독립하면 무슨 일이 일어날까?</title>
+      <link>https://maily.so/thepunt/posts/x1zg5dw5oqg</link>
+      <guid>https://maily.so/thepunt/posts/x1zg5dw5oqg</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.09.05</pubDate>
+      <description>2014년 주민투표와 브렉시트 이후 다시 불붙은 독립 논쟁. 지난주 스코틀랜드는 왜 영국을 떠나려 하는가에 이어 스코틀랜드가 영국으로부터 독립하려는 움직임을 보이는 것에 대한 이야기를 다룬 두번째 글입니다. 2014년 9월 18일, 스코틀랜</description>
     </item>
     <item>
       <title>[AI/Tech][넥서스알파랩] 🦆 마이크로덕 오리는 통과, 로봇은 정지</title>
@@ -156,14 +188,6 @@
       <category>AI/Tech</category>
       <pubDate>2026.09.04</pubDate>
       <description>&quot;구글에서 안 보이면 GPT에서도 안 보입니다&quot; 헤일로엑스(HaloX) 이재철 대표. GPT 답변에 우리 브랜드가 나오게 하고 싶다면, 먼저 구글부터 잡아야 합니다. 헤일로엑스(HaloX)의 이재철 대표가 GEO를 설명하면서 내린 결론이에요 . SEO와 GEO는 한</description>
-    </item>
-    <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] Gemini vs Grok: how to compare AI answers side by side</title>
-      <link>https://maily.so/codingstar/posts/wdr9qxm7olx</link>
-      <guid>https://maily.so/codingstar/posts/wdr9qxm7olx</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.09.04</pubDate>
-      <description>Give Gemini and Grok the same task, keep the test fair, and choose the answer that survives your own checks rather than the one that sounds most co...</description>
     </item>
     <item>
       <title>[Marketing][자작자작] 9월 뉴스레터</title>
@@ -478,14 +502,6 @@
       <description>구독자, 오늘은 '세상 모든 캠페인'의 404번째 별이야.. ❗시작 전 유의 사항 매 뉴스레터마다 중복되는 문장이 있을 거야. &lt;세상 모든 캠페인&gt;을 처음 보는 사람들은 이해가 안 될 것 같은 부분과 내가 꼭 전달하고 싶은 부분의 텍스트는</description>
     </item>
     <item>
-      <title>[Marketing][마케팅레시피] AI 슬롭, 구글과 유튜브는 어떻게 막고 있을까?</title>
-      <link>https://maily.so/marketingrecipe/posts/1do1d540ox6</link>
-      <guid>https://maily.so/marketingrecipe/posts/1do1d540ox6</guid>
-      <category>Marketing</category>
-      <pubDate>2026.09.03</pubDate>
-      <description>[한-입 트렌드] Recipe.172 AI 슬롭. 💌 마케팅레시피 인스타그램을 소개합니다 💌 이제 마케팅레시피의 이야기를 인스타그램에서도 만나보세요. 한입트렌드, 주방장 talk, 마슐랭가이드의 핵심 내용을 짧고 가볍게 확인하고,</description>
-    </item>
-    <item>
       <title>[Culture][레터의마음] 🦥 레터의 마음 #4 두 눈을 크게 뜨고</title>
       <link>https://maily.so/mylazyhope/posts/wjzdxlq8r3p</link>
       <guid>https://maily.so/mylazyhope/posts/wjzdxlq8r3p</guid>
@@ -654,14 +670,6 @@
       <description>대학의 문을 연 '아카데믹 돈키'와 쇼핑 사각 지대와 로손, 그리고 '분키츠∙ 셰어라운지'와 카시오가 여태 팔리는 이유. ⏰ 약 2주에 걸쳐 작성된 레터입니다. 그래서 중간중간 내용 상의 시차가 존재해요. 여름의 늘 그렇듯 어느새 시작해 어쩌다 끝이 나버리는 계절...</description>
     </item>
     <item>
-      <title>[Lifestyle][SIDE] SIDE 288호: 프리워커로 4년, 전환점 회고</title>
-      <link>https://maily.so/side/posts/92zekvdpzep</link>
-      <guid>https://maily.so/side/posts/92zekvdpzep</guid>
-      <category>Lifestyle</category>
-      <pubDate>2026.09.02</pubDate>
-      <description>슬기의 프리워커 회고록 1편. 구독자 님, 안녕하세요. 슬기입니다. 연일 비가 내리더니 여름도 쏙 사라진 것 같아요. 너무 뜨거워서 빨리 지나갔으면 했는데, 막상 가니까 조금 아쉽네요 하핫..🌞 왜 항상</description>
-    </item>
-    <item>
       <title>[Knowledge][함재봉의 한.사.만.] 사료로 보는 민비에 대한 평가</title>
       <link>https://maily.so/hahmc/posts/5xrx80l5o2v</link>
       <guid>https://maily.so/hahmc/posts/5xrx80l5o2v</guid>
@@ -750,14 +758,6 @@
       <description>광학 이중인증 나노소재, 소변 기반 비침습 암 진단 플랫폼, AI 설계 소프트 로봇 손 등 이번 주 국내 주요 연구성과 11선. 이번 편에서는 아래 키워드들을 모았어요: #물리적복제방지(PUF) #나노지문 #마이크로RNA(miRNA) #표면증강라만산란(SERS) ...</description>
     </item>
     <item>
-      <title>[Knowledge][컨템플레이티브] ISSUE 24. 🍇9월, 아직 아무런 열매도 맺지 못한 분들에게</title>
-      <link>https://maily.so/contemplative.today/posts/wdr9q020olx</link>
-      <guid>https://maily.so/contemplative.today/posts/wdr9q020olx</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.09.01</pubDate>
-      <description>당신의 고유성을 발견, 선택을 위한 컨템플레이티브입니다.. 2026. 9. 1 먼슬리레터 안녕하세요, 컨템플레이티브입니다. 9월이 되면 묘하게 마음이 쫓깁니다. 달력은 어느새 하반기를 가리키고 있고, 세상은 약속이라도 한 듯 '결실'과 '</description>
-    </item>
-    <item>
       <title>[Society][대전DFC 소식지 Dstory] 대전DFC 소식지 D_story 2026년 9월</title>
       <link>https://maily.so/dstory/posts/8do72wmdrgq</link>
       <guid>https://maily.so/dstory/posts/8do72wmdrgq</guid>
@@ -772,6 +772,13 @@
       <category>Society</category>
       <pubDate>2026.09.01</pubDate>
       <description>학술과 일상 사이, 공감랩이 함께 만들어 간 2026년 상반기. 안녕하세요! 개강과 함께 가을비가 시원하게 내리는 가운데, 다들 새로운 학기를 잘 맞이하고 있나요? 2026년 1학기에 &lt;공간과 감각&gt; 연구실은 다양한 분야에서 활발한 학술 활동을</description>
+    </item>
+    <item>
+      <title>[AI/Tech][넥서스알파랩] 🤖 오픈AI가 로봇을 만듭니다. 근데 팔 생각이 없어요 🍚</title>
+      <link>https://maily.so/nexusalphalab/posts/mjz6kdwwrwk</link>
+      <guid>https://maily.so/nexusalphalab/posts/mjz6kdwwrwk</guid>
+      <category>AI/Tech</category>
+      <description>두뇌가 중요하다면서, 뽑는 사람은 전부 몸입니다. 안녕하세요, 넥서스알파랩입니다. 뉴스 한 줄 뒤에 뭐가 걸려 있는지 파는 뉴스레터예요. 오늘 준비한 내용입니다. ✍️ 알트만이 휴머노이드를 확정했습니다 ✍️ 근데 채용 공고가 이상</description>
     </item>
     <item>
       <title>[AI/Tech][CodingStar 마케팅 프로그램] ChatGPT vs Claude: how to compare AI answers side by side</title>
@@ -851,11 +858,11 @@
       <description>&quot;구글에서 안 보이면 GPT에서도 안 보입니다&quot; 헤일로엑스(HaloX) 이재철 대표. GPT 답변에 우리 브랜드가 나오게 하고 싶다면, 먼저 구글부터 잡아야 합니다. 헤일로엑스(HaloX)의 이재철 대표가 GEO를 설명하면서 내린 결론이에요 . SEO와 GEO는 한</description>
     </item>
     <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] Gemini vs Grok: how to compare AI answers side by side</title>
-      <link>https://maily.so/codingstar/posts/wdr9qxm7olx</link>
-      <guid>https://maily.so/codingstar/posts/wdr9qxm7olx</guid>
-      <category>AI/Tech</category>
-      <description>Give Gemini and Grok the same task, keep the test fair, and choose the answer that survives your own checks rather than the one that sounds most confident.. ...</description>
+      <title>[Marketing][비즈니스 연구 분석하는 훈] AI가 초안 73%를 쓰는데 왜 안 팔릴까</title>
+      <link>https://maily.so/business.report/posts/1do1d7exox6</link>
+      <guid>https://maily.so/business.report/posts/1do1d7exox6</guid>
+      <category>Marketing</category>
+      <description>지난주에 나온 Product Marketing Alliance의 2026년 조사를 보다가 손이 멈춘 숫자가 있습니다. 제품 마케터의 73%가 런치 카피 첫 초안을 AI에 맡기고 있</description>
     </item>
     <item>
       <title>[Marketing][자작자작] 9월 뉴스레터</title>
@@ -933,13 +940,6 @@
       <guid>https://maily.so/everycampaign/posts/x1zg58mpoqg</guid>
       <category>Marketing</category>
       <description>구독자, 오늘은 '세상 모든 캠페인'의 404번째 별이야.. ❗시작 전 유의 사항 매 뉴스레터마다 중복되는 문장이 있을 거야. &lt;세상 모든 캠페인&gt;을 처음 보는 사람들은 이해가 안 될 것 같은 부분과 내가 꼭 전달하고 싶은 부분의 텍스트는</description>
-    </item>
-    <item>
-      <title>[Marketing][마케팅레시피] AI 슬롭, 구글과 유튜브는 어떻게 막고 있을까?</title>
-      <link>https://maily.so/marketingrecipe/posts/1do1d540ox6</link>
-      <guid>https://maily.so/marketingrecipe/posts/1do1d540ox6</guid>
-      <category>Marketing</category>
-      <description>[한-입 트렌드] Recipe.172 AI 슬롭. 💌 마케팅레시피 인스타그램을 소개합니다 💌 이제 마케팅레시피의 이야기를 인스타그램에서도 만나보세요. 한입트렌드, 주방장 talk, 마슐랭가이드의 핵심 내용을 짧고 가볍게 확인하고,</description>
     </item>
     <item>
       <title>[Culture][주간모기영] 2026년 주간모기영 210호</title>
@@ -1194,6 +1194,13 @@
       <description>은퇴 호소인의 투자 인사이트. 안녕하세요. 은호입니다. 휴머노이드 산업은 2026년 들어 대규모 공급 계약과 생산 목표가 잇따라 공개되며 상용화 기대가 빠르게 커지고 있습니다. 다만 시장의 관심도 이제 몇 대를</description>
     </item>
     <item>
+      <title>[Lifestyle][이민아의 생명과 몸 뉴스레터] 📩 편지 17 호</title>
+      <link>https://maily.so/drminalife/posts/32z8dp61rn4</link>
+      <guid>https://maily.so/drminalife/posts/32z8dp61rn4</guid>
+      <category>Lifestyle</category>
+      <description>자궁경부암 백신을 둘러싼 오해. 안녕하세요. 이민아 입니다. 자궁경부암 백신 이야기가 나오면</description>
+    </item>
+    <item>
       <title>[Lifestyle][한 편의 진실] 나만 이런 건지 궁금해서</title>
       <link>https://maily.so/jinsol/posts/5xrx8dk7o2v</link>
       <guid>https://maily.so/jinsol/posts/5xrx8dk7o2v</guid>
@@ -1271,11 +1278,11 @@
       <description>대학의 문을 연 '아카데믹 돈키'와 쇼핑 사각 지대와 로손, 그리고 '분키츠∙ 셰어라운지'와 카시오가 여태 팔리는 이유. ⏰ 약 2주에 걸쳐 작성된 레터입니다. 그래서 중간중간 내용 상의 시차가 존재해요. 여름의 늘 그렇듯 어느새 시작해 어쩌다 끝이 나버리는 계절특성을 고려한다고 ...</description>
     </item>
     <item>
-      <title>[Lifestyle][SIDE] SIDE 288호: 프리워커로 4년, 전환점 회고</title>
-      <link>https://maily.so/side/posts/92zekvdpzep</link>
-      <guid>https://maily.so/side/posts/92zekvdpzep</guid>
-      <category>Lifestyle</category>
-      <description>슬기의 프리워커 회고록 1편. 구독자 님, 안녕하세요. 슬기입니다. 연일 비가 내리더니 여름도 쏙 사라진 것 같아요. 너무 뜨거워서 빨리 지나갔으면 했는데, 막상 가니까 조금 아쉽네요 하핫..🌞 왜 항상</description>
+      <title>[Knowledge][THE PUNT] 스코틀랜드가 영국으로부터 독립하면 무슨 일이 일어날까?</title>
+      <link>https://maily.so/thepunt/posts/x1zg5dw5oqg</link>
+      <guid>https://maily.so/thepunt/posts/x1zg5dw5oqg</guid>
+      <category>Knowledge</category>
+      <description>2014년 주민투표와 브렉시트 이후 다시 불붙은 독립 논쟁. 지난주 스코틀랜드는 왜 영국을 떠나려 하는가에 이어 스코틀랜드가 영국으로부터 독립하려는 움직임을 보이는 것에 대한 이야기를 다룬 두번째 글입니다. 2014년 9월 18일, 스코틀랜</description>
     </item>
     <item>
       <title>[Knowledge][쉘든의 밀리터리] GTS 2026 - 3</title>
@@ -1353,13 +1360,6 @@
       <guid>https://maily.so/deldot/posts/2nznq62gzp5</guid>
       <category>Knowledge</category>
       <description>광학 이중인증 나노소재, 소변 기반 비침습 암 진단 플랫폼, AI 설계 소프트 로봇 손 등 이번 주 국내 주요 연구성과 11선. 이번 편에서는 아래 키워드들을 모았어요: #물리적복제방지(PUF) #나노지문 #마이크로RNA(miRNA) #표면증강라만산란(SERS) #만성콩팥병 #JN...</description>
-    </item>
-    <item>
-      <title>[Knowledge][컨템플레이티브] ISSUE 24. 🍇9월, 아직 아무런 열매도 맺지 못한 분들에게</title>
-      <link>https://maily.so/contemplative.today/posts/wdr9q020olx</link>
-      <guid>https://maily.so/contemplative.today/posts/wdr9q020olx</guid>
-      <category>Knowledge</category>
-      <description>당신의 고유성을 발견, 선택을 위한 컨템플레이티브입니다.. 2026. 9. 1 먼슬리레터 안녕하세요, 컨템플레이티브입니다. 9월이 되면 묘하게 마음이 쫓깁니다. 달력은 어느새 하반기를 가리키고 있고, 세상은 약속이라도 한 듯 '결실'과 '</description>
     </item>
     <item>
       <title>[Society][베프레터] [특별호] 9월 1호 베프레터</title>
