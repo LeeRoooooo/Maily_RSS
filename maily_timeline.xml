@@ -6,12 +6,28 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] Claude vs Qwen: compare AI models side by side on the same document</title>
+      <link>https://maily.so/codingstar/posts/10z394plzlw</link>
+      <guid>https://maily.so/codingstar/posts/10z394plzlw</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.09.13</pubDate>
+      <description>Attach the same file for Claude and Qwen, compare what each summary keeps and drops, and keep a short note so one confident answer does not become ...</description>
+    </item>
+    <item>
       <title>[Culture][블루] 안희수 단독 공연 &lt;머물 수 있는 곳&gt;</title>
       <link>https://maily.so/loveinthewaves/posts/vpzlnd22rk9</link>
       <guid>https://maily.so/loveinthewaves/posts/vpzlnd22rk9</guid>
       <category>Culture</category>
       <pubDate>2026.09.13</pubDate>
       <description>세상엔 말뿐인 말들이 너무나 많이 존재하니까. 개인적으로 정말 좋아하는 가수들의 콘서트를 하나둘씩 도장깨기 하는 중인데, 원래의 나라면 한 번 공연을 다녀온 가수들의 공연은 안 갔을 수도 있지만 이번만큼은 한 번 더 가고 싶다</description>
+    </item>
+    <item>
+      <title>[Knowledge][하루 영어 한개] [2026년 9월] 첫번째 복습 뉴스레터</title>
+      <link>https://maily.so/1wordaday/posts/10z39m46zlw</link>
+      <guid>https://maily.so/1wordaday/posts/10z39m46zlw</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.09.13</pubDate>
+      <description>2주 동안 공부한 4개의 영어를 복습합니다.. 아침과 저녁에 입을 겉옷을 챙길만큼 일교차가 큰 요즘 날씨입니다. 환절기라 독감이 유행한다고 하니, 몸 관리 잘하세요! 배운 것 떠올리기 먼저, 지난 2주 동안 배운 단어와 표현을</description>
     </item>
     <item>
       <title>[Knowledge][Listening Heart] 충실하게 여기 있다는 것</title>
@@ -478,14 +494,6 @@
       <description>기증기록으로 보는 학교사회복지 이야기. 여는 말 사랑의열매 나눔문화아카이브 기억하시지요? 나눔문화아카이브 디지털 플랫폼에서 올해부터 기록칼럼 페이지를 오픈하고 한편 한편 발행 중인데요. &lt;기록과 사회&gt;에도 나누고 싶어</description>
     </item>
     <item>
-      <title>[AI/Tech][비즈니스 스토리] 구독자 5,000명도 안 되는 리스트로 매출 100만 달러를 만든 이메일 자동화</title>
-      <link>https://maily.so/bizstory/posts/vpzlnlydrk9</link>
-      <guid>https://maily.so/bizstory/posts/vpzlnlydrk9</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.09.10</pubDate>
-      <description>같은 상품을 30일 동안 다르게 파는 이메일 엔진. 한눈에 보기 케네디는 무대에서 심리 마인드리더로 일하다 이메일 마케터가 된 사람이에요. 롭 템플과 함께 세운 Email Marketing Heroes에서 코치와 강의 판매자에게 이</description>
-    </item>
-    <item>
       <title>[Marketing][B2B 테크. 파는 일의 현장노트] 12화. 우리는 어떤 조직을 꾸려야 할까?</title>
       <link>https://maily.so/successchoi/posts/8mo56232r9p</link>
       <guid>https://maily.so/successchoi/posts/8mo56232r9p</guid>
@@ -718,14 +726,6 @@
       <description>아구통. 안녕하세요. 돌아온 수요일의 이종철, 수종철입니다. 오늘은 ‘아구통 선생님’ 장형우 교수님이 쓴 ‘비만록’ 읽은 이야기를 들려드릴까 합니다. 저는 사실 이 책을 읽기 전부터 이분께</description>
     </item>
     <item>
-      <title>[Knowledge][쉘든의 밀리터리] GTS 2026 - 5</title>
-      <link>https://maily.so/sheldon/posts/10z39em6zlw</link>
-      <guid>https://maily.so/sheldon/posts/10z39em6zlw</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.09.09</pubDate>
-      <description>차세대 전투기를 위한 터보팬 엔진 개발 방향. 공군은 KF-16U의 대체 소요로 6세대급 고성능 다목적 전투기를 개발하는 '차세대전투기' 사업을 준비하고 있다. 차세대전투기는 센서 정보를 융합하여 전장 상황정보를 조종사가 확인</description>
-    </item>
-    <item>
       <title>[Society][시사한줄] [복사] 개헌·공소취소 논란, 흔들리는 국정 지지율 핵심 기사 10가지 소식 전달드립니다.</title>
       <link>https://maily.so/hyezueliter/posts/d5ryw458z1w</link>
       <guid>https://maily.so/hyezueliter/posts/d5ryw458z1w</guid>
@@ -772,6 +772,13 @@
       <category>Society</category>
       <pubDate>2026.09.09</pubDate>
       <description>9월의 더슬래시는 &amp;lt;공존을 위한 AI 리터러시: 인공지능, 평화·인권으로 읽어내기&amp;gt; 자료집과 영상강의 개발에 참여한 피스모모의 진행자들의 이야기를 듣습니다. 자료집과 영상강의는 피</description>
+    </item>
+    <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] Claude vs Qwen: compare AI models side by side on the same document</title>
+      <link>https://maily.so/codingstar/posts/10z394plzlw</link>
+      <guid>https://maily.so/codingstar/posts/10z394plzlw</guid>
+      <category>AI/Tech</category>
+      <description>Attach the same file for Claude and Qwen, compare what each summary keeps and drops, and keep a short note so one confident answer does not become a rule.. B...</description>
     </item>
     <item>
       <title>[AI/Tech][Welaunch] 애플, 가변 조리개·2나노 칩 품은 ‘아이폰 18 프로’ 공개… 한국 1차 출시국에 포함</title>
@@ -849,13 +856,6 @@
       <guid>https://maily.so/darock/posts/l1zqy88er5x</guid>
       <category>AI/Tech</category>
       <description>와인처럼 어려운 커피 라벨링 읽기. 낮에는 파사드 도면 그리고, 밤에는 원두 볶는 사람입니다. 오늘은 요즘 제가 계속 손이 가는 원두, 예가체프 얘기부터 시작해볼게요. 예가체프가 뭔데 예가체프(Yirgacheffe)</description>
-    </item>
-    <item>
-      <title>[AI/Tech][비즈니스 스토리] 구독자 5,000명도 안 되는 리스트로 매출 100만 달러를 만든 이메일 자동화</title>
-      <link>https://maily.so/bizstory/posts/vpzlnlydrk9</link>
-      <guid>https://maily.so/bizstory/posts/vpzlnlydrk9</guid>
-      <category>AI/Tech</category>
-      <description>같은 상품을 30일 동안 다르게 파는 이메일 엔진. 한눈에 보기 케네디는 무대에서 심리 마인드리더로 일하다 이메일 마케터가 된 사람이에요. 롭 템플과 함께 세운 Email Marketing Heroes에서 코치와 강의 판매자에게 이</description>
     </item>
     <item>
       <title>[Marketing][하우코칭] [HR 특강] 1:1 코칭의 한계를 넘어, 조직 전체의 시너지를 만드는 '그룹코칭'의 힘</title>
@@ -1278,6 +1278,13 @@
       <description>아구통. 안녕하세요. 돌아온 수요일의 이종철, 수종철입니다. 오늘은 ‘아구통 선생님’ 장형우 교수님이 쓴 ‘비만록’ 읽은 이야기를 들려드릴까 합니다. 저는 사실 이 책을 읽기 전부터 이분께</description>
     </item>
     <item>
+      <title>[Knowledge][하루 영어 한개] [2026년 9월] 첫번째 복습 뉴스레터</title>
+      <link>https://maily.so/1wordaday/posts/10z39m46zlw</link>
+      <guid>https://maily.so/1wordaday/posts/10z39m46zlw</guid>
+      <category>Knowledge</category>
+      <description>2주 동안 공부한 4개의 영어를 복습합니다.. 아침과 저녁에 입을 겉옷을 챙길만큼 일교차가 큰 요즘 날씨입니다. 환절기라 독감이 유행한다고 하니, 몸 관리 잘하세요! 배운 것 떠올리기 먼저, 지난 2주 동안 배운 단어와 표현을</description>
+    </item>
+    <item>
       <title>[Knowledge][Listening Heart] 충실하게 여기 있다는 것</title>
       <link>https://maily.so/listeningheart/posts/x1zg5k7koqg</link>
       <guid>https://maily.so/listeningheart/posts/x1zg5k7koqg</guid>
@@ -1353,13 +1360,6 @@
       <guid>https://maily.so/forestlabs/posts/92zekxmpzep</guid>
       <category>Knowledge</category>
       <description>여덟 편의 첫 소설 3 — 방관자를 쓰는 아이들. 안녕하세요 구독자 님, 생각의 숲 김혜원입니다. 여름동안 작가들의 시놉시스와 원고 초안을 읽고 있습니다. 처음부터 알고 있긴 했지만 학교에 대한 이야기를 할 때 빠지지 않는</description>
-    </item>
-    <item>
-      <title>[Knowledge][쉘든의 밀리터리] GTS 2026 - 5</title>
-      <link>https://maily.so/sheldon/posts/10z39em6zlw</link>
-      <guid>https://maily.so/sheldon/posts/10z39em6zlw</guid>
-      <category>Knowledge</category>
-      <description>차세대 전투기를 위한 터보팬 엔진 개발 방향. 공군은 KF-16U의 대체 소요로 6세대급 고성능 다목적 전투기를 개발하는 '차세대전투기' 사업을 준비하고 있다. 차세대전투기는 센서 정보를 융합하여 전장 상황정보를 조종사가 확인</description>
     </item>
     <item>
       <title>[Society][빈자리교회] 빈자리교회 | 2026년 9월 13일 | 성령강림절 후 열여섯째 주일</title>
