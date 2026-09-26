@@ -6,6 +6,22 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] Compare ChatGPT vs Grok on year-end tax questions</title>
+      <link>https://maily.so/codingstar/posts/g1o40qvwzve</link>
+      <guid>https://maily.so/codingstar/posts/g1o40qvwzve</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.09.27</pubDate>
+      <description>Use one tax prompt, compare assumptions, sources, and missing facts before you act.. Compare tax answers before trusting a polished explanation. Op...</description>
+    </item>
+    <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] 카페 DB에서 고객 질문을 먼저 골라 방문자 낭비 줄이는 방법</title>
+      <link>https://maily.so/codingstar/posts/wjzdngjyo3p</link>
+      <guid>https://maily.so/codingstar/posts/wjzdngjyo3p</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.09.27</pubDate>
+      <description>카페 아이디 수집·추출 결과에서 광고 글을 빼고 문의 표현만 남기는 순서.. 홈페이지에서 기능을 보고 https://ncafe-mining-machine.vercel.app 래피드에서 구매 정보를 확인해요. https://www.latpeed.com/pro</description>
+    </item>
+    <item>
       <title>[Knowledge][Tak의 여의주] 진짜전쟁 아프리카편 리뷰</title>
       <link>https://maily.so/taksaka/posts/32z83m7pon4</link>
       <guid>https://maily.so/taksaka/posts/32z83m7pon4</guid>
@@ -92,22 +108,6 @@
       <category>AI/Tech</category>
       <pubDate>2026.09.26</pubDate>
       <description>PR의 75%를 에이전트가 짜는 램프, 고객 불만부터 출시까지 다섯 단계의 병목을 푼 방법. 램프(Ramp)에서 지난 한 달 동안 올라온 코드 변경 요청(PR) 가운데 1,000건은 엔지니어가 아닌 사람이 제출했습니다. 전체 PR의 75%는 사내 코딩 에이전트가 ...</description>
-    </item>
-    <item>
-      <title>[AI/Tech][핫비즈니스테크] 업워크 일감을 AI에게 맡겼더니, 1만 4천 원짜리 주문의 원가가 14원이었다</title>
-      <link>https://maily.so/hotbiz/posts/g1o40qpwzve</link>
-      <guid>https://maily.so/hotbiz/posts/g1o40qpwzve</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.09.26</pubDate>
-      <description>그렉 아이젠버그가 직접 만들어 공개한 1인 AI 서비스 회사의 설계도와 창업 아이디어 3가지. 블러드 오렌지 식전주를 새로 내놓는 고객이 광고 이미지 한 장을 주문했습니다. 고객이 내겠다는 돈은 10달러(약 1만 4천 원)였어요. AI가 계산한 제작 원가는 1센트...</description>
-    </item>
-    <item>
-      <title>[AI/Tech][핫비즈니스테크] 기업가치 18조 원 러버블 창업자 &quot;매일 반복하는 그 일이 다음 사업입니다&quot;</title>
-      <link>https://maily.so/hotbiz/posts/1gz2wxl5z3q</link>
-      <guid>https://maily.so/hotbiz/posts/1gz2wxl5z3q</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.09.26</pubDate>
-      <description>러버블 공동창업자 안톤 오시카가 말하는, 11년 차 실무자가 창업에 가장 유리한 이유. 러버블(Lovable)은 창업한 지 2년이 채 안 됐습니다. 그런데 기업가치는 130억 달러(약 18조 원)예요. 러버블로 만든 앱들을 다 합치면 한 달 방문 수가 10억 회에 가</description>
     </item>
     <item>
       <title>[Marketing][제이마켓나비] 일본 트위터 마케팅, 왜 인스타보다 X(트위터)가 먼저일까?</title>
@@ -774,6 +774,20 @@
       <description>섬과 바다, 그리고 책과 사람 사이에서 눈을 맞추어. Haree malu ho domin. 발리에서 잔뜩 느낀 쉼의 여운을 뒤로하고, 다시 일상의 출발선에 선 한 주. 휴가의 달콤함에서 벗어나 마주한 일상은 참 신기하게도 저마다의 얼</description>
     </item>
     <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] Compare ChatGPT vs Grok on year-end tax questions</title>
+      <link>https://maily.so/codingstar/posts/g1o40qvwzve</link>
+      <guid>https://maily.so/codingstar/posts/g1o40qvwzve</guid>
+      <category>AI/Tech</category>
+      <description>Use one tax prompt, compare assumptions, sources, and missing facts before you act.. Compare tax answers before trusting a polished explanation. Open Introdu...</description>
+    </item>
+    <item>
+      <title>[AI/Tech][CodingStar 마케팅 프로그램] 카페 DB에서 고객 질문을 먼저 골라 방문자 낭비 줄이는 방법</title>
+      <link>https://maily.so/codingstar/posts/wjzdngjyo3p</link>
+      <guid>https://maily.so/codingstar/posts/wjzdngjyo3p</guid>
+      <category>AI/Tech</category>
+      <description>카페 아이디 수집·추출 결과에서 광고 글을 빼고 문의 표현만 남기는 순서.. 홈페이지에서 기능을 보고 https://ncafe-mining-machine.vercel.app 래피드에서 구매 정보를 확인해요. https://www.latpeed.com/pro</description>
+    </item>
+    <item>
       <title>[AI/Tech][핫비즈니스테크] 매출은 3조 원이 넘는데 고객마다 적자였다, 커서가 84조 원에 일론 머스크에게 팔린 이유</title>
       <link>https://maily.so/hotbiz/posts/l1zq1w8er5x</link>
       <guid>https://maily.so/hotbiz/posts/l1zq1w8er5x</guid>
@@ -842,20 +856,6 @@
       <guid>https://maily.so/hotbiz/posts/knrjk9x7zld</guid>
       <category>AI/Tech</category>
       <description>PR의 75%를 에이전트가 짜는 램프, 고객 불만부터 출시까지 다섯 단계의 병목을 푼 방법. 램프(Ramp)에서 지난 한 달 동안 올라온 코드 변경 요청(PR) 가운데 1,000건은 엔지니어가 아닌 사람이 제출했습니다. 전체 PR의 75%는 사내 코딩 에이전트가 만들었고요</description>
-    </item>
-    <item>
-      <title>[AI/Tech][핫비즈니스테크] 업워크 일감을 AI에게 맡겼더니, 1만 4천 원짜리 주문의 원가가 14원이었다</title>
-      <link>https://maily.so/hotbiz/posts/g1o40qpwzve</link>
-      <guid>https://maily.so/hotbiz/posts/g1o40qpwzve</guid>
-      <category>AI/Tech</category>
-      <description>그렉 아이젠버그가 직접 만들어 공개한 1인 AI 서비스 회사의 설계도와 창업 아이디어 3가지. 블러드 오렌지 식전주를 새로 내놓는 고객이 광고 이미지 한 장을 주문했습니다. 고객이 내겠다는 돈은 10달러(약 1만 4천 원)였어요. AI가 계산한 제작 원가는 1센트, 우리 돈</description>
-    </item>
-    <item>
-      <title>[AI/Tech][핫비즈니스테크] 기업가치 18조 원 러버블 창업자 &quot;매일 반복하는 그 일이 다음 사업입니다&quot;</title>
-      <link>https://maily.so/hotbiz/posts/1gz2wxl5z3q</link>
-      <guid>https://maily.so/hotbiz/posts/1gz2wxl5z3q</guid>
-      <category>AI/Tech</category>
-      <description>러버블 공동창업자 안톤 오시카가 말하는, 11년 차 실무자가 창업에 가장 유리한 이유. 러버블(Lovable)은 창업한 지 2년이 채 안 됐습니다. 그런데 기업가치는 130억 달러(약 18조 원)예요. 러버블로 만든 앱들을 다 합치면 한 달 방문 수가 10억 회에 가</description>
     </item>
     <item>
       <title>[Marketing][제이마켓나비] 일본 트위터 마케팅, 왜 인스타보다 X(트위터)가 먼저일까?</title>
