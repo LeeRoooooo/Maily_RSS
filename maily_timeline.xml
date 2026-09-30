@@ -6,6 +6,22 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[Knowledge][Tak의 여의주] 진짜전쟁 인도편 리뷰</title>
+      <link>https://maily.so/taksaka/posts/2nznjegmrp5</link>
+      <guid>https://maily.so/taksaka/posts/2nznjegmrp5</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.10.01</pubDate>
+      <description>제조업도 고인물이 잘한다. 스타크래프트, 서든어택, 크레이지아케이드같은 대전게임, 다들 많이 해보셨을겁니다 이 게임을 꾸준히 하시는 분들도 있지만 평소에 하지 않다가 어쩌다 한번 친구와 하면 재미있습니다 그</description>
+    </item>
+    <item>
+      <title>[AI/Tech][플희레터] #32 그냥 좋은 장면은 없다</title>
+      <link>https://maily.so/plhee.letter/posts/vpzlkq1mrk9</link>
+      <guid>https://maily.so/plhee.letter/posts/vpzlkq1mrk9</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.09.30</pubDate>
+      <description>방향, 모양, 거리로 장면의 감정을 만드는 법. 김플희입니다. 얼마 전 도서관에서 책을 한 권 빌렸습니다. 신승윤 작가의 《그냥 좋은 장면은 없다》. 부제는 '마음을 움직이는 시각코드의 비밀 20'이에요.</description>
+    </item>
+    <item>
       <title>[AI/Tech][모범 AI] [지금 시작] AI 마케팅 직원 설계 특강, 라이브 진행 중입니다</title>
       <link>https://maily.so/mobumai/posts/wjzdn518o3p</link>
       <guid>https://maily.so/mobumai/posts/wjzdn518o3p</guid>
@@ -94,14 +110,6 @@
       <description>1인 법인의 정기자문 첫 달 — 이메일 3건, 계약서 1건에서 나온 것. &quot;제가 뭘 모르는지도 모르는 상태입니다.&quot; AI 1인 기업의 첫 메일은 이렇게 시작했습니다. 첫 달에 사이트를 직접 열어보고 찾은 네 가지를 정리했습니다. 안녕하세요, 권단 변호사</description>
     </item>
     <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] 카페 DB 파일 오류 줄여 소액 광고 테스트 준비하는 방법</title>
-      <link>https://maily.so/codingstar/posts/3jrkld78z51</link>
-      <guid>https://maily.so/codingstar/posts/3jrkld78z51</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.09.30</pubDate>
-      <description>카페 아이디 공개 글은 표현 참고용으로 두고, 이메일 DB의 열·빈칸·제외 목록을 점검하는 순서.. 홈페이지에서 기능을 보고, 래피드에서 구매 정보를 봐요. 파일 열이 섞이면 업로드 오류를 고치느라 소액 테스트가 늦어져요. 카페 아이디 공개 글은 표현 참고 자료예...</description>
-    </item>
-    <item>
       <title>[Marketing][B2B 테크. 파는 일의 현장노트] 15화. AI야, 이거 가격승인 문서랑 이메일 작성해줘?</title>
       <link>https://maily.so/successchoi/posts/32z830ljon4</link>
       <guid>https://maily.so/successchoi/posts/32z830ljon4</guid>
@@ -188,6 +196,14 @@
       <category>Marketing</category>
       <pubDate>2026.09.30</pubDate>
       <description>구독자 님, 안녕하세요. INTER.R입니다. 짧아서 조금은 아쉬웠던 추석 연휴는 잘 보내셨나요? 이번 레터는 연휴 전 진행했던 GEO 아카데미로 시작할까 하는데요. 지난 9</description>
+    </item>
+    <item>
+      <title>[Culture][Beyond L] Beyond L | 서울행사에서 서울아님안되냐고 말하기</title>
+      <link>https://maily.so/beyondl/posts/10z37klvolw</link>
+      <guid>https://maily.so/beyondl/posts/10z37klvolw</guid>
+      <category>Culture</category>
+      <pubDate>2026.09.30</pubDate>
+      <description>로컬 문화예술 큐레이션 뉴스레터 EP9.. 서울에서 열리는 행사에서 서울아니면안되냐고 말하기 안녕하세요, 현주입니다. 서울 코엑스에서 열린 행사에서 '서울 아니면 안 되냐' 이야기 했습니다.</description>
     </item>
     <item>
       <title>[Culture][제비레터] 👻🦥 #012 | 진짜 맛만 보셔, 어차피 두 스푼 밖에 못 드려</title>
@@ -427,7 +443,7 @@
       <guid>https://maily.so/voca.chinese/posts/vpzlkq5mrk9</guid>
       <category>Knowledge</category>
       <pubDate>2026.09.30</pubDate>
-      <description>2026년 9월 중국 뉴스 시사·신조어 표현 175개 총정리 · 한자·병음·한글 발음 한 줄 정리. 안녕하세요! 18년 차 중국어 스페셜리스트, 보카입니다 👋 9월 한 달, 잘 보내셨나요? 이번 달에는 뉴스레터 4편과 함께했네요.</description>
+      <description>2026년 9월 중국 뉴스 시사·신조어 표현 175개 총정리 · 한자·병음·한글 발음 한 줄 정리. 안녕하세요! 실제로 쓰는 중국어 표현을 골라 메일로 보내드리는 뉴스레터 &lt;보카의 중국어&gt;입니다. 인스타그램 '보카집중'을 운영하는 18년 차 중국어 스페셜리스트, ...</description>
     </item>
     <item>
       <title>[Knowledge][Tak의 여의주] 북한/파키스탄편 리뷰</title>
@@ -460,6 +476,14 @@
       <category>Knowledge</category>
       <pubDate>2026.09.30</pubDate>
       <description>안녕하세요, Mollue의 Iris입니다. 먼저 중요한 소식을 하나 전해드리려 합니다. Mollue는 앞으로 격주 수요일에 여러분을 찾아뵙습니다. 최근 회사로 돌아간 뒤로 스스로</description>
+    </item>
+    <item>
+      <title>[Society][초장레터] 버려질 뻔한 조각에게 새 쓰임을</title>
+      <link>https://maily.so/greenycart/posts/x1zg672prqg</link>
+      <guid>https://maily.so/greenycart/posts/x1zg672prqg</guid>
+      <category>Society</category>
+      <pubDate>2026.09.30</pubDate>
+      <description>구독자님 안녕하세요, 초장레터의 2026년 일곱 번째 이야기를 시작합니다! 이번 달은 어떻게 보내셨나요? 초장레터는 매월 마지막 날, 짤막한 환경 에세이를 보내드리고 있어요.</description>
     </item>
     <item>
       <title>[Society][강원인재원] 강원인재원 소식 '이루다' 2026 가을(통권 제46호)</title>
@@ -556,14 +580,6 @@
       <category>Culture</category>
       <pubDate>2026.09.29</pubDate>
       <description>말을 걸어오는 사람이 많아졌다. 출간도 했겠다, 북토크도 무탈히 진행되고 있으니 여기저기서 축하의 연락을 받는 건 자연스러운 일. 신기한 건 오프라인에서도 불쑥 다가오는 사람이</description>
-    </item>
-    <item>
-      <title>[Culture][차우진의 엔터문화연구소] 🗝️ 유니버설과 일레븐랩스 계약의 핵심은 '팬'이다</title>
-      <link>https://maily.so/draft.briefing/posts/32z83061on4</link>
-      <guid>https://maily.so/draft.briefing/posts/32z83061on4</guid>
-      <category>Culture</category>
-      <pubDate>2026.09.29</pubDate>
-      <description>AI 시대에 참여와 보상은 더 중요해진다. 9월 10일 유니버설뮤직그룹(이하 유니버설)이 AI 회사 일레븐랩스(ElevenLabs)와 다년 라이선스 계약을 발표했다. 이 계약에서 두 회사는 새로운 AI 음악 플랫폼을 공동으</description>
     </item>
     <item>
       <title>[Career][2000년생의 링크드인 생존기] 직원 계정 하나로 리드 4건</title>
@@ -739,15 +755,7 @@
       <guid>https://maily.so/voca.chinese/posts/10z37kkjolw</guid>
       <category>Knowledge</category>
       <pubDate>2026.09.28</pubDate>
-      <description>5분 만에 읽는 9월 4주차 중국 뉴스 요약 · 핵심 표현 35개. 안녕하세요! 18년 차 중국어 스페셜리스트, 보카입니다 👋 매주 월요일 아침, 지난 한 주 중국 뉴스에 실제로 나온 표현을 정리해서 보내드려요.</description>
-    </item>
-    <item>
-      <title>[Knowledge][Tak의 여의주] 진짜전쟁 동아시아편 리뷰</title>
-      <link>https://maily.so/taksaka/posts/2nznjx96rp5</link>
-      <guid>https://maily.so/taksaka/posts/2nznjx96rp5</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.09.28</pubDate>
-      <description>가장 무서운 것은 불확실성이다 동아시아 정세가 그렇다 여러분도 시험을 보는 그 순간 보다, 보기 전이 더 힘들지 않았나요? 저는 시험지를 받기 직전이 가장 괴로웠던 것 같습니다 어</description>
+      <description>5분 만에 읽는 9월 4주차 중국 뉴스 요약 · 핵심 표현 35개 · 병음·한글 발음 정리. 안녕하세요! 실제로 쓰는 중국어 표현을 골라 메일로 보내드리는 뉴스레터 &lt;보카의 중국어&gt;입니다. 인스타그램 '보카집중'을 운영하는 18년 차 중국어 스페셜리스트, 前 해커...</description>
     </item>
     <item>
       <title>[Society][KK Biz 뉴스레터] 인생은 알아가는 것</title>
@@ -766,12 +774,11 @@
       <description>주보 | 2026년 9월 27일 | 성령강림절 후 열여덟째 주일. 순례, 돌봄, 환대 도토리 학교</description>
     </item>
     <item>
-      <title>[Society][하리 한 조각] Vol. 22 이해하리 !</title>
-      <link>https://maily.so/onepeaceofhari/posts/3jrklql6z51</link>
-      <guid>https://maily.so/onepeaceofhari/posts/3jrklql6z51</guid>
-      <category>Society</category>
-      <pubDate>2026.09.25</pubDate>
-      <description>오해를 넘어, 온전한 헤아림 속 이해로. &quot;Hau komprende Ita-nia laran.&quot; (당신의 마음을 이해합니다.) 어쩌면 우리가 세상에 떨어진 이후로 매일같이 해오던 일은, 끊임없이 낯선 것들을 오해하고 또</description>
+      <title>[AI/Tech][플희레터] #32 그냥 좋은 장면은 없다</title>
+      <link>https://maily.so/plhee.letter/posts/vpzlkq1mrk9</link>
+      <guid>https://maily.so/plhee.letter/posts/vpzlkq1mrk9</guid>
+      <category>AI/Tech</category>
+      <description>방향, 모양, 거리로 장면의 감정을 만드는 법. 김플희입니다. 얼마 전 도서관에서 책을 한 권 빌렸습니다. 신승윤 작가의 《그냥 좋은 장면은 없다》. 부제는 '마음을 움직이는 시각코드의 비밀 20'이에요.</description>
     </item>
     <item>
       <title>[AI/Tech][모범 AI] [지금 시작] AI 마케팅 직원 설계 특강, 라이브 진행 중입니다</title>
@@ -849,13 +856,6 @@
       <guid>https://maily.so/dklnews/posts/8mo5mvm4z9p</guid>
       <category>AI/Tech</category>
       <description>1인 법인의 정기자문 첫 달 — 이메일 3건, 계약서 1건에서 나온 것. &quot;제가 뭘 모르는지도 모르는 상태입니다.&quot; AI 1인 기업의 첫 메일은 이렇게 시작했습니다. 첫 달에 사이트를 직접 열어보고 찾은 네 가지를 정리했습니다. 안녕하세요, 권단 변호사</description>
-    </item>
-    <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] 카페 DB 파일 오류 줄여 소액 광고 테스트 준비하는 방법</title>
-      <link>https://maily.so/codingstar/posts/3jrkld78z51</link>
-      <guid>https://maily.so/codingstar/posts/3jrkld78z51</guid>
-      <category>AI/Tech</category>
-      <description>카페 아이디 공개 글은 표현 참고용으로 두고, 이메일 DB의 열·빈칸·제외 목록을 점검하는 순서.. 홈페이지에서 기능을 보고, 래피드에서 구매 정보를 봐요. 파일 열이 섞이면 업로드 오류를 고치느라 소액 테스트가 늦어져요. 카페 아이디 공개 글은 표현 참고 자료예요. 커뮤니티 크</description>
     </item>
     <item>
       <title>[Marketing][B2B 테크. 파는 일의 현장노트] 15화. AI야, 이거 가격승인 문서랑 이메일 작성해줘?</title>
@@ -942,6 +942,13 @@
       <description>세컨드브레인, 젠팀, 젠메일, 디자인, 스킬 등 새 기능 싹 해부!. (뉴스레터 마지막, 푸짐한 선물이 준비된 일잘러 경진대회 소식 꼭 함께 보세요!) 젠스파크 워크스페이스 6.0 : 제 자료를 함께 보는 작가, 디자이너, 기획자를 한 작업실에 모아</description>
     </item>
     <item>
+      <title>[Culture][Beyond L] Beyond L | 서울행사에서 서울아님안되냐고 말하기</title>
+      <link>https://maily.so/beyondl/posts/10z37klvolw</link>
+      <guid>https://maily.so/beyondl/posts/10z37klvolw</guid>
+      <category>Culture</category>
+      <description>로컬 문화예술 큐레이션 뉴스레터 EP9.. 서울에서 열리는 행사에서 서울아니면안되냐고 말하기 안녕하세요, 현주입니다. 서울 코엑스에서 열린 행사에서 '서울 아니면 안 되냐' 이야기 했습니다.</description>
+    </item>
+    <item>
       <title>[Culture][제비레터] 👻🦥 #012 | 진짜 맛만 보셔, 어차피 두 스푼 밖에 못 드려</title>
       <link>https://maily.so/gourd.seed/posts/xyowyle2z28</link>
       <guid>https://maily.so/gourd.seed/posts/xyowyle2z28</guid>
@@ -1017,13 +1024,6 @@
       <guid>https://maily.so/chung.noon/posts/2qzpe8gwo4x</guid>
       <category>Culture</category>
       <description>말을 걸어오는 사람이 많아졌다. 출간도 했겠다, 북토크도 무탈히 진행되고 있으니 여기저기서 축하의 연락을 받는 건 자연스러운 일. 신기한 건 오프라인에서도 불쑥 다가오는 사람이</description>
-    </item>
-    <item>
-      <title>[Culture][차우진의 엔터문화연구소] 🗝️ 유니버설과 일레븐랩스 계약의 핵심은 '팬'이다</title>
-      <link>https://maily.so/draft.briefing/posts/32z83061on4</link>
-      <guid>https://maily.so/draft.briefing/posts/32z83061on4</guid>
-      <category>Culture</category>
-      <description>AI 시대에 참여와 보상은 더 중요해진다. 9월 10일 유니버설뮤직그룹(이하 유니버설)이 AI 회사 일레븐랩스(ElevenLabs)와 다년 라이선스 계약을 발표했다. 이 계약에서 두 회사는 새로운 AI 음악 플랫폼을 공동으</description>
     </item>
     <item>
       <title>[Career][비즈쿠키] 무정부주의자의 커리어 조언</title>
@@ -1278,11 +1278,18 @@
       <description>누구맘대로. 안녕하세요. 돌아온 수요일의 이종철, 뚱종철입니다. 여느 명절과 마찬가지로 살이 쪄서 돌아왔습니다. 저만 그런 거 아니죠? 어머니가 제가 튀김이나 갈비찜을 하도 잘 먹으니 너무 대</description>
     </item>
     <item>
+      <title>[Knowledge][Tak의 여의주] 진짜전쟁 인도편 리뷰</title>
+      <link>https://maily.so/taksaka/posts/2nznjegmrp5</link>
+      <guid>https://maily.so/taksaka/posts/2nznjegmrp5</guid>
+      <category>Knowledge</category>
+      <description>제조업도 고인물이 잘한다. 스타크래프트, 서든어택, 크레이지아케이드같은 대전게임, 다들 많이 해보셨을겁니다 이 게임을 꾸준히 하시는 분들도 있지만 평소에 하지 않다가 어쩌다 한번 친구와 하면 재미있습니다 그</description>
+    </item>
+    <item>
       <title>[Knowledge][보카의 중국어] 9월 중국 뉴스에 나온 표현 175개, 이 메일 하나에 다 담았습니다 | 중국어 뉴스보카</title>
       <link>https://maily.so/voca.chinese/posts/vpzlkq5mrk9</link>
       <guid>https://maily.so/voca.chinese/posts/vpzlkq5mrk9</guid>
       <category>Knowledge</category>
-      <description>2026년 9월 중국 뉴스 시사·신조어 표현 175개 총정리 · 한자·병음·한글 발음 한 줄 정리. 안녕하세요! 18년 차 중국어 스페셜리스트, 보카입니다 👋 9월 한 달, 잘 보내셨나요? 이번 달에는 뉴스레터 4편과 함께했네요.</description>
+      <description>2026년 9월 중국 뉴스 시사·신조어 표현 175개 총정리 · 한자·병음·한글 발음 한 줄 정리. 안녕하세요! 실제로 쓰는 중국어 표현을 골라 메일로 보내드리는 뉴스레터 &lt;보카의 중국어&gt;입니다. 인스타그램 '보카집중'을 운영하는 18년 차 중국어 스페셜리스트, 前 해커스중국어</description>
     </item>
     <item>
       <title>[Knowledge][Tak의 여의주] 북한/파키스탄편 리뷰</title>
@@ -1352,14 +1359,14 @@
       <link>https://maily.so/voca.chinese/posts/10z37kkjolw</link>
       <guid>https://maily.so/voca.chinese/posts/10z37kkjolw</guid>
       <category>Knowledge</category>
-      <description>5분 만에 읽는 9월 4주차 중국 뉴스 요약 · 핵심 표현 35개. 안녕하세요! 18년 차 중국어 스페셜리스트, 보카입니다 👋 매주 월요일 아침, 지난 한 주 중국 뉴스에 실제로 나온 표현을 정리해서 보내드려요.</description>
+      <description>5분 만에 읽는 9월 4주차 중국 뉴스 요약 · 핵심 표현 35개 · 병음·한글 발음 정리. 안녕하세요! 실제로 쓰는 중국어 표현을 골라 메일로 보내드리는 뉴스레터 &lt;보카의 중국어&gt;입니다. 인스타그램 '보카집중'을 운영하는 18년 차 중국어 스페셜리스트, 前 해커스중국어</description>
     </item>
     <item>
-      <title>[Knowledge][Tak의 여의주] 진짜전쟁 동아시아편 리뷰</title>
-      <link>https://maily.so/taksaka/posts/2nznjx96rp5</link>
-      <guid>https://maily.so/taksaka/posts/2nznjx96rp5</guid>
-      <category>Knowledge</category>
-      <description>가장 무서운 것은 불확실성이다 동아시아 정세가 그렇다 여러분도 시험을 보는 그 순간 보다, 보기 전이 더 힘들지 않았나요? 저는 시험지를 받기 직전이 가장 괴로웠던 것 같습니다 어</description>
+      <title>[Society][초장레터] 버려질 뻔한 조각에게 새 쓰임을</title>
+      <link>https://maily.so/greenycart/posts/x1zg672prqg</link>
+      <guid>https://maily.so/greenycart/posts/x1zg672prqg</guid>
+      <category>Society</category>
+      <description>구독자님 안녕하세요, 초장레터의 2026년 일곱 번째 이야기를 시작합니다! 이번 달은 어떻게 보내셨나요? 초장레터는 매월 마지막 날, 짤막한 환경 에세이를 보내드리고 있어요.</description>
     </item>
     <item>
       <title>[Society][강원인재원] 강원인재원 소식 '이루다' 2026 가을(통권 제46호)</title>
@@ -1437,13 +1444,6 @@
       <guid>https://maily.so/binzarichurch/posts/3jrklqm5z51</guid>
       <category>Society</category>
       <description>주보 | 2026년 9월 27일 | 성령강림절 후 열여덟째 주일. 순례, 돌봄, 환대 도토리 학교</description>
-    </item>
-    <item>
-      <title>[Society][하리 한 조각] Vol. 22 이해하리 !</title>
-      <link>https://maily.so/onepeaceofhari/posts/3jrklql6z51</link>
-      <guid>https://maily.so/onepeaceofhari/posts/3jrklql6z51</guid>
-      <category>Society</category>
-      <description>오해를 넘어, 온전한 헤아림 속 이해로. &quot;Hau komprende Ita-nia laran.&quot; (당신의 마음을 이해합니다.) 어쩌면 우리가 세상에 떨어진 이후로 매일같이 해오던 일은, 끊임없이 낯선 것들을 오해하고 또</description>
     </item>
   </channel>
 </rss>
