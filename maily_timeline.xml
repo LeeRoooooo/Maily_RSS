@@ -6,6 +6,14 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][Divided by Zero] 딥시크, 엔비디아 쿠다(CUDA) 탈출?</title>
+      <link>https://maily.so/dividedbyzero/posts/vpzlk9w0rk9</link>
+      <guid>https://maily.so/dividedbyzero/posts/vpzlk9w0rk9</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.10.06</pubDate>
+      <description>Divided by Zero에 오신 걸 환영합니다. IT테크, 스타트업 그리고 자본시장에 대한 2차적 사고를 공유합니다. 2025년 2월 딥시크가 오픈소스 위크라는 이름으로 닷새</description>
+    </item>
+    <item>
       <title>[AI/Tech][Tomorrow Tech] AI를 도입했는데 왜 회사는 빨라지지 않을까</title>
       <link>https://maily.so/soloplay/posts/mjz6kdmyrwk</link>
       <guid>https://maily.so/soloplay/posts/mjz6kdmyrwk</guid>
@@ -94,12 +102,36 @@
       <description>더 빠르고 저렴해진 Claude Sonnet 5.5 · 딥시크의 오픈소스 AI 작업실 ‘Harness’. Oct 6, 2026 vol. 041 [■ 위클리 픽 ■] ① GPT-6 Sol 나온 지 일주일 만에 또 업그레이드 OpenAI가 GPT-6.1 Sol을 공개...</description>
     </item>
     <item>
-      <title>[AI/Tech][디지털투데이 테크 뉴스레터] 💵[핀테크핫이슈] 금융권 덮친 해킹…보안 취약점 전방위 노출</title>
-      <link>https://maily.so/digitaltoday/posts/mjz6v7mvowk</link>
-      <guid>https://maily.so/digitaltoday/posts/mjz6v7mvowk</guid>
-      <category>AI/Tech</category>
+      <title>[Marketing][윤수만의 식품 인사이트] HACCP, 의무인가 선택인가</title>
+      <link>https://maily.so/ysmdata/posts/knrjkmqwzld</link>
+      <guid>https://maily.so/ysmdata/posts/knrjkmqwzld</guid>
+      <category>Marketing</category>
       <pubDate>2026.10.06</pubDate>
-      <description>디지털투데이 테크 뉴스레터 제928호. 구독자님을 위한 디지털투데이 [핀테크핫이슈] 주간 뉴스레터! 디지털투데이가 발행하는 테크 뉴스레터입니다. 매일 아침 주 5회 ▲월(AI) ▲화(핀테크) ▲수(모빌리티) ▲목(</description>
+      <description>의무 적용 vs 자율 적용 — 무엇이 다른가. 2026년 기준, 식품위생법 시행규칙 제62조의 의무적용 품목에 해당하면서 인증 없이 제조·판매하면 행정처분 대상입니다. 그리고 수출을 원한다면 의무 여부와 관계없이 사실상 필수입</description>
+    </item>
+    <item>
+      <title>[Marketing][윤수만의 식품 인사이트] HACCP 실무 완전 가이드 — 취득 절차부터 수출 활용까지</title>
+      <link>https://maily.so/ysmdata/posts/w6ovx0npzk5</link>
+      <guid>https://maily.so/ysmdata/posts/w6ovx0npzk5</guid>
+      <category>Marketing</category>
+      <pubDate>2026.10.06</pubDate>
+      <description>인증 취득 8단계 — 전체 과정 6~12개월. [2026년 10월 업데이트] 이 글에서 갱신·교정한 것 원본(2026년 4월 작성)과 달라진 부분, 그리고 이번 검증에서 바로잡은 부분입니다. ① 의무적용 품목 목록을 현행 기준</description>
+    </item>
+    <item>
+      <title>[Marketing][B2B 테크. 파는 일의 현장노트] 16화. 국내 레퍼런스 있나요?</title>
+      <link>https://maily.so/successchoi/posts/3jrkle88z51</link>
+      <guid>https://maily.so/successchoi/posts/3jrkle88z51</guid>
+      <category>Marketing</category>
+      <pubDate>2026.10.06</pubDate>
+      <description>로고만 있는 슬라이드는 레퍼런스가 아니었어요. 꼭 나오는 Reference 자료 요청 오늘은 내부 회의를 합니다. 아시아 각국 담당자 및 리더십과 현재 사업 기회에 대한 논의를 하고 있습니다. 아주 중요하고 큰 고객사에 첫 사</description>
+    </item>
+    <item>
+      <title>[Marketing][윤수만의 식품 인사이트] 일본 잔류농약 검사 — 기준이 없으면 검출 자체가 위반입니다 (일률 0.01ppm)</title>
+      <link>https://maily.so/ysmdata/posts/2qzpem29o4x</link>
+      <guid>https://maily.so/ysmdata/posts/2qzpem29o4x</guid>
+      <category>Marketing</category>
+      <pubDate>2026.10.06</pubDate>
+      <description>기준(MRL)이 설정되지 않은 농약 성분은 일률 기준 0.01ppm을 적용. 일본 잔류농약 포지티브 리스트는 2006년 5월부터 시행된, 20년째 운영 중인 제도입니다. 핵심 원칙은 한국 실무자에게 낯선 사고방식입니다 — 기준(MRL)이 설정되지 않은 농약</description>
     </item>
     <item>
       <title>[Marketing][윤수만의 식품 인사이트] 일본 잔류농약 검사 실무 — MRL 검색·한일 매핑·자주검사·검사명령 해제까지</title>
@@ -166,36 +198,20 @@
       <description>이번 주도 코엑스에서 만나요! 🤖 오늘부터 3일간 코엑스에서 열리는 Smart Life Week 2026, 그 안에서 함께 진행되는 서울 AI 로봇쇼에 왓츠랩도 참여합니다.</description>
     </item>
     <item>
-      <title>[Marketing][콘텐츠 비즈 인사이트] DIY 장난감 하나가 회사 매출의 30%가 됐다</title>
-      <link>https://maily.so/adrian.lee/posts/1do18qy9rx6</link>
-      <guid>https://maily.so/adrian.lee/posts/1do18qy9rx6</guid>
-      <category>Marketing</category>
+      <title>[Culture][들여다보고 안아주는] 시와, 잠 못 이루는 당신에게 (21)</title>
+      <link>https://maily.so/withsiwa/posts/e9o03kpno8w</link>
+      <guid>https://maily.so/withsiwa/posts/e9o03kpno8w</guid>
+      <category>Culture</category>
       <pubDate>2026.10.06</pubDate>
-      <description>라이선시의 일은 유명한 IP를 따는 것이 아니라 붙일 자리를 찾는 것이다.. 2020년 초반, 완구회사 부사장으로 들어갔을 때 이미 돌아가고 있는 계약이 하나 있었다. 산리오캐릭터즈였다. 붙은 곳은 여아용 비즈·액세서리 만들기 장난감 라인이었다. 이 계약의</description>
+      <description>구독자 님 아주 오랜만에, 시와예요.. 읽는 것보다 듣는 게 더 좋은 날이 있더라고요. 음성 편지도 남겨봅니다. 안녕하세요 구독자 님 아주 오랜만에, 시와입니다. 어떻게 지내셨나요. 제 마지막 편지는 언제였을까요.</description>
     </item>
     <item>
-      <title>[Marketing][더 디코드] 5,000달러 보험을 400달러까지 깎아 줬더니, 차도 안 샀다</title>
-      <link>https://maily.so/margin/posts/xyowy6n9z28</link>
-      <guid>https://maily.so/margin/posts/xyowy6n9z28</guid>
-      <category>Marketing</category>
+      <title>[Culture][Trend A Word] [Trend A Word #631] 귀여운 거 + 귀여운 거 = 왕 귀여운 거</title>
+      <link>https://maily.so/trendaword/posts/10z373lvolw</link>
+      <guid>https://maily.so/trendaword/posts/10z373lvolw</guid>
+      <category>Culture</category>
       <pubDate>2026.10.06</pubDate>
-      <description>값을 내릴수록 고객은 더 믿지 않았습니다. 홀모지가 “아니요” 다음에 가격 대신 바꾸는 두 가지를 해독합니다.. 알렉스 홀모지(Alex Hormozi)의 지인이 차를 사러 갔을 때의 이야기로 시작하겠습니다. 차를 고르고 나자 영업사원이 자동차 보험을 함께 권했습니...</description>
-    </item>
-    <item>
-      <title>[Marketing][트렌디로깅] 디스커버리의 상표권은 F&amp;F에게</title>
-      <link>https://maily.so/trendylogging/posts/mjz6v7ewowk</link>
-      <guid>https://maily.so/trendylogging/posts/mjz6v7ewowk</guid>
-      <category>Marketing</category>
-      <pubDate>2026.10.06</pubDate>
-      <description>뉴발란스는 한국에 직접 진출?. 💡 Today's Comments [항목1] F&amp;F가 디스커버리의 모든 상표권을 구매했다는 기사를 봤습니다. 쉽게 결정할 사안이 아니었을 것 같은데 왜 그걸 구매했을까 궁금해졌습니</description>
-    </item>
-    <item>
-      <title>[Marketing][레드버스백맨] REDBUSBAGMAN'S STRIDE | Sep. 2026</title>
-      <link>https://maily.so/redbusbagman/posts/2nznjpnkrp5</link>
-      <guid>https://maily.so/redbusbagman/posts/2nznjpnkrp5</guid>
-      <category>Marketing</category>
-      <pubDate>2026.10.06</pubDate>
-      <description>육아휴직 중에 이직을 준비합니다. 잦은 이직의 쓸모, AI 시대의 글쓰기, 나이키의 위기. INDEX Intro 이직이 잦은 사람을 뽑아야 하는 이유 육아휴직을 하고 이직을 준비하는 마음 타인의 성공을 있는 그대로 인정하고 응원하는 어른 AI 시대에 나는 무얼 생...</description>
+      <description>26.10.06 (화) '젠모지'. *시작하기 전에, 편집장 테드입니다. 지난주 금요일 발행 예정이었던 레터가 내부 발행 과정의 문제로 정상 발송되지 않는 일이 있었습니다. 기다려주셨을 독자분들께 죄송하다는 말씀 먼</description>
     </item>
     <item>
       <title>[Culture][차우진의 엔터문화연구소] 👗 캐츠아이의 팬은 몇 살일까?</title>
@@ -222,6 +238,22 @@
       <description>[PRISM 2호] 조담빈, 도시 환경사 연구자 . 도시를 새롭게 읽기, 혼종적으로 우리에게 ‘도시’는 너무나 친숙한, 그래서 쉬운 단어가 되어버렸다. 도시에 대한 논의는 ‘거주’, ‘교통’, ‘개발’, ‘환경’, ‘인구’와 같은</description>
     </item>
     <item>
+      <title>[Career][2000년생의 링크드인 생존기] 본문에 링크 넣고 7,678회 나왔습니다</title>
+      <link>https://maily.so/leadjaeil/posts/vpzlnd8nrk9</link>
+      <guid>https://maily.so/leadjaeil/posts/vpzlnd8nrk9</guid>
+      <category>Career</category>
+      <pubDate>2026.10.06</pubDate>
+      <description>'링크는 첫 댓글에'라는 공식이 흔들리는 이유를 제 데이터로 확인했습니다. 솔직히 말씀드리면, 저는 3년 가까이 &quot;링크는 본문에 넣지 마라&quot;는 말을 의심 없이 지켜왔습니다. 본문에 링크를 넣으면 노출이 절반 넘게 깎인다는 이야기를 워낙 많이 들었기 때문입</description>
+    </item>
+    <item>
+      <title>[Career][그로스패널] 그로스패널 앱 출시 공지</title>
+      <link>https://maily.so/growthpanel/posts/8do7px9yogq</link>
+      <guid>https://maily.so/growthpanel/posts/8do7px9yogq</guid>
+      <category>Career</category>
+      <pubDate>2026.10.06</pubDate>
+      <description/>
+    </item>
+    <item>
       <title>[Career][피트니스 1인 기업 이야기] 하루 10개씩 수업해도 항상 불안한 이유</title>
       <link>https://maily.so/coachingletter/posts/wjzdn9y5o3p</link>
       <guid>https://maily.so/coachingletter/posts/wjzdn9y5o3p</guid>
@@ -244,6 +276,14 @@
       <category>Career</category>
       <pubDate>2026.10.06</pubDate>
       <description>개원할 때 연봉 3XXX만 원에 들어온 코디를 6개월 뒤 200만 원, 1년 뒤 200만 원을 올려줬다고 해보겠습니다. 그 직원에게 주는 돈은 아깝지 않습니다. 예약이 꼬이면 정리</description>
+    </item>
+    <item>
+      <title>[Money][바닥 닦는 주식 요정] 2026년 10월 6일 코스피 주식투자가이드라인 정리(상위1~60위 종목)</title>
+      <link>https://maily.so/yun74259/posts/d5ryy0n0r1w</link>
+      <guid>https://maily.so/yun74259/posts/d5ryy0n0r1w</guid>
+      <category>Money</category>
+      <pubDate>2026.10.06</pubDate>
+      <description>재테크,투자,주식. 종목코드 종목명 저평가가격(최대한 가깝게 매수 할것) 이 가격에 가깝게 매수하면 안됨 향후 저평가가격 전망 종가 매수고민 여부(10월 5일 기준) 005930 삼성전자 91000</description>
     </item>
     <item>
       <title>[Money][은호레터] [은호레터] 미국 장기채, 이제 매수할 만할까?</title>
@@ -372,6 +412,14 @@
       <category>Lifestyle</category>
       <pubDate>2026.10.06</pubDate>
       <description>〈다른 세계가 부르는 소리〉. 🪶 나는 일기예보를 잘 보지 않는 사람이다. 오늘 아침에는 비가 오는지, 기온이 몇 도인지, 꼼꼼히 확인하고 나서는 부지런한 타입이 전혀 못 된다. 그냥 내키는 대로 주섬주섬 챙겨</description>
+    </item>
+    <item>
+      <title>[Knowledge][잉플] 📨 잉플 일상영어 Vol.116 - 헤드폰을 살지 고민할 때</title>
+      <link>https://maily.so/engple/posts/e9o03klno8w</link>
+      <guid>https://maily.so/engple/posts/e9o03klno8w</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.10.06</pubDate>
+      <description>이 헤드폰, 살 만한 가치가 있을까? 🎧. 안녕하세요, 잉플 일상영어입니다! 😊 오늘은 친구와 헤드폰을 고를 때 쓸 수 있는 대화 4문장을 준비했어요. 가격과 성능을 비교하며 “가성비가 좋다”, “살 만한 가치가 있다”를</description>
     </item>
     <item>
       <title>[Knowledge][Tak의 여의주] 유럽은 러-우 전쟁 종전을 원하지 않는다</title>
@@ -630,14 +678,6 @@
       <description>나를 소개하는 한 줄을 쓰려다, 포기한 적이 있습니다. “그래서 내 전문 분야는 뭘로 정해야 하지?” 트레이너, 필라테스 강사로 오래 일할수록 할 줄 아는 것도, 배운 것도 많아집</description>
     </item>
     <item>
-      <title>[Money][주간비상장] [26년 w40] 컬리는 계열사를 사며 자기 회사 주식 값을 5월보다 11.9% 높게 쳤고, 장외 가격은 그사이 내렸습니다</title>
-      <link>https://maily.so/privatemarkets/posts/32z83p41on4</link>
-      <guid>https://maily.so/privatemarkets/posts/32z83p41on4</guid>
-      <category>Money</category>
-      <pubDate>2026.10.04</pubDate>
-      <description>2026년 10월 1주 (w40) · 장외에서 26,100원에 거래되던 덕산넵코어스는 상장 첫날 17,980원에 마감했습니다. 안녕하세요. 2026년 10월 1주 주간비상장입니다. 주간 가격 검증 공모·공시·계약·제도에서 값이 확인된 자리입니다. ① 컬리는 넥스트...</description>
-    </item>
-    <item>
       <title>[Knowledge][Tak의 여의주] 권위에 복종하는 오류</title>
       <link>https://maily.so/taksaka/posts/5xrxy187z2v</link>
       <guid>https://maily.so/taksaka/posts/5xrxy187z2v</guid>
@@ -694,22 +734,6 @@
       <description>[최은의 ‘그 영화 봤어요?’] &lt;암살자(들)&gt;(2026). [최은의 ‘그 영화 봤어요?’] &lt;암살자(들)&gt;(2026): 질문을 허락하지 않는 것이 폭력이다 허진호 감독의 새 영화 &lt;암살자(들)&gt;에 대한 공격이 감독과 배우, 평론가를 넘어</description>
     </item>
     <item>
-      <title>[Career][전문코치로 일하고 있습니다] [나와의 대화] 41. 오랫동안 굳은 벽에 금(Crack)을 내고 있어요.</title>
-      <link>https://maily.so/coachheeso/posts/mjz6v721owk</link>
-      <guid>https://maily.so/coachheeso/posts/mjz6v721owk</guid>
-      <category>Career</category>
-      <pubDate>2026.10.03</pubDate>
-      <description>부디 너의 일부분으로 전체의 너를 싸잡아 꿇어앉히지마. [Hello] 지난 한 주 어떻게 보냈나요? 안녕하세요, 홍성향입니다. 어디에서, 어떤 삶을 보내고 계신지요. 저는 평범한 하루, 평소와 같은 하루를 잘 살아가고 있습니다. 주어진</description>
-    </item>
-    <item>
-      <title>[Career][일하는 마음] Ep 7. 전장은 좁게, 목표는 높게</title>
-      <link>https://maily.so/workingmind/posts/x1zg6levrqg</link>
-      <guid>https://maily.so/workingmind/posts/x1zg6levrqg</guid>
-      <category>Career</category>
-      <pubDate>2026.10.03</pubDate>
-      <description>내가 오늘 싸울 곳은 내가 정하자. 새로운 회사에 합류한 지 벌써 한 달이 지났습니다. 지금은 일곱 개 서비스를 맡은 작은 팀을 이끌고 있어요. 이번 주에는 서비스가 하나 더 늘어 여덟 개가 됐습니다. 서비스마다 해</description>
-    </item>
-    <item>
       <title>[Knowledge][THE PUNT] 영국-프랑스 국경에서 시신이 발견된다면, 수사는 누가할까?</title>
       <link>https://maily.so/thepunt/posts/32z83pp4on4</link>
       <guid>https://maily.so/thepunt/posts/32z83pp4on4</guid>
@@ -734,22 +758,6 @@
       <description>주보 | 2026년 10월 4일 | 성령강림절 후 열아홉째 주일. 순례, 돌봄, 환대 불편하지 않으시면 *표시에 일어나 주세요.</description>
     </item>
     <item>
-      <title>[Culture][블루] 남은 사랑은 쥐고 있을 테니 너는 날 보러 와줘</title>
-      <link>https://maily.so/loveinthewaves/posts/l1zqyqxer5x</link>
-      <guid>https://maily.so/loveinthewaves/posts/l1zqyqxer5x</guid>
-      <category>Culture</category>
-      <pubDate>2026.10.02</pubDate>
-      <description>추천 리스트 - 02. 두 번째 추천받은 음악 후기 글에는 아는 지인에게 추천받은 노래 세 곡을 업로드하려 했으나.... 7월부터 시작해 해야 할 일이 산더미처럼 쌓여 있어 그 노래들은 잠시 보류하려고</description>
-    </item>
-    <item>
-      <title>[Culture][시네마 카이에] 구독자님, 오랜만이에요</title>
-      <link>https://maily.so/cahiersarchive/posts/x1zg673prqg</link>
-      <guid>https://maily.so/cahiersarchive/posts/x1zg673prqg</guid>
-      <category>Culture</category>
-      <pubDate>2026.10.02</pubDate>
-      <description>구독자님. 오랜만에 인사드리네요! 그동안 어떻게 지내셨나요? 저는 지금 부산에 내려와 오랜만에 편지를 쓰고 있습니다. 추석연휴에 부산인 본가에 내려가지 못해서 부산 출장을 온</description>
-    </item>
-    <item>
       <title>[Knowledge][페퍼노트] 닭고기, 반바지, 원두 60알</title>
       <link>https://maily.so/pepper.note/posts/2qzpemxyo4x</link>
       <guid>https://maily.so/pepper.note/posts/2qzpemxyo4x</guid>
@@ -766,12 +774,11 @@
       <description>제78주년 국군의 날 공중 분열 및 블랙이글스 촬영. 10월 1일 계룡대 활주로에서 제78주년 국군의 날 기념행사가 개최되었다. 이번 행사는 지상군 페스티벌 2026, 계룡軍문화축제와 연계하여 진행되었으며, 식전행사, 기념식, 식후행</description>
     </item>
     <item>
-      <title>[Knowledge][Tak의 여의주] 진짜전쟁 동남아편 리뷰</title>
-      <link>https://maily.so/taksaka/posts/32z8307pon4</link>
-      <guid>https://maily.so/taksaka/posts/32z8307pon4</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.10.02</pubDate>
-      <description>동남아시아는 기본적으로 화교의 영향을 많이 받는 국가들입니다 그렇기에 중국과 떼어 낼래야 떼어낼 수 없는 사이입니다 그럼에도, 본인들이 가진 환경 때문에 누군가는 친하게, 누군가는</description>
+      <title>[AI/Tech][Divided by Zero] 딥시크, 엔비디아 쿠다(CUDA) 탈출?</title>
+      <link>https://maily.so/dividedbyzero/posts/vpzlk9w0rk9</link>
+      <guid>https://maily.so/dividedbyzero/posts/vpzlk9w0rk9</guid>
+      <category>AI/Tech</category>
+      <description>Divided by Zero에 오신 걸 환영합니다. IT테크, 스타트업 그리고 자본시장에 대한 2차적 사고를 공유합니다. 2025년 2월 딥시크가 오픈소스 위크라는 이름으로 닷새</description>
     </item>
     <item>
       <title>[AI/Tech][Tomorrow Tech] AI를 도입했는데 왜 회사는 빨라지지 않을까</title>
@@ -851,11 +858,32 @@
       <description>더 빠르고 저렴해진 Claude Sonnet 5.5 · 딥시크의 오픈소스 AI 작업실 ‘Harness’. Oct 6, 2026 vol. 041 [■ 위클리 픽 ■] ① GPT-6 Sol 나온 지 일주일 만에 또 업그레이드 OpenAI가 GPT-6.1 Sol을 공개했습니다. 최고급 As</description>
     </item>
     <item>
-      <title>[AI/Tech][디지털투데이 테크 뉴스레터] 💵[핀테크핫이슈] 금융권 덮친 해킹…보안 취약점 전방위 노출</title>
-      <link>https://maily.so/digitaltoday/posts/mjz6v7mvowk</link>
-      <guid>https://maily.so/digitaltoday/posts/mjz6v7mvowk</guid>
-      <category>AI/Tech</category>
-      <description>디지털투데이 테크 뉴스레터 제928호. 구독자님을 위한 디지털투데이 [핀테크핫이슈] 주간 뉴스레터! 디지털투데이가 발행하는 테크 뉴스레터입니다. 매일 아침 주 5회 ▲월(AI) ▲화(핀테크) ▲수(모빌리티) ▲목(</description>
+      <title>[Marketing][윤수만의 식품 인사이트] HACCP, 의무인가 선택인가</title>
+      <link>https://maily.so/ysmdata/posts/knrjkmqwzld</link>
+      <guid>https://maily.so/ysmdata/posts/knrjkmqwzld</guid>
+      <category>Marketing</category>
+      <description>의무 적용 vs 자율 적용 — 무엇이 다른가. 2026년 기준, 식품위생법 시행규칙 제62조의 의무적용 품목에 해당하면서 인증 없이 제조·판매하면 행정처분 대상입니다. 그리고 수출을 원한다면 의무 여부와 관계없이 사실상 필수입</description>
+    </item>
+    <item>
+      <title>[Marketing][윤수만의 식품 인사이트] HACCP 실무 완전 가이드 — 취득 절차부터 수출 활용까지</title>
+      <link>https://maily.so/ysmdata/posts/w6ovx0npzk5</link>
+      <guid>https://maily.so/ysmdata/posts/w6ovx0npzk5</guid>
+      <category>Marketing</category>
+      <description>인증 취득 8단계 — 전체 과정 6~12개월. [2026년 10월 업데이트] 이 글에서 갱신·교정한 것 원본(2026년 4월 작성)과 달라진 부분, 그리고 이번 검증에서 바로잡은 부분입니다. ① 의무적용 품목 목록을 현행 기준</description>
+    </item>
+    <item>
+      <title>[Marketing][B2B 테크. 파는 일의 현장노트] 16화. 국내 레퍼런스 있나요?</title>
+      <link>https://maily.so/successchoi/posts/3jrkle88z51</link>
+      <guid>https://maily.so/successchoi/posts/3jrkle88z51</guid>
+      <category>Marketing</category>
+      <description>로고만 있는 슬라이드는 레퍼런스가 아니었어요. 꼭 나오는 Reference 자료 요청 오늘은 내부 회의를 합니다. 아시아 각국 담당자 및 리더십과 현재 사업 기회에 대한 논의를 하고 있습니다. 아주 중요하고 큰 고객사에 첫 사</description>
+    </item>
+    <item>
+      <title>[Marketing][윤수만의 식품 인사이트] 일본 잔류농약 검사 — 기준이 없으면 검출 자체가 위반입니다 (일률 0.01ppm)</title>
+      <link>https://maily.so/ysmdata/posts/2qzpem29o4x</link>
+      <guid>https://maily.so/ysmdata/posts/2qzpem29o4x</guid>
+      <category>Marketing</category>
+      <description>기준(MRL)이 설정되지 않은 농약 성분은 일률 기준 0.01ppm을 적용. 일본 잔류농약 포지티브 리스트는 2006년 5월부터 시행된, 20년째 운영 중인 제도입니다. 핵심 원칙은 한국 실무자에게 낯선 사고방식입니다 — 기준(MRL)이 설정되지 않은 농약</description>
     </item>
     <item>
       <title>[Marketing][윤수만의 식품 인사이트] 일본 잔류농약 검사 실무 — MRL 검색·한일 매핑·자주검사·검사명령 해제까지</title>
@@ -914,32 +942,18 @@
       <description>이번 주도 코엑스에서 만나요! 🤖 오늘부터 3일간 코엑스에서 열리는 Smart Life Week 2026, 그 안에서 함께 진행되는 서울 AI 로봇쇼에 왓츠랩도 참여합니다.</description>
     </item>
     <item>
-      <title>[Marketing][콘텐츠 비즈 인사이트] DIY 장난감 하나가 회사 매출의 30%가 됐다</title>
-      <link>https://maily.so/adrian.lee/posts/1do18qy9rx6</link>
-      <guid>https://maily.so/adrian.lee/posts/1do18qy9rx6</guid>
-      <category>Marketing</category>
-      <description>라이선시의 일은 유명한 IP를 따는 것이 아니라 붙일 자리를 찾는 것이다.. 2020년 초반, 완구회사 부사장으로 들어갔을 때 이미 돌아가고 있는 계약이 하나 있었다. 산리오캐릭터즈였다. 붙은 곳은 여아용 비즈·액세서리 만들기 장난감 라인이었다. 이 계약의</description>
+      <title>[Culture][들여다보고 안아주는] 시와, 잠 못 이루는 당신에게 (21)</title>
+      <link>https://maily.so/withsiwa/posts/e9o03kpno8w</link>
+      <guid>https://maily.so/withsiwa/posts/e9o03kpno8w</guid>
+      <category>Culture</category>
+      <description>구독자 님 아주 오랜만에, 시와예요.. 읽는 것보다 듣는 게 더 좋은 날이 있더라고요. 음성 편지도 남겨봅니다. 안녕하세요 구독자 님 아주 오랜만에, 시와입니다. 어떻게 지내셨나요. 제 마지막 편지는 언제였을까요.</description>
     </item>
     <item>
-      <title>[Marketing][더 디코드] 5,000달러 보험을 400달러까지 깎아 줬더니, 차도 안 샀다</title>
-      <link>https://maily.so/margin/posts/xyowy6n9z28</link>
-      <guid>https://maily.so/margin/posts/xyowy6n9z28</guid>
-      <category>Marketing</category>
-      <description>값을 내릴수록 고객은 더 믿지 않았습니다. 홀모지가 “아니요” 다음에 가격 대신 바꾸는 두 가지를 해독합니다.. 알렉스 홀모지(Alex Hormozi)의 지인이 차를 사러 갔을 때의 이야기로 시작하겠습니다. 차를 고르고 나자 영업사원이 자동차 보험을 함께 권했습니다. 처음 부른 값...</description>
-    </item>
-    <item>
-      <title>[Marketing][트렌디로깅] 디스커버리의 상표권은 F&amp;F에게</title>
-      <link>https://maily.so/trendylogging/posts/mjz6v7ewowk</link>
-      <guid>https://maily.so/trendylogging/posts/mjz6v7ewowk</guid>
-      <category>Marketing</category>
-      <description>뉴발란스는 한국에 직접 진출?. 💡 Today's Comments [항목1] F&amp;F가 디스커버리의 모든 상표권을 구매했다는 기사를 봤습니다. 쉽게 결정할 사안이 아니었을 것 같은데 왜 그걸 구매했을까 궁금해졌습니</description>
-    </item>
-    <item>
-      <title>[Marketing][레드버스백맨] REDBUSBAGMAN'S STRIDE | Sep. 2026</title>
-      <link>https://maily.so/redbusbagman/posts/2nznjpnkrp5</link>
-      <guid>https://maily.so/redbusbagman/posts/2nznjpnkrp5</guid>
-      <category>Marketing</category>
-      <description>육아휴직 중에 이직을 준비합니다. 잦은 이직의 쓸모, AI 시대의 글쓰기, 나이키의 위기. INDEX Intro 이직이 잦은 사람을 뽑아야 하는 이유 육아휴직을 하고 이직을 준비하는 마음 타인의 성공을 있는 그대로 인정하고 응원하는 어른 AI 시대에 나는 무얼 생각하는가</description>
+      <title>[Culture][Trend A Word] [Trend A Word #631] 귀여운 거 + 귀여운 거 = 왕 귀여운 거</title>
+      <link>https://maily.so/trendaword/posts/10z373lvolw</link>
+      <guid>https://maily.so/trendaword/posts/10z373lvolw</guid>
+      <category>Culture</category>
+      <description>26.10.06 (화) '젠모지'. *시작하기 전에, 편집장 테드입니다. 지난주 금요일 발행 예정이었던 레터가 내부 발행 과정의 문제로 정상 발송되지 않는 일이 있었습니다. 기다려주셨을 독자분들께 죄송하다는 말씀 먼</description>
     </item>
     <item>
       <title>[Culture][차우진의 엔터문화연구소] 👗 캐츠아이의 팬은 몇 살일까?</title>
@@ -1012,18 +1026,18 @@
       <description>[최은의 ‘그 영화 봤어요?’] &lt;암살자(들)&gt;(2026). [최은의 ‘그 영화 봤어요?’] &lt;암살자(들)&gt;(2026): 질문을 허락하지 않는 것이 폭력이다 허진호 감독의 새 영화 &lt;암살자(들)&gt;에 대한 공격이 감독과 배우, 평론가를 넘어</description>
     </item>
     <item>
-      <title>[Culture][블루] 남은 사랑은 쥐고 있을 테니 너는 날 보러 와줘</title>
-      <link>https://maily.so/loveinthewaves/posts/l1zqyqxer5x</link>
-      <guid>https://maily.so/loveinthewaves/posts/l1zqyqxer5x</guid>
-      <category>Culture</category>
-      <description>추천 리스트 - 02. 두 번째 추천받은 음악 후기 글에는 아는 지인에게 추천받은 노래 세 곡을 업로드하려 했으나.... 7월부터 시작해 해야 할 일이 산더미처럼 쌓여 있어 그 노래들은 잠시 보류하려고</description>
+      <title>[Career][2000년생의 링크드인 생존기] 본문에 링크 넣고 7,678회 나왔습니다</title>
+      <link>https://maily.so/leadjaeil/posts/vpzlnd8nrk9</link>
+      <guid>https://maily.so/leadjaeil/posts/vpzlnd8nrk9</guid>
+      <category>Career</category>
+      <description>'링크는 첫 댓글에'라는 공식이 흔들리는 이유를 제 데이터로 확인했습니다. 솔직히 말씀드리면, 저는 3년 가까이 &quot;링크는 본문에 넣지 마라&quot;는 말을 의심 없이 지켜왔습니다. 본문에 링크를 넣으면 노출이 절반 넘게 깎인다는 이야기를 워낙 많이 들었기 때문입</description>
     </item>
     <item>
-      <title>[Culture][시네마 카이에] 구독자님, 오랜만이에요</title>
-      <link>https://maily.so/cahiersarchive/posts/x1zg673prqg</link>
-      <guid>https://maily.so/cahiersarchive/posts/x1zg673prqg</guid>
-      <category>Culture</category>
-      <description>구독자님. 오랜만에 인사드리네요! 그동안 어떻게 지내셨나요? 저는 지금 부산에 내려와 오랜만에 편지를 쓰고 있습니다. 추석연휴에 부산인 본가에 내려가지 못해서 부산 출장을 온</description>
+      <title>[Career][그로스패널] 그로스패널 앱 출시 공지</title>
+      <link>https://maily.so/growthpanel/posts/8do7px9yogq</link>
+      <guid>https://maily.so/growthpanel/posts/8do7px9yogq</guid>
+      <category>Career</category>
+      <description/>
     </item>
     <item>
       <title>[Career][피트니스 1인 기업 이야기] 하루 10개씩 수업해도 항상 불안한 이유</title>
@@ -1096,18 +1110,11 @@
       <description>나를 소개하는 한 줄을 쓰려다, 포기한 적이 있습니다. “그래서 내 전문 분야는 뭘로 정해야 하지?” 트레이너, 필라테스 강사로 오래 일할수록 할 줄 아는 것도, 배운 것도 많아집</description>
     </item>
     <item>
-      <title>[Career][전문코치로 일하고 있습니다] [나와의 대화] 41. 오랫동안 굳은 벽에 금(Crack)을 내고 있어요.</title>
-      <link>https://maily.so/coachheeso/posts/mjz6v721owk</link>
-      <guid>https://maily.so/coachheeso/posts/mjz6v721owk</guid>
-      <category>Career</category>
-      <description>부디 너의 일부분으로 전체의 너를 싸잡아 꿇어앉히지마. [Hello] 지난 한 주 어떻게 보냈나요? 안녕하세요, 홍성향입니다. 어디에서, 어떤 삶을 보내고 계신지요. 저는 평범한 하루, 평소와 같은 하루를 잘 살아가고 있습니다. 주어진</description>
-    </item>
-    <item>
-      <title>[Career][일하는 마음] Ep 7. 전장은 좁게, 목표는 높게</title>
-      <link>https://maily.so/workingmind/posts/x1zg6levrqg</link>
-      <guid>https://maily.so/workingmind/posts/x1zg6levrqg</guid>
-      <category>Career</category>
-      <description>내가 오늘 싸울 곳은 내가 정하자. 새로운 회사에 합류한 지 벌써 한 달이 지났습니다. 지금은 일곱 개 서비스를 맡은 작은 팀을 이끌고 있어요. 이번 주에는 서비스가 하나 더 늘어 여덟 개가 됐습니다. 서비스마다 해</description>
+      <title>[Money][바닥 닦는 주식 요정] 2026년 10월 6일 코스피 주식투자가이드라인 정리(상위1~60위 종목)</title>
+      <link>https://maily.so/yun74259/posts/d5ryy0n0r1w</link>
+      <guid>https://maily.so/yun74259/posts/d5ryy0n0r1w</guid>
+      <category>Money</category>
+      <description>재테크,투자,주식. 종목코드 종목명 저평가가격(최대한 가깝게 매수 할것) 이 가격에 가깝게 매수하면 안됨 향후 저평가가격 전망 종가 매수고민 여부(10월 5일 기준) 005930 삼성전자 91000</description>
     </item>
     <item>
       <title>[Money][은호레터] [은호레터] 미국 장기채, 이제 매수할 만할까?</title>
@@ -1185,13 +1192,6 @@
       <guid>https://maily.so/yoshisamletter/posts/l1zq1m14r5x</guid>
       <category>Money</category>
       <description>그 종목 못 샀으면 이번 장은 끝났다고 생각하는 분들, 꽤 많죠. 엔비디아가 날아갈 때 속이 쓰렸고, 샌디스크 때는 아예 계좌를 닫고 싶었을 수도 있어요. 그런데 돈은 놓친 걸 후</description>
-    </item>
-    <item>
-      <title>[Money][주간비상장] [26년 w40] 컬리는 계열사를 사며 자기 회사 주식 값을 5월보다 11.9% 높게 쳤고, 장외 가격은 그사이 내렸습니다</title>
-      <link>https://maily.so/privatemarkets/posts/32z83p41on4</link>
-      <guid>https://maily.so/privatemarkets/posts/32z83p41on4</guid>
-      <category>Money</category>
-      <description>2026년 10월 1주 (w40) · 장외에서 26,100원에 거래되던 덕산넵코어스는 상장 첫날 17,980원에 마감했습니다. 안녕하세요. 2026년 10월 1주 주간비상장입니다. 주간 가격 검증 공모·공시·계약·제도에서 값이 확인된 자리입니다. ① 컬리는 넥스트키친 주주에게 새 ...</description>
     </item>
     <item>
       <title>[Lifestyle][아나톨리아 편지] 31. 이송 (2)</title>
@@ -1278,6 +1278,13 @@
       <description>메소드 연기 펼치는 리트리버 외 총 4건의 충격적으로 귀여운 사건들. 이번 주 &lt;주간 귀여워&gt; 주요 소식 [항목1] [단독] 지하도에서 펼쳐진 찹츄의 메소드 연기 /// [항목2] 빠른 반사신경 고양이에게 '매운맛' 선사한 미친 장난감 /// [항목</description>
     </item>
     <item>
+      <title>[Knowledge][잉플] 📨 잉플 일상영어 Vol.116 - 헤드폰을 살지 고민할 때</title>
+      <link>https://maily.so/engple/posts/e9o03klno8w</link>
+      <guid>https://maily.so/engple/posts/e9o03klno8w</guid>
+      <category>Knowledge</category>
+      <description>이 헤드폰, 살 만한 가치가 있을까? 🎧. 안녕하세요, 잉플 일상영어입니다! 😊 오늘은 친구와 헤드폰을 고를 때 쓸 수 있는 대화 4문장을 준비했어요. 가격과 성능을 비교하며 “가성비가 좋다”, “살 만한 가치가 있다”를</description>
+    </item>
+    <item>
       <title>[Knowledge][Tak의 여의주] 유럽은 러-우 전쟁 종전을 원하지 않는다</title>
       <link>https://maily.so/taksaka/posts/xyowy6y8z28</link>
       <guid>https://maily.so/taksaka/posts/xyowy6y8z28</guid>
@@ -1353,13 +1360,6 @@
       <guid>https://maily.so/sheldon/posts/g0zmqx5koql</guid>
       <category>Knowledge</category>
       <description>제78주년 국군의 날 공중 분열 및 블랙이글스 촬영. 10월 1일 계룡대 활주로에서 제78주년 국군의 날 기념행사가 개최되었다. 이번 행사는 지상군 페스티벌 2026, 계룡軍문화축제와 연계하여 진행되었으며, 식전행사, 기념식, 식후행</description>
-    </item>
-    <item>
-      <title>[Knowledge][Tak의 여의주] 진짜전쟁 동남아편 리뷰</title>
-      <link>https://maily.so/taksaka/posts/32z8307pon4</link>
-      <guid>https://maily.so/taksaka/posts/32z8307pon4</guid>
-      <category>Knowledge</category>
-      <description>동남아시아는 기본적으로 화교의 영향을 많이 받는 국가들입니다 그렇기에 중국과 떼어 낼래야 떼어낼 수 없는 사이입니다 그럼에도, 본인들이 가진 환경 때문에 누군가는 친하게, 누군가는</description>
     </item>
     <item>
       <title>[Society][제철트렌드식탁] Vol.14 [사회적가치페스타 현장스케치]</title>
