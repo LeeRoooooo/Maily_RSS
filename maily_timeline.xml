@@ -6,6 +6,14 @@
     <description>Maily 8개 카테고리 최신 포스트 통합 피드</description>
     <language>ko</language>
     <item>
+      <title>[AI/Tech][오토마타] Automata V.37 | AI가 일은 잘하는데, 믿어도 될까요?</title>
+      <link>https://maily.so/automata/posts/2qzpeqyxo4x</link>
+      <guid>https://maily.so/automata/posts/2qzpeqyxo4x</guid>
+      <category>AI/Tech</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>검증, 신원 확인, 사람의 승인으로 AI를 더 안심하고 쓰는 법을 소개해요. 🔍 코드는 늘었는데 끝난 일은 그대로? AI 시대의 새 병목은 '검증'이에요</description>
+    </item>
+    <item>
       <title>[AI/Tech][Trendium.ai] #364: 좋아요와 댓글은 끝났다 - 메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중</title>
       <link>https://maily.so/trendium.ai/posts/8do7pl50ogq</link>
       <guid>https://maily.so/trendium.ai/posts/8do7pl50ogq</guid>
@@ -38,6 +46,46 @@
       <description>A research summary comparison that checks the source before the prose. By Meka Coven. ChatGPT vs Claude may frame one paper differently. Open the o...</description>
     </item>
     <item>
+      <title>[Marketing][스위밍코드] 클로드 코드 무료 SEO 플러그인으로 저희 자료실을 점검했더니 38점이 나왔습니다</title>
+      <link>https://maily.so/swimmingcode/posts/wdr988y7olx</link>
+      <guid>https://maily.so/swimmingcode/posts/wdr988y7olx</guid>
+      <category>Marketing</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>구글·AI 검색 기준 점검이 무엇을 보는지, 주요 지적과 자사몰 점검 순서. 안녕하세요, swimmingcode입니다. claude-seo는 2026년 11월 16일 기준 깃허브 별 약 3만 개(29,780개)를 받은 무료 클로드 코드 플러그인이고 2026</description>
+    </item>
+    <item>
+      <title>[Marketing][비즈니스 연구 분석하는 훈] 콘텐츠 값이 5분의 1이 된 해에 벌어진 일</title>
+      <link>https://maily.so/business.report/posts/e9o03g2eo8w</link>
+      <guid>https://maily.so/business.report/posts/e9o03g2eo8w</guid>
+      <category>Marketing</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>올해 콘텐츠 마케팅 리포트를 읽다가 손이 멈춘 대목이 있습니다. AI로 쓴 블로그 글 한 편의 평균 제작비가 131달러입니다. 사람이 쓰면 611달러입니다. 다섯 분의 일입니다.</description>
+    </item>
+    <item>
+      <title>[Marketing][팬덤을 설계하는 매력학자 동건] 재구매율은 CRM이 아니라 대표의 유튜브가 올립니다</title>
+      <link>https://maily.so/desireanalyst/posts/10z379eeolw</link>
+      <guid>https://maily.so/desireanalyst/posts/10z379eeolw</guid>
+      <category>Marketing</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>고객은 회사보다 사람을 기억한다. 저는 재구매가 툴보다 얼굴에 달려 있다는 생각을 해봤습니다. 고객은 회사를 잘 기억하지 않지만, 사람은 기억하거든요. 툴을 바꾸고, 알림을 늘린다 재구매가 안 나오면 많이 하는 일</description>
+    </item>
+    <item>
+      <title>[Marketing][쿠프마케팅] 11(일)석이조 모바일 쿠폰 혜택, 12(이)제 연말 준비 고민 끝!</title>
+      <link>https://maily.so/coopnc.com/posts/mjz6velyowk</link>
+      <guid>https://maily.so/coopnc.com/posts/mjz6velyowk</guid>
+      <category>Marketing</category>
+      <pubDate>2026.11.19</pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>[Marketing][With Payple] PG 웹훅으로 결제 완료와 취소 알림을 놓치지 않는 법</title>
+      <link>https://maily.so/payple/posts/x1zg6g93rqg</link>
+      <guid>https://maily.so/payple/posts/x1zg6g93rqg</guid>
+      <category>Marketing</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>PG 웹훅은 결제가 끝나거나 취소됐을 때 결과를 파트너 서버로 직접 보내 줍니다. 페이플 웹훅의 PCD_WEBHOOK_TYPE 값으로 알림을 나누고, 주문번호와 금액을 확인해 반영하는 순서를 정리했습니다.. PG 웹훅은 결제가 끝나거나 취소됐을 때 결제 결과를 파...</description>
+    </item>
+    <item>
       <title>[Marketing][세상 모든 캠페인] 안경 브랜드가 글씨를 숨긴 이유</title>
       <link>https://maily.so/everycampaign/posts/wdr98qqlolx</link>
       <guid>https://maily.so/everycampaign/posts/wdr98qqlolx</guid>
@@ -52,6 +100,30 @@
       <category>Marketing</category>
       <pubDate>2026.11.19</pubDate>
       <description>[한-입 트렌드] Recipe.183 K-푸드. 💌 마케팅레시피 인스타그램을 소개합니다 💌 이제 마케팅레시피의 이야기를 인스타그램에서도 만나보세요. 눈에 띄는 광고와 마케팅 사례를 바라보는 주방장들의 인사이트, 최근 주방장들이</description>
+    </item>
+    <item>
+      <title>[Culture][Trend A Word] (광고) [Trend A Word #660] 곶감이 춤까지 추는 세상… 요즘 숏폼 근황</title>
+      <link>https://maily.so/trendaword/posts/x1zg6gn3rqg</link>
+      <guid>https://maily.so/trendaword/posts/x1zg6gn3rqg</guid>
+      <category>Culture</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>26.11.19 (목) '미안 이제 곶감'. 용례 1. “미안 이제 곶감~ (아직 양말도 안 신음)” 강 OO 씨 2. “이제 곶감이라고 하는 애들 특: 절대 안 옴.” 최 OO 씨</description>
+    </item>
+    <item>
+      <title>[Culture][주간벤자민] 큰돈을 벌었다</title>
+      <link>https://maily.so/weeklybenjamin/posts/2qzpek69o4x</link>
+      <guid>https://maily.so/weeklybenjamin/posts/2qzpek69o4x</guid>
+      <category>Culture</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>돈을 버는 삶은 '그저 그런 삶'으로 수렴하는 것 같다. 최근 큰돈을 벌었다. 어마어마하게 큰돈은 아니고, 노력과 시간 대비 큰돈이다. 쉽게 말해서 꽤 높은 일당을 받았다고 보면 된다. 처음 이 금액을 제안했을 때는 긴장이 되었다. 실제</description>
+    </item>
+    <item>
+      <title>[Culture][오늘의 각성제] 자만과 오만과 야만의 시대</title>
+      <link>https://maily.so/deepbite/posts/xyowynd1z28</link>
+      <guid>https://maily.so/deepbite/posts/xyowynd1z28</guid>
+      <category>Culture</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>인류는 진보했는데, 인간은 왜 거꾸로 가는 걸까요.. 안녕하세요. 구독자님 지난주에 발행할 원고는 역대급으로 긴 내용을 써서 그런지 3번의 오류와 함께 에러가 나서 보내드리지 못했습니다. 제가 가장 좋아하고 오랫동안 자료를 모아</description>
     </item>
     <item>
       <title>[Culture][웹진 청새치의 눈] ○ 새벽 시간 노동 순대 첫눈</title>
@@ -110,6 +182,30 @@
       <description>회색 지대를 메운 사람은 누가 알아줄까요? 연말 평가를 앞두고, 리더의 '알아주기'를 생각해 봅니다.. 2026.11.19 Vol.85 연말이면 내년 교육 계획서에 리더십 교육과 AI 교육이 나란히 올라갑니다. 늘 하던 대로 둘을 따로 채우면, 팀원은 AI로 일하...</description>
     </item>
     <item>
+      <title>[Money][은호레터] [은호레터] 앤트로픽, 83달러 공모가에 담긴 기대와 위험</title>
+      <link>https://maily.so/eunho/posts/8do7pg8dogq</link>
+      <guid>https://maily.so/eunho/posts/8do7pg8dogq</guid>
+      <category>Money</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>은퇴 호소인의 투자 인사이트. 83달러에 산 투자자가 기대하는 이익 공모가 83달러로 계산한 앤트로픽의 완전희석 지분가치는 약 1조 5,000억달러입니다. 10월 한 달 매출을 1년치로 환산한 810억달러의 약</description>
+    </item>
+    <item>
+      <title>[Money][은호레터] [은호레터] 주식과 국채의 동시 숏 포지션, 엇갈리는 수급 전망</title>
+      <link>https://maily.so/eunho/posts/e9o03geeo8w</link>
+      <guid>https://maily.so/eunho/posts/e9o03geeo8w</guid>
+      <category>Money</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>은퇴 호소인의 투자 인사이트. 같은 ‘맥스 숏’ 아래 서로 다른 전환 가격 2026년 11월 17일 씨티의 CTA 모델은 S&amp;P500과 나스닥100, 러셀2000뿐 아니라 미국 국채 전 구간까지 ‘맥스 숏’으로</description>
+    </item>
+    <item>
+      <title>[Money][BIZKIT의 콘텐츠 자본론] [기획: IP 자본론 2/4] 남의 IP로 대박 난 플랫폼은 왜 자기 IP를 갖고 싶어 할까</title>
+      <link>https://maily.so/bizkit/posts/5xrxy64jz2v</link>
+      <guid>https://maily.so/bizkit/posts/5xrxy64jz2v</guid>
+      <category>Money</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>IP 플랫폼의 자체 IP, IP 홀더의 자체 플랫폼. 아름다운 공생 또는 위험한 동거. 2026년 10월, 넷플릭스가 K팝 걸그룹을 만들겠다고 선언했다. 오리지널 오디션 프로그램 ‘위 고 하이(We Go High)’를 통해 참가자 모집을 시작했고, SM C&amp;C와 데뷔</description>
+    </item>
+    <item>
       <title>[Money][요시샘 공룡 멤버십] [데일리 코멘트] 26.11.19(목)</title>
       <link>https://maily.so/yoshisamletter/posts/3jrkl6e5z51</link>
       <guid>https://maily.so/yoshisamletter/posts/3jrkl6e5z51</guid>
@@ -134,12 +230,60 @@
       <description>코스피 +1.99% · 코스닥 +1.96% · S&amp;P 500 -0.23% · 나스닥 +0.42%. ▪ 중국은 영화·게임 심사에서 한국을 차별하지 않기로 했고, 한국 여행사의 중국 아웃바운드 관광업도 열립니다 ▪ 엔비디아는 실적 다음 날 장 초반 올랐다가 하락 마감...</description>
     </item>
     <item>
+      <title>[Lifestyle][돌아온 수요일의 이종철. 수종철입니다] 수종철 온라인 집들이</title>
+      <link>https://maily.so/soojongchul/posts/8mo5m1enz9p</link>
+      <guid>https://maily.so/soojongchul/posts/8mo5m1enz9p</guid>
+      <category>Lifestyle</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>베타버전. 온라인 집들이를 시작합니다. 마음껏 둘러봐 주세요. 실제 집과 99% 똑같습니다. https://jongchul-home.vercel.app/ 정식 론칭은 출장이 끝나고가 될 것</description>
+    </item>
+    <item>
+      <title>[Lifestyle][함께 쓰는 하루] 살아야만 하는 당신에게</title>
+      <link>https://maily.so/hamkkeheyo/posts/8mo5m1v7z9p</link>
+      <guid>https://maily.so/hamkkeheyo/posts/8mo5m1v7z9p</guid>
+      <category>Lifestyle</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>살아야만 하는 당신에게 나는 오늘도 한 영혼의 아픈 삶이 담긴 기록을 들고 상담사례발표회장에 선다. 그 임상기록은 평범한 기록이 아니라 상처받은 영혼을 위한 뜨거운 고발장이다. 이</description>
+    </item>
+    <item>
       <title>[Lifestyle][POV 포브] 개똥이 약이 된다고요?</title>
       <link>https://maily.so/vethonors/posts/3jrklly5z51</link>
       <guid>https://maily.so/vethonors/posts/3jrklly5z51</guid>
       <category>Lifestyle</category>
       <pubDate>2026.11.19</pubDate>
       <description>만성 장염의 새 선택지, 분변미생물이식. Editor : VIP동물의료센터 원장 서상혁 건국대학교 수의과대학 졸업 충북대학교 수의과대학 수의내과학 겸임교수 한국수의심장협회 회장 역임 한국고양이수의사회 자문위원 사료를 바꿔</description>
+    </item>
+    <item>
+      <title>[Knowledge][잉플] 📨 잉플 일상영어 Vol.160 - 재채기하는 친구에게 휴지 건네주기</title>
+      <link>https://maily.so/engple/posts/mjz6ve3nowk</link>
+      <guid>https://maily.so/engple/posts/mjz6ve3nowk</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>휴지 한 장 줄까? 상자째 가져가도 돼 🤧. 안녕하세요, 잉플 일상영어입니다! 😊 친구가 계속 재채기를 한다면 휴지를 건네며 뭐라고 말할까요? 오늘은 몸 상태를 간단히 말하고, 필요한 물건을 주고받는 대화를 연습해 봐요. 💡</description>
+    </item>
+    <item>
+      <title>[Knowledge][시노프로] 2026년 11월 3주차 소식</title>
+      <link>https://maily.so/sinopro/posts/5xrxynqjz2v</link>
+      <guid>https://maily.so/sinopro/posts/5xrxynqjz2v</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>천보, 中 원료 대체 전해액 첨가제로 정부 지원금 150억 확보 천보 자회사 천보신소재, 산업통상부 국가첨단전략산업 소부장 투자지원금 대상 선정. 정부·지자체 지원금 150억원 확</description>
+    </item>
+    <item>
+      <title>[Knowledge][시노프로] 코팅 결함 비전 검사와 AI 판정</title>
+      <link>https://maily.so/sinopro/posts/w6ovxelpzk5</link>
+      <guid>https://maily.so/sinopro/posts/w6ovxelpzk5</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>두께계나 중량계는 코팅이 얼마나 두꺼운지는 알려주지만, 코팅에 뚫린 구멍이나 박힌 금속 조각은 읽지 못합니다. 그런 결함은 셀 안에 들어가고 나면 되돌릴 수 없죠. 그래서 양산 라</description>
+    </item>
+    <item>
+      <title>[Knowledge][시노프로] 전극 두께와 로딩량 측정 기술</title>
+      <link>https://maily.so/sinopro/posts/g0zmq98woql</link>
+      <guid>https://maily.so/sinopro/posts/g0zmq98woql</guid>
+      <category>Knowledge</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>상용 리튬이온 셀의 전극 로딩량은 보통 5~10mg/cm² 범위이고, 이 값이 면적당 용량 3~4mAh/cm²를 만들어냅니다. 로딩량이 조금만 흔들려도 셀 용량과 저항이 함께 흔들</description>
     </item>
     <item>
       <title>[Knowledge][Forest Labs 뉴스레터] 부모가 만든 학교에서 아이들은 어떤 어른이 됐을까요</title>
@@ -156,6 +300,54 @@
       <category>Knowledge</category>
       <pubDate>2026.11.19</pubDate>
       <description>시편 24:7-10 — 주일 본문의 연구노트. 자격을 묻던 질문이 왕을 묻는 질문으로 바뀌는 자리.. 시편 24편 7-10절 · 2026년 11월 22일 왕이신 그리스도 주일 한눈에 읽는 시간 5분. 시편 24편은 3절에서 「여호와의 산에 오를 자가 누구며」라고 ...</description>
+    </item>
+    <item>
+      <title>[Society][피스모모] [참여요청] 피스모모와 후원으로 함께 해 주세요.</title>
+      <link>https://maily.so/peacemomo/posts/x1zg6g03rqg</link>
+      <guid>https://maily.so/peacemomo/posts/x1zg6g03rqg</guid>
+      <category>Society</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>기다려봤는데요, 평화가 알아서 오진 않더라고요. 내가 평화에게 가고 싶은 분을 100분 찾습니다.</description>
+    </item>
+    <item>
+      <title>[Society][동아시아청년학] 청년레터 #18 AI 스마트 안경과 시험능력주의</title>
+      <link>https://maily.so/youth/posts/1gz2w124z3q</link>
+      <guid>https://maily.so/youth/posts/1gz2w124z3q</guid>
+      <category>Society</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>동아시아 청년들에게 능력주의의 의미는?. 국립부경대 글로벌차이나연구소 동아시아청년학 연구사업단의 소식과 동아시아 청년 관련 연구, 활동, 뉴스를 전해드리는 동아시아청년학 뉴스레터입니다. 오늘(11/19)은 2027학년도</description>
+    </item>
+    <item>
+      <title>[Society][인디앤임팩트 미디어 뉴스레터] 🎬[157호] 모두가 계속 만들기 위해 싸우고 있다: 2026 영화인연대 × BIFF 정책 포럼</title>
+      <link>https://maily.so/iimedia/posts/wjzdnkevo3p</link>
+      <guid>https://maily.so/iimedia/posts/wjzdnkevo3p</guid>
+      <category>Society</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>11월 3주 (2026). 💌 뉴스레터 157호 📝어느덧 11월의 중순, 오늘은 대학수학능력시험이 치러지는 날입니다. 오랜 시간 시험을 준비해 온 수험생들 뿐 아니라 각자의 자리에서 자신만의 길을 걸어가고</description>
+    </item>
+    <item>
+      <title>[Society][VF레터] 11월 3호 베프레터</title>
+      <link>https://maily.so/veryfront/posts/92zenq9pzep</link>
+      <guid>https://maily.so/veryfront/posts/92zenq9pzep</guid>
+      <category>Society</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>AI 부정행위와 공정한 시험, 박주민 의원의 평등법 발의, 한화오션 노동자 투쟁. 이번 레터 NEWS LIST 1️⃣ [깊게읽기] AI 부정행위 사태, 무엇을 위한 시험인가 2️⃣ [뉴스클립] 민주당 박주민 의원의 평등법 발의, 후퇴를 막으려면 3️⃣ [이 주의</description>
+    </item>
+    <item>
+      <title>[Society][국가과학기술인력개발원 뉴스레터] [Q레이션 레터 #6] &quot;AI 기초 교육 다음엔 무엇을 가르칠까?&quot; 기획, 운영, 설계에서 한 걸음 더 🔎</title>
+      <link>https://maily.so/kirdedu.newsletter/posts/8mo5m8ynz9p</link>
+      <guid>https://maily.so/kirdedu.newsletter/posts/8mo5m8ynz9p</guid>
+      <category>Society</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>본 메일은 국가과학기술인력개발원(KIRD)이 발행하는 미래형 교수학습 동향 브리프 구독자와 알파캠퍼스 강사 회원 가운데 수신에 동의하신 분께 발송되었습니다. 2026.11.19 |</description>
+    </item>
+    <item>
+      <title>[Society][틈] 66호: 이 책 한번 잡솨봐 - 9월~10월의 신간 소개</title>
+      <link>https://maily.so/secularsaints/posts/2nznjnxmrp5</link>
+      <guid>https://maily.so/secularsaints/posts/2nznjnxmrp5</guid>
+      <category>Society</category>
+      <pubDate>2026.11.19</pubDate>
+      <description>『기도가 말씀을 만날 때』 외 16권. 안녕하세요, 틈의 신간 모니터링 요원 박현철입니다. 약속을 제대로 못지키고 10월 소개글을 건너뛰고 11월 소개글도 한참을 늦었네요. 이런저런 핑계는 유구무언. 두 달 치 신간을</description>
     </item>
     <item>
       <title>[Society][기록과 사회] 이처럼 뜨겁고 우릿한 기록이라니!</title>
@@ -230,14 +422,6 @@
       <description>따라 하기 3단계, 복사할 것 4개, 가짜 회사 데이터로 실제 돌린 화면 5장. 안녕하세요, 뉴스대디입니다. 릴스에 '파이썬'이라고 댓글 달아주신 분들께 약속드린 '직장인 실용 파이썬+클로드 가이드'입니다. 이 글을 따라 하면 세 가지를 얻습니다.</description>
     </item>
     <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] ChatGPT vs Claude: Who moves the bed? An interior estimate comparison</title>
-      <link>https://maily.so/codingstar/posts/g0zmq9nkoql</link>
-      <guid>https://maily.so/codingstar/posts/g0zmq9nkoql</guid>
-      <category>AI/Tech</category>
-      <pubDate>2026.11.18</pubDate>
-      <description>Use ChatGPT vs Claude for a renovation quote review that separates “not included” from “never mentioned.”. Does “paint the bedroom” include moving ...</description>
-    </item>
-    <item>
       <title>[Marketing][스위밍코드] 예전에 써 둔 클로드 지침, 페이블 5.2에서는 이렇게 걷어 냈습니다</title>
       <link>https://maily.so/swimmingcode/posts/1gz2ww8nz3q</link>
       <guid>https://maily.so/swimmingcode/posts/1gz2ww8nz3q</guid>
@@ -276,22 +460,6 @@
       <category>Marketing</category>
       <pubDate>2026.11.18</pubDate>
       <description>In this issue: a Dominican Republic delegation in Seoul, new provinces in Cambodia, ASKER’s first months in Bangladesh, and a Korea-ASEAN methane p...</description>
-    </item>
-    <item>
-      <title>[Marketing][MARKETTER] [Marketter Vol. 35] 요즘 카페 브랜드들은 연말을 이렇게 준비합니다!</title>
-      <link>https://maily.so/marketter/posts/w6ovxkmyzk5</link>
-      <guid>https://maily.so/marketter/posts/w6ovxkmyzk5</guid>
-      <category>Marketing</category>
-      <pubDate>2026.11.18</pubDate>
-      <description>2026년 연말을 앞둔 카페 브랜드들의 홀리데이 마케팅 사례 4가지. 안녕하세요, 여러분! 아직 11월인데 카페에는 벌써 크리스마스가 찾아왔습니다. 겨울 한정 음료부터 화려한 케이크까지 하나둘 등장하니 연말이 다가온다는 게 실감 나는데요. 🎄 자세히</description>
-    </item>
-    <item>
-      <title>[Marketing][응답하라 마케팅] (광고) 구독자, 올해 마지막 마케터 AI 워크샵에 초대할게 💌</title>
-      <link>https://maily.so/marsinmarine/posts/2nznj49mrp5</link>
-      <guid>https://maily.so/marsinmarine/posts/2nznj49mrp5</guid>
-      <category>Marketing</category>
-      <pubDate>2026.11.18</pubDate>
-      <description>결과물을 낼 때까지 가둬두는(?) 응마의 AI 가두리톤. (에디터 마파🔋) 구독자 응답이 안녕! 요즘 AI 발전 속도가 정말 빠르지 않아? 며칠 전에 신기하다고 생각했던 것도 금세 익숙해지고... 또 새로운 기능이 나오고. 나도 매</description>
     </item>
     <item>
       <title>[Culture][리드나잇] 🍯난 왜 이 알바가 영원할 것 같지…</title>
@@ -454,14 +622,6 @@
       <description>은퇴 호소인의 경제 뉴스</description>
     </item>
     <item>
-      <title>[Money][market.brief.kr] 엔비디아가 3분기 매출 1,158억 달러를 발표했습니다. 1년 전보다 103% 늘었습니다.</title>
-      <link>https://maily.so/market.brief.kr/posts/w6ovxejyzk5</link>
-      <guid>https://maily.so/market.brief.kr/posts/w6ovxejyzk5</guid>
-      <category>Money</category>
-      <pubDate>2026.11.18</pubDate>
-      <description>코스피 -2.59% · 코스닥 -2.34% · S&amp;P 500 -1.03% · 나스닥 -0.74%. ▪ 데이터센터 매출 1,076억 달러, 4분기 매출 전망 1,300억 달러(±3%, 1주 긴 분기) ▪ 4분기 총마진 전망은 71~72%로 3분기 74.9%보다 낮게...</description>
-    </item>
-    <item>
       <title>[Lifestyle][루아네 옹달샘] [루아의 옹달샘] 동네 한 바퀴</title>
       <link>https://maily.so/kyeomrua/posts/8do7pgxdogq</link>
       <guid>https://maily.so/kyeomrua/posts/8do7pgxdogq</guid>
@@ -574,70 +734,6 @@
       <description>제18회 전국기록인대회 증평기록관 세션 「What Now, Archivists?」 후기. 11월 7일 토요일 오후, 전북대학교 인문사회관 201호. 제18회 전국기록인대회에서 증평기록관이 준비한 세션 「What Now, Archivists? – 증평에서 경계를 묻다」가</description>
     </item>
     <item>
-      <title>[Marketing][theGEO.ONL] 우리가 쓰는 소개와 밖에서 확인되는 소개</title>
-      <link>https://maily.so/thegeo.onl/posts/vpzlk4ndrk9</link>
-      <guid>https://maily.so/thegeo.onl/posts/vpzlk4ndrk9</guid>
-      <category>Marketing</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>theGEO.ONL 레터 19호. 안녕하세요, theGEO.ONL 레터 구독자 여러분! 면접에서 자기소개를 아무리 잘해도, 면접관은 결국 이력과 추천서를 함께 들여다보죠.📝 AI가 우리 브랜드를 소개할 때도 비슷해</description>
-    </item>
-    <item>
-      <title>[Marketing][비즈니스 연구 분석하는 훈] 자동화 도구는 다 샀는데 왜 성과는 안 보일까</title>
-      <link>https://maily.so/business.report/posts/32z83k11on4</link>
-      <guid>https://maily.so/business.report/posts/32z83k11on4</guid>
-      <category>Marketing</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>안녕하세요. 이번 주는 마케팅 자동화 얘기를 들고 왔습니다. 조금 불편한 얘기일 수 있습니다. 아마 지금 이 메일을 받으시는 분들 회사에도 자동화 플랫폼 하나쯤은 깔려 있을 겁니다</description>
-    </item>
-    <item>
-      <title>[Marketing][With Payple] 중국 고객에게 알리페이로 결제 받는 법</title>
-      <link>https://maily.so/payple/posts/92zen22lzep</link>
-      <guid>https://maily.so/payple/posts/92zen22lzep</guid>
-      <category>Marketing</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>페이플 해외 간편결제(Alipay+)를 쓰면 중국 신분증을 가진 고객이 알리페이로 위안화(CNY) 결제를 할 수 있고, 연동은 운영 환경에서만 제공되며 기존 파트너는 추가 신청으로 쓸 수 있습니다.. 페이플 해외 간편결제(Alipay+)를 쓰면 중국 신분증을 가진...</description>
-    </item>
-    <item>
-      <title>[Culture][Trend A Word] [Trend A Word #658] 와플대학에 떡 추가요?</title>
-      <link>https://maily.so/trendaword/posts/vpzlk4kdrk9</link>
-      <guid>https://maily.so/trendaword/posts/vpzlk4kdrk9</guid>
-      <category>Culture</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>26.11.17 (화) '와플대학 모찌시트'. 용례 1. “와플대학에 떡도 넣어 먹는다고? 이 학교 커리큘럼 미쳤다.” 김 OO 씨 2. “와플대학 모찌시트 추가하고 쩝쩝박사 학위 따러 감.” 이 OO 씨</description>
-    </item>
-    <item>
-      <title>[Culture][웹진 청새치의 눈] ○ 오후의 빛은 어디로? / 감정 해부 / 그리고 해답</title>
-      <link>https://maily.so/chung.noon/posts/10z37j06olw</link>
-      <guid>https://maily.so/chung.noon/posts/10z37j06olw</guid>
-      <category>Culture</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>﻿1 집에 혼자 지내는 시간이 당연하게 주어지던 시절, 오후 네다섯시면 기다랗고 깊은 주황색 노을이 꼭 왔다. 청주로 이사하며 그 방을 집필실로 정한 이유였다. 천장부터 바닥까지</description>
-    </item>
-    <item>
-      <title>[Culture][visitor.see] 찾아지기를 기다리는 미술</title>
-      <link>https://maily.so/visitor.see/posts/5xrxypqjz2v</link>
-      <guid>https://maily.so/visitor.see/posts/5xrxypqjz2v</guid>
-      <category>Culture</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>《구정아: 우스모스》의 우주적 환경. 구독자, 방탈출 게임 해보셨나요? 방 안에 있는 모든 것들이 의심스러워지죠. 얼룩 하나도 단서처럼 보여요. 지금 리움미술관에서 열리고 있는 구정아의 개인전, 《구정아: 우스모</description>
-    </item>
-    <item>
-      <title>[Money][주식요정] 2026년 11월 17일 코스피 주식투자가이드라인 정리(상위241~300위 종목)</title>
-      <link>https://maily.so/yun74259/posts/8do7ppgeogq</link>
-      <guid>https://maily.so/yun74259/posts/8do7ppgeogq</guid>
-      <category>Money</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>재테크,투자,주식. 종목코드 종목명 저평가가격(최대한 가깝게 매수 할것) 이 가격에 가깝게 매수하면 안됨 향후 저평가가격 전망 종가 매수고민 여부(11월 5일 기준) 003160 디아이 7000 14</description>
-    </item>
-    <item>
-      <title>[Money][요시샘 공룡 멤버십] [자료배포] 매수&amp;매도 스위치 (인덱스)</title>
-      <link>https://maily.so/yoshisamletter/posts/2qzpek3jo4x</link>
-      <guid>https://maily.so/yoshisamletter/posts/2qzpek3jo4x</guid>
-      <category>Money</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>매일 아침, 시장 온도를 한 장으로 &quot;지금 사도 될까요?&quot; 가장 많이 받는 질문이에요. 시장에 흐름을 한 번에 판단할 수 있는 프로그램을 만들었어요.</description>
-    </item>
-    <item>
       <title>[Lifestyle][아나톨리아 편지] 37. 새가 날고 가젤이 목을 축이는</title>
       <link>https://maily.so/anatolianletter/posts/wjzdnv68o3p</link>
       <guid>https://maily.so/anatolianletter/posts/wjzdnv68o3p</guid>
@@ -652,22 +748,6 @@
       <category>Lifestyle</category>
       <pubDate>2026.11.17</pubDate>
       <description>부천시립별빛마루도서관 「마음의 色, 자연의 色」, 다섯 번의 금요일이 남긴 것. 2026.11.17 vol.46 | view more | SUBSCRIBE CRSH : 이야기 안녕하세요, 정재경입니다.</description>
-    </item>
-    <item>
-      <title>[Lifestyle][조잘조잘] 인생에서 또 한 번의 변곡점을 앞두고 보내는 편지</title>
-      <link>https://maily.so/jojal/posts/d5ryy3l1r1w</link>
-      <guid>https://maily.so/jojal/posts/d5ryy3l1r1w</guid>
-      <category>Lifestyle</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>좋은 오후입니다, 구독자님. 요즘은 어떤 하루를 보내고 계셨나요? 안팎으로 시끄러운 세상입니다. 늘 10년 뒤, 20년 뒤를 떠올리며 사는 저였지만 이제는 1년 뒤, 아니,</description>
-    </item>
-    <item>
-      <title>[Lifestyle][당신의 인생 디버깅 샵] 독은 용량의 문제다. 당신의 독은 무엇인가요?</title>
-      <link>https://maily.so/joker4408/posts/mjz6vj31owk</link>
-      <guid>https://maily.so/joker4408/posts/mjz6vj31owk</guid>
-      <category>Lifestyle</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>'필로폰'은 원래 일본 제약회사가 출시한 일종의 피로회복제로 1940년대 처방전 없이도 동네 약국에서 쉽게 구입할 수 있었다. 지금의 마약처럼 주사제는 아니었고 알약 형태였기 때문</description>
     </item>
     <item>
       <title>[Knowledge][잉플] 📨 잉플 일상영어 Vol.158 - 얼굴에 묻은 초콜릿 알려 주기</title>
@@ -694,84 +774,11 @@
       <description>네이처에 실린 초박형 메타표면 렌즈부터 4,000번 급속 충전 흑연 양극, 차세대 메모리 속 전류 길 3차원 규명까지 39선. 이번 편에서는 아래 키워드들을 모았어요: #마이크로LED #하이브리드PDMS스탬프 #전자이름표 #전기변색 #LTCC필터 #AR안경 #메타...</description>
     </item>
     <item>
-      <title>[Knowledge][보카의 중국어] '왠지 불안하다'? 중국어로는 바닥이 없다고 합니다 | 중국어 뉴스보카</title>
-      <link>https://maily.so/voca.chinese/posts/10z377p6olw</link>
-      <guid>https://maily.so/voca.chinese/posts/10z377p6olw</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>5분 만에 읽는 11월 2주차 중국 뉴스 요약 · 핵심 표현 35개 · 병음·한글 발음 정리. 안녕하세요! 실제로 쓰는 중국어 표현을 골라 메일로 보내드리는 뉴스레터 &lt;보카의 중국어&gt;입니다. 인스타그램 '보카집중'을 운영하는 18년 차 중국어 스페셜리스트, 前 해...</description>
-    </item>
-    <item>
-      <title>[Knowledge][하루 영어 한개] [#210] AI 커닝 세무사 수석, 자격은 일단 put on hold(보류)</title>
-      <link>https://maily.so/1wordaday/posts/2qzpeeweo4x</link>
-      <guid>https://maily.so/1wordaday/posts/2qzpeeweo4x</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>Put on hold의 뜻, 사용법, 예문. 지난주에는 세무사 시험 수석 합격자 관련 소식 때문에 여러 번 놀랐어요. 처음에는 엄청난 고득점을 받아서 놀랐고, 이후에 갑자기 부정행위를 인정해서 다시 한번 놀랐습니다. “We</description>
-    </item>
-    <item>
-      <title>[Society][하리 한 조각] Vol. 26 감사하리 !</title>
-      <link>https://maily.so/onepeaceofhari/posts/2nznjj3erp5</link>
-      <guid>https://maily.so/onepeaceofhari/posts/2nznjj3erp5</guid>
-      <category>Society</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>곁의 온기와 멀리서 온 마음을 품에 안으며. &quot;Parabéns a você!&quot;(당신의 생일을 축하합니다!) 경쾌하면서도 정겨운 포르투갈어 생일 노래가 귓가에 울려 퍼지던 날, 저는 동티모르 딜리의 따스한 바람 속에서 스물다섯</description>
-    </item>
-    <item>
-      <title>[Society][기록과 사회] 2026년 제18회 전국기록인대회 참가 후기(정리)</title>
-      <link>https://maily.so/archivenews/posts/l1zq1yyer5x</link>
-      <guid>https://maily.so/archivenews/posts/l1zq1yyer5x</guid>
-      <category>Society</category>
-      <pubDate>2026.11.17</pubDate>
-      <description>제18회 기록인대회가 11월 6일-7일 양일에 걸쳐 전북대학교 전주캠퍼스에서 열렸습니다. 전국에서 활동하는 기록인들이 만나 각자의 이야기를 나누는 뜻깊은 시간이었습니다. 여러분 모</description>
-    </item>
-    <item>
-      <title>[Knowledge][상식이 통하는 신앙] 예수님에게 개라는 말을 들은 여자</title>
-      <link>https://maily.so/sangsin/posts/2nznjj6mrp5</link>
-      <guid>https://maily.so/sangsin/posts/2nznjj6mrp5</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.11.16</pubDate>
-      <description>마태복음에서 네 믿음이 ‘크다’는 말을 들은 사람은 가나안 여자 한 사람이었습니다.. 저는 예수님이 하신 말씀 가운데 이 말씀이 가장 이해되지 않았습니다. “자녀들의 빵을 집어서, 개들에게 던져 주는 것은 옳지 않다.”(마태복음 15장 26절) 딸을 고쳐 달라고 매</description>
-    </item>
-    <item>
-      <title>[Knowledge][잉플] 📨 잉플 일상영어 Vol.157 - 도서관 책 대출 기간 연장하기</title>
-      <link>https://maily.so/engple/posts/wjzdnv9vo3p</link>
-      <guid>https://maily.so/engple/posts/wjzdnv9vo3p</guid>
-      <category>Knowledge</category>
-      <pubDate>2026.11.16</pubDate>
-      <description>아직 반밖에 못 읽었는데, 일주일 더 빌릴 수 있을까요? 📚. 안녕하세요, 잉플 일상영어입니다! 😊 빌린 책의 반납일이 다가왔는데 아직 다 읽지 못한 적 있나요? 오늘은 도서관에서 읽은 분량을 말하고, 대출 기간을 연장할 수 있는지 물어보는</description>
-    </item>
-    <item>
-      <title>[Society][피스모모] [참여안내] 즐거운 회원연말모임에 초대합니다!</title>
-      <link>https://maily.so/peacemomo/posts/8do7ppveogq</link>
-      <guid>https://maily.so/peacemomo/posts/8do7ppveogq</guid>
-      <category>Society</category>
-      <pubDate>2026.11.16</pubDate>
-      <description>12월 18일(금) 저녁 7:00–9:00에 커먼스퀘어에서 만나요!. 안녕하세요, 피스모모입니다. 기온이 뚝 떨어지며 서로의 한 해를 돌아보고 감사의 마음을 나누는 계절이 다가왔어요. 오는 12월 18일(금) 저녁 7시부터 9시까지, 피스모모 회원들</description>
-    </item>
-    <item>
-      <title>[Society][제철트렌드식탁] Vol.20 [오래된 이야기를 새롭게 꺼내는 법]</title>
-      <link>https://maily.so/trendtable/posts/mjz6vkelowk</link>
-      <guid>https://maily.so/trendtable/posts/mjz6vkelowk</guid>
-      <category>Society</category>
-      <pubDate>2026.11.16</pubDate>
-      <description>처음 기부하던 날, 기억나세요? 아름다운재단 '알음알음클럽' 이야기 🍊. 안녕하세요, 기획자님! 🍊 11월도 어느새 중순이에요. 연말 캠페인 준비로 바쁜 한 주 보내고 계시죠? '이주의 재료'에는 화장품 업계 캐릭터 협업 경쟁, 23개 비영리단체가 함께</description>
-    </item>
-    <item>
-      <title>[Society][theESG.ONL] 약속에 숫자를 채울 차례예요🌏</title>
-      <link>https://maily.so/theesg.onl/posts/2qzpeexxo4x</link>
-      <guid>https://maily.so/theesg.onl/posts/2qzpeexxo4x</guid>
-      <category>Society</category>
-      <pubDate>2026.11.16</pubDate>
-      <description>theESG.ONL 레터 5호. 안탈리아에 남겨진 두 개의 빈칸 지난 9일, 튀르키예 안탈리아에서 제31차 유엔기후변화협약 당사국총회(COP31)가 시작됐어요. 20일까지 이어지는 이번 총회의 과제는 새 목표를</description>
-    </item>
-    <item>
-      <title>[Society][기록과 사회] 지난주('26.11.09.~11.13.)의 '기록과 사회'</title>
-      <link>https://maily.so/archivenews/posts/vpzlkng2rk9</link>
-      <guid>https://maily.so/archivenews/posts/vpzlkng2rk9</guid>
-      <category>Society</category>
-      <pubDate>2026.11.16</pubDate>
-      <description>대통령지정기록물 열람 요건 완화, 대통령의 '여전한' SNS 사랑은 (대통령)기록관리에 어떤 자국을 남길까요. 소셜미디어 계정 분리 요구에도 불구하고 여전히 청와대 웹사이트에 연결</description>
+      <title>[AI/Tech][오토마타] Automata V.37 | AI가 일은 잘하는데, 믿어도 될까요?</title>
+      <link>https://maily.so/automata/posts/2qzpeqyxo4x</link>
+      <guid>https://maily.so/automata/posts/2qzpeqyxo4x</guid>
+      <category>AI/Tech</category>
+      <description>검증, 신원 확인, 사람의 승인으로 AI를 더 안심하고 쓰는 법을 소개해요. 🔍 코드는 늘었는데 끝난 일은 그대로? AI 시대의 새 병목은 '검증'이에요</description>
     </item>
     <item>
       <title>[AI/Tech][Trendium.ai] #364: 좋아요와 댓글은 끝났다 - 메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중</title>
@@ -851,11 +858,39 @@
       <description>따라 하기 3단계, 복사할 것 4개, 가짜 회사 데이터로 실제 돌린 화면 5장. 안녕하세요, 뉴스대디입니다. 릴스에 '파이썬'이라고 댓글 달아주신 분들께 약속드린 '직장인 실용 파이썬+클로드 가이드'입니다. 이 글을 따라 하면 세 가지를 얻습니다.</description>
     </item>
     <item>
-      <title>[AI/Tech][CodingStar 마케팅 프로그램] ChatGPT vs Claude: Who moves the bed? An interior estimate comparison</title>
-      <link>https://maily.so/codingstar/posts/g0zmq9nkoql</link>
-      <guid>https://maily.so/codingstar/posts/g0zmq9nkoql</guid>
-      <category>AI/Tech</category>
-      <description>Use ChatGPT vs Claude for a renovation quote review that separates “not included” from “never mentioned.”. Does “paint the bedroom” include moving the bed? T...</description>
+      <title>[Marketing][스위밍코드] 클로드 코드 무료 SEO 플러그인으로 저희 자료실을 점검했더니 38점이 나왔습니다</title>
+      <link>https://maily.so/swimmingcode/posts/wdr988y7olx</link>
+      <guid>https://maily.so/swimmingcode/posts/wdr988y7olx</guid>
+      <category>Marketing</category>
+      <description>구글·AI 검색 기준 점검이 무엇을 보는지, 주요 지적과 자사몰 점검 순서. 안녕하세요, swimmingcode입니다. claude-seo는 2026년 11월 16일 기준 깃허브 별 약 3만 개(29,780개)를 받은 무료 클로드 코드 플러그인이고 2026</description>
+    </item>
+    <item>
+      <title>[Marketing][비즈니스 연구 분석하는 훈] 콘텐츠 값이 5분의 1이 된 해에 벌어진 일</title>
+      <link>https://maily.so/business.report/posts/e9o03g2eo8w</link>
+      <guid>https://maily.so/business.report/posts/e9o03g2eo8w</guid>
+      <category>Marketing</category>
+      <description>올해 콘텐츠 마케팅 리포트를 읽다가 손이 멈춘 대목이 있습니다. AI로 쓴 블로그 글 한 편의 평균 제작비가 131달러입니다. 사람이 쓰면 611달러입니다. 다섯 분의 일입니다.</description>
+    </item>
+    <item>
+      <title>[Marketing][팬덤을 설계하는 매력학자 동건] 재구매율은 CRM이 아니라 대표의 유튜브가 올립니다</title>
+      <link>https://maily.so/desireanalyst/posts/10z379eeolw</link>
+      <guid>https://maily.so/desireanalyst/posts/10z379eeolw</guid>
+      <category>Marketing</category>
+      <description>고객은 회사보다 사람을 기억한다. 저는 재구매가 툴보다 얼굴에 달려 있다는 생각을 해봤습니다. 고객은 회사를 잘 기억하지 않지만, 사람은 기억하거든요. 툴을 바꾸고, 알림을 늘린다 재구매가 안 나오면 많이 하는 일</description>
+    </item>
+    <item>
+      <title>[Marketing][쿠프마케팅] 11(일)석이조 모바일 쿠폰 혜택, 12(이)제 연말 준비 고민 끝!</title>
+      <link>https://maily.so/coopnc.com/posts/mjz6velyowk</link>
+      <guid>https://maily.so/coopnc.com/posts/mjz6velyowk</guid>
+      <category>Marketing</category>
+      <description/>
+    </item>
+    <item>
+      <title>[Marketing][With Payple] PG 웹훅으로 결제 완료와 취소 알림을 놓치지 않는 법</title>
+      <link>https://maily.so/payple/posts/x1zg6g93rqg</link>
+      <guid>https://maily.so/payple/posts/x1zg6g93rqg</guid>
+      <category>Marketing</category>
+      <description>PG 웹훅은 결제가 끝나거나 취소됐을 때 결과를 파트너 서버로 직접 보내 줍니다. 페이플 웹훅의 PCD_WEBHOOK_TYPE 값으로 알림을 나누고, 주문번호와 금액을 확인해 반영하는 순서를 정리했습니다.. PG 웹훅은 결제가 끝나거나 취소됐을 때 결제 결과를 파트너 서버로 직접 ...</description>
     </item>
     <item>
       <title>[Marketing][세상 모든 캠페인] 안경 브랜드가 글씨를 숨긴 이유</title>
@@ -907,39 +942,25 @@
       <description>In this issue: a Dominican Republic delegation in Seoul, new provinces in Cambodia, ASKER’s first months in Bangladesh, and a Korea-ASEAN methane project. We...</description>
     </item>
     <item>
-      <title>[Marketing][MARKETTER] [Marketter Vol. 35] 요즘 카페 브랜드들은 연말을 이렇게 준비합니다!</title>
-      <link>https://maily.so/marketter/posts/w6ovxkmyzk5</link>
-      <guid>https://maily.so/marketter/posts/w6ovxkmyzk5</guid>
-      <category>Marketing</category>
-      <description>2026년 연말을 앞둔 카페 브랜드들의 홀리데이 마케팅 사례 4가지. 안녕하세요, 여러분! 아직 11월인데 카페에는 벌써 크리스마스가 찾아왔습니다. 겨울 한정 음료부터 화려한 케이크까지 하나둘 등장하니 연말이 다가온다는 게 실감 나는데요. 🎄 자세히</description>
+      <title>[Culture][Trend A Word] (광고) [Trend A Word #660] 곶감이 춤까지 추는 세상… 요즘 숏폼 근황</title>
+      <link>https://maily.so/trendaword/posts/x1zg6gn3rqg</link>
+      <guid>https://maily.so/trendaword/posts/x1zg6gn3rqg</guid>
+      <category>Culture</category>
+      <description>26.11.19 (목) '미안 이제 곶감'. 용례 1. “미안 이제 곶감~ (아직 양말도 안 신음)” 강 OO 씨 2. “이제 곶감이라고 하는 애들 특: 절대 안 옴.” 최 OO 씨</description>
     </item>
     <item>
-      <title>[Marketing][응답하라 마케팅] (광고) 구독자,  올해 마지막 마케터 AI 워크샵에 초대할게 💌</title>
-      <link>https://maily.so/marsinmarine/posts/2nznj49mrp5</link>
-      <guid>https://maily.so/marsinmarine/posts/2nznj49mrp5</guid>
-      <category>Marketing</category>
-      <description>결과물을 낼 때까지 가둬두는(?) 응마의 AI 가두리톤. (에디터 마파🔋) 구독자 응답이 안녕! 요즘 AI 발전 속도가 정말 빠르지 않아? 며칠 전에 신기하다고 생각했던 것도 금세 익숙해지고... 또 새로운 기능이 나오고. 나도 매</description>
+      <title>[Culture][주간벤자민] 큰돈을 벌었다</title>
+      <link>https://maily.so/weeklybenjamin/posts/2qzpek69o4x</link>
+      <guid>https://maily.so/weeklybenjamin/posts/2qzpek69o4x</guid>
+      <category>Culture</category>
+      <description>돈을 버는 삶은 '그저 그런 삶'으로 수렴하는 것 같다. 최근 큰돈을 벌었다. 어마어마하게 큰돈은 아니고, 노력과 시간 대비 큰돈이다. 쉽게 말해서 꽤 높은 일당을 받았다고 보면 된다. 처음 이 금액을 제안했을 때는 긴장이 되었다. 실제</description>
     </item>
     <item>
-      <title>[Marketing][theGEO.ONL] 우리가 쓰는 소개와 밖에서 확인되는 소개</title>
-      <link>https://maily.so/thegeo.onl/posts/vpzlk4ndrk9</link>
-      <guid>https://maily.so/thegeo.onl/posts/vpzlk4ndrk9</guid>
-      <category>Marketing</category>
-      <description>theGEO.ONL 레터 19호. 안녕하세요, theGEO.ONL 레터 구독자 여러분! 면접에서 자기소개를 아무리 잘해도, 면접관은 결국 이력과 추천서를 함께 들여다보죠.📝 AI가 우리 브랜드를 소개할 때도 비슷해</description>
-    </item>
-    <item>
-      <title>[Marketing][비즈니스 연구 분석하는 훈] 자동화 도구는 다 샀는데 왜 성과는 안 보일까</title>
-      <link>https://maily.so/business.report/posts/32z83k11on4</link>
-      <guid>https://maily.so/business.report/posts/32z83k11on4</guid>
-      <category>Marketing</category>
-      <description>안녕하세요. 이번 주는 마케팅 자동화 얘기를 들고 왔습니다. 조금 불편한 얘기일 수 있습니다. 아마 지금 이 메일을 받으시는 분들 회사에도 자동화 플랫폼 하나쯤은 깔려 있을 겁니다</description>
-    </item>
-    <item>
-      <title>[Marketing][With Payple] 중국 고객에게 알리페이로 결제 받는 법</title>
-      <link>https://maily.so/payple/posts/92zen22lzep</link>
-      <guid>https://maily.so/payple/posts/92zen22lzep</guid>
-      <category>Marketing</category>
-      <description>페이플 해외 간편결제(Alipay+)를 쓰면 중국 신분증을 가진 고객이 알리페이로 위안화(CNY) 결제를 할 수 있고, 연동은 운영 환경에서만 제공되며 기존 파트너는 추가 신청으로 쓸 수 있습니다.. 페이플 해외 간편결제(Alipay+)를 쓰면 중국 신분증을 가진 고객이 알리페이로...</description>
+      <title>[Culture][오늘의 각성제] 자만과 오만과 야만의 시대</title>
+      <link>https://maily.so/deepbite/posts/xyowynd1z28</link>
+      <guid>https://maily.so/deepbite/posts/xyowynd1z28</guid>
+      <category>Culture</category>
+      <description>인류는 진보했는데, 인간은 왜 거꾸로 가는 걸까요.. 안녕하세요. 구독자님 지난주에 발행할 원고는 역대급으로 긴 내용을 써서 그런지 3번의 오류와 함께 에러가 나서 보내드리지 못했습니다. 제가 가장 좋아하고 오랫동안 자료를 모아</description>
     </item>
     <item>
       <title>[Culture][웹진 청새치의 눈] ○ 새벽 시간 노동 순대 첫눈</title>
@@ -1003,27 +1024,6 @@
       <guid>https://maily.so/harry.house/posts/knrjkl01zld</guid>
       <category>Culture</category>
       <description>경주 카페가 아시아 태평양 100대 카페로 선정. 안녕하세요! 이번 주도 어김없이 찾아온 '주간 와우경주' 에디터입니다. 2026년 11월 셋째 주의 경주는 옷깃을 여미게 하는 쌀쌀한 초겨울 바람이 불어오고 있으니 방문하실 때 따</description>
-    </item>
-    <item>
-      <title>[Culture][Trend A Word] [Trend A Word #658] 와플대학에 떡 추가요?</title>
-      <link>https://maily.so/trendaword/posts/vpzlk4kdrk9</link>
-      <guid>https://maily.so/trendaword/posts/vpzlk4kdrk9</guid>
-      <category>Culture</category>
-      <description>26.11.17 (화) '와플대학 모찌시트'. 용례 1. “와플대학에 떡도 넣어 먹는다고? 이 학교 커리큘럼 미쳤다.” 김 OO 씨 2. “와플대학 모찌시트 추가하고 쩝쩝박사 학위 따러 감.” 이 OO 씨</description>
-    </item>
-    <item>
-      <title>[Culture][웹진 청새치의 눈] ○ 오후의 빛은 어디로? / 감정 해부 / 그리고 해답</title>
-      <link>https://maily.so/chung.noon/posts/10z37j06olw</link>
-      <guid>https://maily.so/chung.noon/posts/10z37j06olw</guid>
-      <category>Culture</category>
-      <description>﻿1 집에 혼자 지내는 시간이 당연하게 주어지던 시절, 오후 네다섯시면 기다랗고 깊은 주황색 노을이 꼭 왔다. 청주로 이사하며 그 방을 집필실로 정한 이유였다. 천장부터 바닥까지</description>
-    </item>
-    <item>
-      <title>[Culture][visitor.see] 찾아지기를 기다리는 미술</title>
-      <link>https://maily.so/visitor.see/posts/5xrxypqjz2v</link>
-      <guid>https://maily.so/visitor.see/posts/5xrxypqjz2v</guid>
-      <category>Culture</category>
-      <description>《구정아: 우스모스》의 우주적 환경. 구독자, 방탈출 게임 해보셨나요? 방 안에 있는 모든 것들이 의심스러워지죠. 얼룩 하나도 단서처럼 보여요. 지금 리움미술관에서 열리고 있는 구정아의 개인전, 《구정아: 우스모</description>
     </item>
     <item>
       <title>[Career][닥터오너스클럽레터] [데스크 18편] 어느 날 갑자기 안 나오는 직원</title>
@@ -1110,6 +1110,27 @@
       <description>한 사람에게 쓴 글이 가장 깊게 읽혔습니다. 9월 22일 화요일 아침 7시 30분에 글 하나를 올렸습니다. 『된다! 링크드인 활용법』을 함께 만든 이지스퍼블리싱 권정하 마케터님이 출판사를 떠나시기 하루 전이었습니다. 같이 일</description>
     </item>
     <item>
+      <title>[Money][은호레터] [은호레터] 앤트로픽, 83달러 공모가에 담긴 기대와 위험</title>
+      <link>https://maily.so/eunho/posts/8do7pg8dogq</link>
+      <guid>https://maily.so/eunho/posts/8do7pg8dogq</guid>
+      <category>Money</category>
+      <description>은퇴 호소인의 투자 인사이트. 83달러에 산 투자자가 기대하는 이익 공모가 83달러로 계산한 앤트로픽의 완전희석 지분가치는 약 1조 5,000억달러입니다. 10월 한 달 매출을 1년치로 환산한 810억달러의 약</description>
+    </item>
+    <item>
+      <title>[Money][은호레터] [은호레터] 주식과 국채의 동시 숏 포지션, 엇갈리는 수급 전망</title>
+      <link>https://maily.so/eunho/posts/e9o03geeo8w</link>
+      <guid>https://maily.so/eunho/posts/e9o03geeo8w</guid>
+      <category>Money</category>
+      <description>은퇴 호소인의 투자 인사이트. 같은 ‘맥스 숏’ 아래 서로 다른 전환 가격 2026년 11월 17일 씨티의 CTA 모델은 S&amp;P500과 나스닥100, 러셀2000뿐 아니라 미국 국채 전 구간까지 ‘맥스 숏’으로</description>
+    </item>
+    <item>
+      <title>[Money][BIZKIT의 콘텐츠 자본론] [기획: IP 자본론 2/4] 남의 IP로 대박 난 플랫폼은 왜 자기 IP를 갖고 싶어 할까</title>
+      <link>https://maily.so/bizkit/posts/5xrxy64jz2v</link>
+      <guid>https://maily.so/bizkit/posts/5xrxy64jz2v</guid>
+      <category>Money</category>
+      <description>IP 플랫폼의 자체 IP, IP 홀더의 자체 플랫폼. 아름다운 공생 또는 위험한 동거. 2026년 10월, 넷플릭스가 K팝 걸그룹을 만들겠다고 선언했다. 오리지널 오디션 프로그램 ‘위 고 하이(We Go High)’를 통해 참가자 모집을 시작했고, SM C&amp;C와 데뷔</description>
+    </item>
+    <item>
       <title>[Money][요시샘 공룡 멤버십] [데일리 코멘트] 26.11.19(목)</title>
       <link>https://maily.so/yoshisamletter/posts/3jrkl6e5z51</link>
       <guid>https://maily.so/yoshisamletter/posts/3jrkl6e5z51</guid>
@@ -1173,25 +1194,18 @@
       <description>은퇴 호소인의 경제 뉴스</description>
     </item>
     <item>
-      <title>[Money][market.brief.kr] 엔비디아가 3분기 매출 1,158억 달러를 발표했습니다. 1년 전보다 103% 늘었습니다.</title>
-      <link>https://maily.so/market.brief.kr/posts/w6ovxejyzk5</link>
-      <guid>https://maily.so/market.brief.kr/posts/w6ovxejyzk5</guid>
-      <category>Money</category>
-      <description>코스피 -2.59% · 코스닥 -2.34% · S&amp;P 500 -1.03% · 나스닥 -0.74%. ▪ 데이터센터 매출 1,076억 달러, 4분기 매출 전망 1,300억 달러(±3%, 1주 긴 분기) ▪ 4분기 총마진 전망은 71~72%로 3분기 74.9%보다 낮게 잡았습니다 ▪</description>
+      <title>[Lifestyle][돌아온 수요일의 이종철. 수종철입니다] 수종철 온라인 집들이</title>
+      <link>https://maily.so/soojongchul/posts/8mo5m1enz9p</link>
+      <guid>https://maily.so/soojongchul/posts/8mo5m1enz9p</guid>
+      <category>Lifestyle</category>
+      <description>베타버전. 온라인 집들이를 시작합니다. 마음껏 둘러봐 주세요. 실제 집과 99% 똑같습니다. https://jongchul-home.vercel.app/ 정식 론칭은 출장이 끝나고가 될 것</description>
     </item>
     <item>
-      <title>[Money][주식요정] 2026년 11월 17일 코스피 주식투자가이드라인 정리(상위241~300위 종목)</title>
-      <link>https://maily.so/yun74259/posts/8do7ppgeogq</link>
-      <guid>https://maily.so/yun74259/posts/8do7ppgeogq</guid>
-      <category>Money</category>
-      <description>재테크,투자,주식. 종목코드 종목명 저평가가격(최대한 가깝게 매수 할것) 이 가격에 가깝게 매수하면 안됨 향후 저평가가격 전망 종가 매수고민 여부(11월 5일 기준) 003160 디아이 7000 14</description>
-    </item>
-    <item>
-      <title>[Money][요시샘 공룡 멤버십] [자료배포] 매수&amp;매도 스위치 (인덱스)</title>
-      <link>https://maily.so/yoshisamletter/posts/2qzpek3jo4x</link>
-      <guid>https://maily.so/yoshisamletter/posts/2qzpek3jo4x</guid>
-      <category>Money</category>
-      <description>매일 아침, 시장 온도를 한 장으로 &quot;지금 사도 될까요?&quot; 가장 많이 받는 질문이에요. 시장에 흐름을 한 번에 판단할 수 있는 프로그램을 만들었어요.</description>
+      <title>[Lifestyle][함께 쓰는 하루] 살아야만 하는 당신에게</title>
+      <link>https://maily.so/hamkkeheyo/posts/8mo5m1v7z9p</link>
+      <guid>https://maily.so/hamkkeheyo/posts/8mo5m1v7z9p</guid>
+      <category>Lifestyle</category>
+      <description>살아야만 하는 당신에게 나는 오늘도 한 영혼의 아픈 삶이 담긴 기록을 들고 상담사례발표회장에 선다. 그 임상기록은 평범한 기록이 아니라 상처받은 영혼을 위한 뜨거운 고발장이다. 이</description>
     </item>
     <item>
       <title>[Lifestyle][POV 포브] 개똥이 약이 된다고요?</title>
@@ -1264,18 +1278,32 @@
       <description>부천시립별빛마루도서관 「마음의 色, 자연의 色」, 다섯 번의 금요일이 남긴 것. 2026.11.17 vol.46 | view more | SUBSCRIBE CRSH : 이야기 안녕하세요, 정재경입니다.</description>
     </item>
     <item>
-      <title>[Lifestyle][조잘조잘] 인생에서 또 한 번의 변곡점을 앞두고 보내는 편지</title>
-      <link>https://maily.so/jojal/posts/d5ryy3l1r1w</link>
-      <guid>https://maily.so/jojal/posts/d5ryy3l1r1w</guid>
-      <category>Lifestyle</category>
-      <description>좋은 오후입니다, 구독자님. 요즘은 어떤 하루를 보내고 계셨나요? 안팎으로 시끄러운 세상입니다. 늘 10년 뒤, 20년 뒤를 떠올리며 사는 저였지만 이제는 1년 뒤, 아니,</description>
+      <title>[Knowledge][잉플] 📨 잉플 일상영어 Vol.160 - 재채기하는 친구에게 휴지 건네주기</title>
+      <link>https://maily.so/engple/posts/mjz6ve3nowk</link>
+      <guid>https://maily.so/engple/posts/mjz6ve3nowk</guid>
+      <category>Knowledge</category>
+      <description>휴지 한 장 줄까? 상자째 가져가도 돼 🤧. 안녕하세요, 잉플 일상영어입니다! 😊 친구가 계속 재채기를 한다면 휴지를 건네며 뭐라고 말할까요? 오늘은 몸 상태를 간단히 말하고, 필요한 물건을 주고받는 대화를 연습해 봐요. 💡</description>
     </item>
     <item>
-      <title>[Lifestyle][당신의 인생 디버깅 샵] 독은 용량의 문제다. 당신의 독은 무엇인가요?</title>
-      <link>https://maily.so/joker4408/posts/mjz6vj31owk</link>
-      <guid>https://maily.so/joker4408/posts/mjz6vj31owk</guid>
-      <category>Lifestyle</category>
-      <description>'필로폰'은 원래 일본 제약회사가 출시한 일종의 피로회복제로 1940년대 처방전 없이도 동네 약국에서 쉽게 구입할 수 있었다. 지금의 마약처럼 주사제는 아니었고 알약 형태였기 때문</description>
+      <title>[Knowledge][시노프로] 2026년 11월 3주차 소식</title>
+      <link>https://maily.so/sinopro/posts/5xrxynqjz2v</link>
+      <guid>https://maily.so/sinopro/posts/5xrxynqjz2v</guid>
+      <category>Knowledge</category>
+      <description>천보, 中 원료 대체 전해액 첨가제로 정부 지원금 150억 확보 천보 자회사 천보신소재, 산업통상부 국가첨단전략산업 소부장 투자지원금 대상 선정. 정부·지자체 지원금 150억원 확</description>
+    </item>
+    <item>
+      <title>[Knowledge][시노프로] 코팅 결함 비전 검사와 AI 판정</title>
+      <link>https://maily.so/sinopro/posts/w6ovxelpzk5</link>
+      <guid>https://maily.so/sinopro/posts/w6ovxelpzk5</guid>
+      <category>Knowledge</category>
+      <description>두께계나 중량계는 코팅이 얼마나 두꺼운지는 알려주지만, 코팅에 뚫린 구멍이나 박힌 금속 조각은 읽지 못합니다. 그런 결함은 셀 안에 들어가고 나면 되돌릴 수 없죠. 그래서 양산 라</description>
+    </item>
+    <item>
+      <title>[Knowledge][시노프로] 전극 두께와 로딩량 측정 기술</title>
+      <link>https://maily.so/sinopro/posts/g0zmq98woql</link>
+      <guid>https://maily.so/sinopro/posts/g0zmq98woql</guid>
+      <category>Knowledge</category>
+      <description>상용 리튬이온 셀의 전극 로딩량은 보통 5~10mg/cm² 범위이고, 이 값이 면적당 용량 3~4mAh/cm²를 만들어냅니다. 로딩량이 조금만 흔들려도 셀 용량과 저항이 함께 흔들</description>
     </item>
     <item>
       <title>[Knowledge][Forest Labs 뉴스레터] 부모가 만든 학교에서 아이들은 어떤 어른이 됐을까요</title>
@@ -1334,32 +1362,46 @@
       <description>네이처에 실린 초박형 메타표면 렌즈부터 4,000번 급속 충전 흑연 양극, 차세대 메모리 속 전류 길 3차원 규명까지 39선. 이번 편에서는 아래 키워드들을 모았어요: #마이크로LED #하이브리드PDMS스탬프 #전자이름표 #전기변색 #LTCC필터 #AR안경 #메타표면 #신축성다이오...</description>
     </item>
     <item>
-      <title>[Knowledge][보카의 중국어] '왠지 불안하다'? 중국어로는 바닥이 없다고 합니다 | 중국어 뉴스보카</title>
-      <link>https://maily.so/voca.chinese/posts/10z377p6olw</link>
-      <guid>https://maily.so/voca.chinese/posts/10z377p6olw</guid>
-      <category>Knowledge</category>
-      <description>5분 만에 읽는 11월 2주차 중국 뉴스 요약 · 핵심 표현 35개 · 병음·한글 발음 정리. 안녕하세요! 실제로 쓰는 중국어 표현을 골라 메일로 보내드리는 뉴스레터 &lt;보카의 중국어&gt;입니다. 인스타그램 '보카집중'을 운영하는 18년 차 중국어 스페셜리스트, 前 해커스중국어</description>
+      <title>[Society][피스모모] [참여요청] 피스모모와 후원으로 함께 해 주세요.</title>
+      <link>https://maily.so/peacemomo/posts/x1zg6g03rqg</link>
+      <guid>https://maily.so/peacemomo/posts/x1zg6g03rqg</guid>
+      <category>Society</category>
+      <description>기다려봤는데요, 평화가 알아서 오진 않더라고요. 내가 평화에게 가고 싶은 분을 100분 찾습니다.</description>
     </item>
     <item>
-      <title>[Knowledge][하루 영어 한개] [#210] AI 커닝 세무사 수석, 자격은 일단 put on hold(보류)</title>
-      <link>https://maily.so/1wordaday/posts/2qzpeeweo4x</link>
-      <guid>https://maily.so/1wordaday/posts/2qzpeeweo4x</guid>
-      <category>Knowledge</category>
-      <description>Put on hold의 뜻, 사용법, 예문. 지난주에는 세무사 시험 수석 합격자 관련 소식 때문에 여러 번 놀랐어요. 처음에는 엄청난 고득점을 받아서 놀랐고, 이후에 갑자기 부정행위를 인정해서 다시 한번 놀랐습니다. “We</description>
+      <title>[Society][동아시아청년학] 청년레터 #18 AI 스마트 안경과 시험능력주의</title>
+      <link>https://maily.so/youth/posts/1gz2w124z3q</link>
+      <guid>https://maily.so/youth/posts/1gz2w124z3q</guid>
+      <category>Society</category>
+      <description>동아시아 청년들에게 능력주의의 의미는?. 국립부경대 글로벌차이나연구소 동아시아청년학 연구사업단의 소식과 동아시아 청년 관련 연구, 활동, 뉴스를 전해드리는 동아시아청년학 뉴스레터입니다. 오늘(11/19)은 2027학년도</description>
     </item>
     <item>
-      <title>[Knowledge][상식이 통하는 신앙] 예수님에게 개라는 말을 들은 여자</title>
-      <link>https://maily.so/sangsin/posts/2nznjj6mrp5</link>
-      <guid>https://maily.so/sangsin/posts/2nznjj6mrp5</guid>
-      <category>Knowledge</category>
-      <description>마태복음에서 네 믿음이 ‘크다’는 말을 들은 사람은 가나안 여자 한 사람이었습니다.. 저는 예수님이 하신 말씀 가운데 이 말씀이 가장 이해되지 않았습니다. “자녀들의 빵을 집어서, 개들에게 던져 주는 것은 옳지 않다.”(마태복음 15장 26절) 딸을 고쳐 달라고 매</description>
+      <title>[Society][인디앤임팩트 미디어 뉴스레터] 🎬[157호] 모두가 계속 만들기 위해 싸우고 있다: 2026 영화인연대 × BIFF 정책 포럼</title>
+      <link>https://maily.so/iimedia/posts/wjzdnkevo3p</link>
+      <guid>https://maily.so/iimedia/posts/wjzdnkevo3p</guid>
+      <category>Society</category>
+      <description>11월 3주 (2026). 💌 뉴스레터 157호 📝어느덧 11월의 중순, 오늘은 대학수학능력시험이 치러지는 날입니다. 오랜 시간 시험을 준비해 온 수험생들 뿐 아니라 각자의 자리에서 자신만의 길을 걸어가고</description>
     </item>
     <item>
-      <title>[Knowledge][잉플] 📨 잉플 일상영어 Vol.157 - 도서관 책 대출 기간 연장하기</title>
-      <link>https://maily.so/engple/posts/wjzdnv9vo3p</link>
-      <guid>https://maily.so/engple/posts/wjzdnv9vo3p</guid>
-      <category>Knowledge</category>
-      <description>아직 반밖에 못 읽었는데, 일주일 더 빌릴 수 있을까요? 📚. 안녕하세요, 잉플 일상영어입니다! 😊 빌린 책의 반납일이 다가왔는데 아직 다 읽지 못한 적 있나요? 오늘은 도서관에서 읽은 분량을 말하고, 대출 기간을 연장할 수 있는지 물어보는</description>
+      <title>[Society][VF레터] 11월 3호 베프레터</title>
+      <link>https://maily.so/veryfront/posts/92zenq9pzep</link>
+      <guid>https://maily.so/veryfront/posts/92zenq9pzep</guid>
+      <category>Society</category>
+      <description>AI 부정행위와 공정한 시험, 박주민 의원의 평등법 발의, 한화오션 노동자 투쟁. 이번 레터 NEWS LIST 1️⃣ [깊게읽기] AI 부정행위 사태, 무엇을 위한 시험인가 2️⃣ [뉴스클립] 민주당 박주민 의원의 평등법 발의, 후퇴를 막으려면 3️⃣ [이 주의</description>
+    </item>
+    <item>
+      <title>[Society][국가과학기술인력개발원 뉴스레터] [Q레이션 레터 #6] &quot;AI 기초 교육 다음엔 무엇을 가르칠까?&quot; 기획, 운영, 설계에서 한 걸음 더 🔎</title>
+      <link>https://maily.so/kirdedu.newsletter/posts/8mo5m8ynz9p</link>
+      <guid>https://maily.so/kirdedu.newsletter/posts/8mo5m8ynz9p</guid>
+      <category>Society</category>
+      <description>본 메일은 국가과학기술인력개발원(KIRD)이 발행하는 미래형 교수학습 동향 브리프 구독자와 알파캠퍼스 강사 회원 가운데 수신에 동의하신 분께 발송되었습니다. 2026.11.19 |</description>
+    </item>
+    <item>
+      <title>[Society][틈] 66호: 이 책 한번 잡솨봐 - 9월~10월의 신간 소개</title>
+      <link>https://maily.so/secularsaints/posts/2nznjnxmrp5</link>
+      <guid>https://maily.so/secularsaints/posts/2nznjnxmrp5</guid>
+      <category>Society</category>
+      <description>『기도가 말씀을 만날 때』  외 16권. 안녕하세요, 틈의 신간 모니터링 요원 박현철입니다. 약속을 제대로 못지키고 10월 소개글을 건너뛰고 11월 소개글도 한참을 늦었네요. 이런저런 핑계는 유구무언. 두 달 치 신간을</description>
     </item>
     <item>
       <title>[Society][기록과 사회] 이처럼 뜨겁고 우릿한 기록이라니!</title>
@@ -1402,48 +1444,6 @@
       <guid>https://maily.so/archivenews/posts/w6ovxxl7zk5</guid>
       <category>Society</category>
       <description>제18회 전국기록인대회 증평기록관 세션 「What Now, Archivists?」 후기. 11월 7일 토요일 오후, 전북대학교 인문사회관 201호. 제18회 전국기록인대회에서 증평기록관이 준비한 세션 「What Now, Archivists? – 증평에서 경계를 묻다」가</description>
-    </item>
-    <item>
-      <title>[Society][하리 한 조각] Vol. 26 감사하리 !</title>
-      <link>https://maily.so/onepeaceofhari/posts/2nznjj3erp5</link>
-      <guid>https://maily.so/onepeaceofhari/posts/2nznjj3erp5</guid>
-      <category>Society</category>
-      <description>곁의 온기와 멀리서 온 마음을 품에 안으며. &quot;Parabéns a você!&quot;(당신의 생일을 축하합니다!) 경쾌하면서도 정겨운 포르투갈어 생일 노래가 귓가에 울려 퍼지던 날, 저는 동티모르 딜리의 따스한 바람 속에서 스물다섯</description>
-    </item>
-    <item>
-      <title>[Society][기록과 사회] 2026년 제18회 전국기록인대회 참가 후기(정리)</title>
-      <link>https://maily.so/archivenews/posts/l1zq1yyer5x</link>
-      <guid>https://maily.so/archivenews/posts/l1zq1yyer5x</guid>
-      <category>Society</category>
-      <description>제18회 기록인대회가 11월 6일-7일 양일에 걸쳐 전북대학교 전주캠퍼스에서 열렸습니다. 전국에서 활동하는 기록인들이 만나 각자의 이야기를 나누는 뜻깊은 시간이었습니다. 여러분 모</description>
-    </item>
-    <item>
-      <title>[Society][피스모모] [참여안내] 즐거운 회원연말모임에 초대합니다!</title>
-      <link>https://maily.so/peacemomo/posts/8do7ppveogq</link>
-      <guid>https://maily.so/peacemomo/posts/8do7ppveogq</guid>
-      <category>Society</category>
-      <description>12월 18일(금) 저녁 7:00–9:00에 커먼스퀘어에서 만나요!. 안녕하세요, 피스모모입니다. 기온이 뚝 떨어지며 서로의 한 해를 돌아보고 감사의 마음을 나누는 계절이 다가왔어요. 오는 12월 18일(금) 저녁 7시부터 9시까지, 피스모모 회원들</description>
-    </item>
-    <item>
-      <title>[Society][제철트렌드식탁] Vol.20 [오래된 이야기를 새롭게 꺼내는 법]</title>
-      <link>https://maily.so/trendtable/posts/mjz6vkelowk</link>
-      <guid>https://maily.so/trendtable/posts/mjz6vkelowk</guid>
-      <category>Society</category>
-      <description>처음 기부하던 날, 기억나세요? 아름다운재단 '알음알음클럽' 이야기 🍊. 안녕하세요, 기획자님! 🍊 11월도 어느새 중순이에요. 연말 캠페인 준비로 바쁜 한 주 보내고 계시죠? '이주의 재료'에는 화장품 업계 캐릭터 협업 경쟁, 23개 비영리단체가 함께</description>
-    </item>
-    <item>
-      <title>[Society][theESG.ONL] 약속에 숫자를 채울 차례예요🌏</title>
-      <link>https://maily.so/theesg.onl/posts/2qzpeexxo4x</link>
-      <guid>https://maily.so/theesg.onl/posts/2qzpeexxo4x</guid>
-      <category>Society</category>
-      <description>theESG.ONL 레터 5호. 안탈리아에 남겨진 두 개의 빈칸 지난 9일, 튀르키예 안탈리아에서 제31차 유엔기후변화협약 당사국총회(COP31)가 시작됐어요. 20일까지 이어지는 이번 총회의 과제는 새 목표를</description>
-    </item>
-    <item>
-      <title>[Society][기록과 사회] 지난주('26.11.09.~11.13.)의 '기록과 사회'</title>
-      <link>https://maily.so/archivenews/posts/vpzlkng2rk9</link>
-      <guid>https://maily.so/archivenews/posts/vpzlkng2rk9</guid>
-      <category>Society</category>
-      <description>대통령지정기록물 열람 요건 완화, 대통령의 '여전한' SNS 사랑은 (대통령)기록관리에 어떤 자국을 남길까요. 소셜미디어 계정 분리 요구에도 불구하고 여전히 청와대 웹사이트에 연결</description>
     </item>
   </channel>
 </rss>
